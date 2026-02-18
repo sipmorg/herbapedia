@@ -19,7 +19,7 @@ export default defineConfig({
   ssgOptions: {
     script: 'async',
     formatting: 'minify',
-    format: 'dir',
+    dirStyle: 'nested',
     crittersOptions: {
       reduceInlineStyles: false
     },
