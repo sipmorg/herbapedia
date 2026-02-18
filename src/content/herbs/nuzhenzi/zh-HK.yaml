@@ -1,0 +1,25 @@
+# 女貞子
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%a5%b3%e8%b2%9e%e5%ad%90/
+# Language: zh-HK
+
+id: "nuzhenzi"
+slug: "nuzhenzi"
+category: "chinese-herbs"
+title: "女貞子"
+scientific_name: "Ligustrum lucidum"
+image: "images/nuzhenzi.jpg"
+
+history: |
+  始載於《神農本草經》，列為上品
+
+introduction: |
+  木犀科植物女貞的乾燥成熟果實
+
+traditional_usage: |
+  女貞子味甘、苦，藥性涼，歸於肝、腎藥，傳統認為能補肝腎之陰、烏鬚明目，常用於肝腎陰虛所致的鬚髮早白、目暗不明、腰酸耳鳴、陰虛發熱等，常與墨旱蓮同用，因藥力平和，須緩慢取效。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%a5%b3%e8%b2%9e%e5%ad%90/"
+  scraped_at: "2026-02-18T09:17:46.555Z"
+  language: "zh-HK"

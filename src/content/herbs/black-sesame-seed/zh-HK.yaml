@@ -1,0 +1,22 @@
+# 巨勝子
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%b7%a8%e5%8b%9d%e5%ad%90/
+# Language: zh-HK
+
+id: "black-sesame-seed"
+slug: "black-sesame-seed"
+category: "chinese-herbs"
+title: "巨勝子"
+scientific_name: "Sesami Nigram"
+image: "images/black-sesame-seed.jpg"
+
+introduction: |
+  川續斷科植物拉毛果的亁燥成熟果實
+
+traditional_usage: |
+  巨勝子為傳統的補腎藥，味甘而藥性平和，歸肝、腎經，能補肝腎、強筋骨，改善筋骨酸痛等問題，亦能潤腸，改善腸燥便秘。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%b7%a8%e5%8b%9d%e5%ad%90/"
+  scraped_at: "2026-02-18T09:17:51.495Z"
+  language: "zh-HK"

@@ -1,0 +1,22 @@
+# 天麻
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%a4%a9%e9%ba%bb/
+# Language: zh-HK
+
+id: "tianma"
+slug: "tianma"
+category: "chinese-herbs"
+title: "天麻"
+scientific_name: "Gastrodia elatae"
+image: "images/tianma.jpg"
+
+introduction: |
+  與蜜環菌共生的蘭科植物天麻的塊莖。古名為赤箭。天麻必須與密環菌共生，其生長過程中與此真菌結成密切的營養關係。
+
+traditional_usage: |
+  天麻是平息肝風的要藥，味甘而藥性平和，歸肝經，能息風止痙、平抑肝陽、袪風通絡，用於肝風內動引起的抽搐、頭暈、頭痛等，因有通經絡作用，亦可用於風濕痺痛。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%a4%a9%e9%ba%bb/"
+  scraped_at: "2026-02-18T09:17:45.740Z"
+  language: "zh-HK"

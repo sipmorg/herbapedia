@@ -1,0 +1,22 @@
+# 山茱萸
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%b1%b1%e8%8c%b1%e8%90%b8-2/
+# Language: zh-CN
+
+id: "shanzhuyu"
+slug: "shanzhuyu"
+category: "chinese-herbs"
+title: "山茱萸"
+scientific_name: "Corus officinalis"
+image: "images/shanzhuyu.jpg"
+
+introduction: |
+  山茱萸科植物山茱萸的成熟果肉
+
+traditional_usage: |
+  山茱萸味道酸涩，药性微温，归肝、肾经，能补益肝肾，收敛固涩，用于治疗肝肾亏虚导致的头晕目眩、潮热冒汗、腰膝酸软、性功能下降、小便不利等，亦用于消渴病。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%b1%b1%e8%8c%b1%e8%90%b8-2/"
+  scraped_at: "2026-02-18T09:20:44.974Z"
+  language: "zh-CN"

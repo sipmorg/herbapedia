@@ -1,0 +1,22 @@
+# 蒟蒻
+# Source: https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e8%92%9f%e8%92%bb-2/
+# Language: zh-CN
+
+id: "konjac-jelly"
+slug: "konjac-jelly"
+category: "western-herbs"
+title: "蒟蒻"
+scientific_name: "Amorphophallus konjac"
+image: "images/konjac-jelly.jpg"
+
+introduction: |
+  天南星科植物蒟蒻芋的地下块茎
+
+traditional_usage: |
+  蒟蒻是常见的食品，具化痰散结、行瘀消肿的功效。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e8%92%9f%e8%92%bb-2/"
+  scraped_at: "2026-02-18T09:22:10.273Z"
+  language: "zh-CN"

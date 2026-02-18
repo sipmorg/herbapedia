@@ -1,0 +1,21 @@
+# 蜂王漿
+# Source: https://www.vitaherbapedia.com/zh/shop/westherbs/蜂王漿/
+# Language: zh-HK
+
+id: "royal-jelly"
+slug: "royal-jelly"
+category: "western-herbs"
+title: "蜂王漿"
+image: "images/royal-jelly.jpg"
+
+introduction: |
+  蜂皇漿是蜜蜂餵養幼蟲的分泌物。
+
+traditional_usage: |
+  蜂王漿含有豐富營養，包括礦物質、維他命 B、蛋白質及必需胺基酸，有助抗氧化及抗疲勞，更可用作紓緩過敏症狀，但對蜜糖及蜜蜂敏感人士不宜服用。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/westherbs/蜂王漿/"
+  scraped_at: "2026-02-18T09:36:09.143Z"
+  language: "zh-HK"

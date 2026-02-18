@@ -1,0 +1,25 @@
+# 菟絲子
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e8%8f%9f%e7%b5%b2%e5%ad%90/
+# Language: zh-HK
+
+id: "tusizi"
+slug: "tusizi"
+category: "chinese-herbs"
+title: "菟絲子"
+scientific_name: "Cuscuta chinensis Lam"
+image: "images/tusizi.jpg"
+
+history: |
+  始載於《神農本草經》，列為上品
+
+introduction: |
+  旋花科植物菟絲子的成熟種子
+
+traditional_usage: |
+  菟絲子是一味溫和的補陽藥，其味甘而性溫，歸肝、腎、脾經，能補腎固精、養肝明目、補脾止瀉、安胎。主治由肝腎不足引起的腰痛、尿頻、白帶過多、視力下降、胎動不安等等，此外，還能治腎虛消渴，酒浸外用對白癜風亦有一定療效。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e8%8f%9f%e7%b5%b2%e5%ad%90/"
+  scraped_at: "2026-02-18T09:18:29.937Z"
+  language: "zh-HK"

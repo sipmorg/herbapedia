@@ -1,0 +1,25 @@
+# 陈皮
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e9%99%88%e7%9a%ae/
+# Language: zh-CN
+
+id: "tangerine-peel"
+slug: "tangerine-peel"
+category: "chinese-herbs"
+title: "陈皮"
+scientific_name: "Citrus Reticulate Blanco"
+image: "images/tangerine-peel.jpg"
+
+history: |
+  始载於《神农本草经》，列为上品
+
+introduction: |
+  芸香科植物常绿乔木柑橘成熟果实之果皮
+
+traditional_usage: |
+  陈皮是理气药，亦称为橘皮，其味辛而苦，药性温，归入脾、肺经，能理气健脾、燥湿化痰，常用於脾胃气滞、脘腹胀闷、噁心呕吐、脾虚泄泻、咳嗽寒痰等。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e9%99%88%e7%9a%ae/"
+  scraped_at: "2026-02-18T09:21:40.789Z"
+  language: "zh-CN"

@@ -1,0 +1,22 @@
+# 小麥
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%b0%8f%e9%ba%a5/
+# Language: zh-HK
+
+id: "wheat"
+slug: "wheat"
+category: "chinese-herbs"
+title: "小麥"
+scientific_name: "Triticum aestivum"
+image: "images/wheat.jpg"
+
+introduction: |
+  禾本科植物小麥的成熟穎果
+
+traditional_usage: |
+  小麥味甘，藥性微寒，而未成熟的穎果稱為浮小麥，藥性較涼，具清熱作用。小麥歸心經，能斂汗、益氣、除熱，常用於自汗、盜汗或臟躁情緒不安等情況。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%b0%8f%e9%ba%a5/"
+  scraped_at: "2026-02-18T09:17:48.223Z"
+  language: "zh-HK"

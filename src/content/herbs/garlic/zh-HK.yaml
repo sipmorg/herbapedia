@@ -1,5 +1,5 @@
 # 大蒜
-# Source: https://www.vitaherbapedia.com/zh/shop/westherbs/%e5%a4%a7%e8%92%9c/
+# Source: https://www.vitaherbapedia.com/zh/shop/westherbs/大蒜/
 # Language: zh-HK
 
 id: "garlic"
@@ -9,17 +9,17 @@ title: "大蒜"
 scientific_name: "Allium sativum L."
 image: "images/garlic.jpg"
 
+history: |
+  在美國和西歐，大蒜是其中一種最受歡迎的物質，能減低與心臟疾病有關的不同風險。
+
 introduction: |
   大蒜由新鮮或製乾的大蒜球莖(主球莖及次球莖或小鱗莖)製成。
 
 traditional_usage: |
   進食大蒜能促進心臟健康，亦能減少血液中血糖水平。大蒜能抗氧化、抗微生物和對抗頑疾，同時能幫助控制鎌刀型貧血症。大蒜亦能降低膽固醇和三酸甘油脂，幫助阻止脂肪粒在血液中的形成和促進血壓健康。
 
-歷史: |
-  在美國和西歐，大蒜是其中一種最受歡迎的物質，能減低與心臟疾病有關的不同風險。
-
 metadata:
   source: "vitaherbapedia.com"
-  source_url: "https://www.vitaherbapedia.com/zh/shop/westherbs/%e5%a4%a7%e8%92%9c/"
-  scraped_at: "2026-02-18T04:55:51.483Z"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/westherbs/大蒜/"
+  scraped_at: "2026-02-18T09:54:04.401Z"
   language: "zh-HK"

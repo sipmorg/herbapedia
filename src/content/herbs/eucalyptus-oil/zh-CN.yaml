@@ -1,0 +1,25 @@
+# 尤加利精油
+# Source: https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e5%b0%a4%e5%8a%a0%e5%88%a9%e7%b2%be%e6%b2%b9-2/
+# Language: zh-CN
+
+id: "eucalyptus-oil"
+slug: "eucalyptus-oil"
+category: "western-herbs"
+title: "尤加利精油"
+scientific_name: "Eucalyptus globulus"
+image: "images/eucalyptus-oil.jpg"
+
+history: |
+  尤加利精油起源於澳洲Blue-gum树,其能消毒的性质被土著居民用作治理伤口。尤加利精油於欧洲200年来也大受欢迎。
+
+introduction: |
+  尤加利精油提取自桉树的树叶和嫩枝。
+
+traditional_usage: |
+  尤加利精油经常被用於舒缓呼吸道的问题。外用方面, 其防腐防臭的特质适用於已化脓的伤口和治理溃疡。 被稀释後的尤加利精油, 可适用於冻疮或作按摩油或消毒漱口剂。 尤加利精油的香气能保持头脑清晰和精神集中。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e5%b0%a4%e5%8a%a0%e5%88%a9%e7%b2%be%e6%b2%b9-2/"
+  scraped_at: "2026-02-18T09:21:56.792Z"
+  language: "zh-CN"

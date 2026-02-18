@@ -2,21 +2,19 @@
 # Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e6%b7%b1%e6%b5%b7%e6%b5%b7%e8%97%bb/
 # Language: zh-HK
 
-id: "algae"
-slug: "algae"
-category: "chinese-herbs"
-title: "深海海藻"
-scientific_name: "Sargassum fusiforme (Harv.) Setch."
-image: "images/algae.jpg"
-
+id: algae
+slug: algae
+category: chinese-herbs
+title: 深海海藻
+scientific_name: Sargassum fusiforme (Harv.) Setch.
+image: images/algae.jpg
 introduction: |
   深海海藻採集自名為Sargassum pallidum(Turn.) C.Ag 及 Sargassum fusiforme (Harv.) Setch. 的海草。
-
 traditional_usage: |
   深海海藻傳統上用作治療與疝氣紊亂相關的疼痛。深海海藻亦有助清熱和減少 喉嚨分泌物，暢通小便和減濕氣。
-
 metadata:
-  source: "vitaherbapedia.com"
-  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e6%b7%b1%e6%b5%b7%e6%b5%b7%e8%97%bb/"
-  scraped_at: "2026-02-18T04:54:50.590Z"
-  language: "zh-HK"
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e6%b7%b1%e6%b5%b7%e6%b5%b7%e8%97%bb/
+  scraped_at: "2026-02-18T09:18:01.693Z"
+  language: zh-HK
+modern_usage: 藻酸鹽可於海藻中發現，當中蘊含豐富的礦物質和微量元素，可幫助滋潤肌膚，同時能加速身體循環和排毒功能，讓肌膚時刻保持緊緻。因此，藻酸鹽亦為為美容界所廣泛應用，是美容產品的重要成份。

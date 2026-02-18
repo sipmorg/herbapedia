@@ -1,0 +1,25 @@
+# 女贞子
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%a5%b3%e8%b4%9e%e5%ad%90/
+# Language: zh-CN
+
+id: "nuzhenzi"
+slug: "nuzhenzi"
+category: "chinese-herbs"
+title: "女贞子"
+scientific_name: "Ligustrum lucidum"
+image: "images/nuzhenzi.jpg"
+
+history: |
+  始载於《神农本草经》，列为上品
+
+introduction: |
+  木犀科植物女贞的乾燥成熟果实
+
+traditional_usage: |
+  女贞子味甘、苦，药性凉，归于肝、肾药，传统认为能补肝肾之阴、乌须明目，常用于肝肾阴虚所致的须发早白、目暗不明、腰酸耳鸣、阴虚发热等，常与墨旱莲同用，因药力平和，须缓慢取效。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%a5%b3%e8%b4%9e%e5%ad%90/"
+  scraped_at: "2026-02-18T09:20:41.544Z"
+  language: "zh-CN"

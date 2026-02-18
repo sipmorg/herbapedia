@@ -1,0 +1,25 @@
+# 維他命B3 又名菸酸
+# Source: https://www.vitaherbapedia.com/zh/shop/vitamins/%e7%b6%ad%e4%bb%96%e5%91%bdb3-%e5%8f%88%e5%90%8d%e8%8f%b8%e9%85%b8/
+# Language: zh-HK
+
+id: "vitamin-b3-niacin"
+slug: "vitamin-b3-niacin"
+category: "vitamins"
+title: "維他命B3 又名菸酸"
+scientific_name: "Nicotinic Acid"
+image: "images/vitamin-b3-niacin.jpg"
+
+introduction: |
+  每日需求 男仕每日16毫克，女仕:每日14毫克 維他命 B3的來源 肝臟、腎、瘦肉、家禽、魚、含豐富穀類產品、堅果、花生醬、奶和乳酪都含有菸酸。合成煙草酸及菸鹼酸皆可用作補充劑成份。煙草酸通常作製藥用，而菸鹼酸則用來加強食物營養。酵母─一種天然豐富的菸酸來源，也可作補充劑用。
+
+traditional_usage: |
+  菸酸又被稱為菸草酸。菸草酸能降低血液內的壞膽固醇水平，避免心臟問題。菸酸與其他維他命B能一起維持消化系統和神經系統正常運作，增加皮膚彈性。
+
+functions: |
+  又名菸草酸幫助碳水化合物和脂肪的新陳代謝，令身體從食物中獲得能量調節膽固醇維持皮膚、黏膜、舌頭、消化系統的健康
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/vitamins/%e7%b6%ad%e4%bb%96%e5%91%bdb3-%e5%8f%88%e5%90%8d%e8%8f%b8%e9%85%b8/"
+  scraped_at: "2026-02-18T09:19:40.944Z"
+  language: "zh-HK"

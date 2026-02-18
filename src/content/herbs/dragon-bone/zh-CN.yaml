@@ -1,0 +1,25 @@
+# 龙骨
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e9%be%99%e9%aa%a8/
+# Language: zh-CN
+
+id: "dragon-bone"
+slug: "dragon-bone"
+category: "chinese-herbs"
+title: "龙骨"
+scientific_name: "Draconis os"
+image: "images/dragon-bone.jpg"
+
+history: |
+  始载於《神农本草经》，列为上品
+
+introduction: |
+  古代哺乳动物骨骼的化石
+
+traditional_usage: |
+  龙骨是最常用的重镇安神中药，是古代多种大哺乳类动物的骨骼化石，药味甘、涩，药性平，归心、肝、肾经，能够镇惊安神、平肝潜阳、收敛固涩，用於心神不宁、心悸失眠、肝阳头晕、烦躁易怒等情况，常与牡蛎同用。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e9%be%99%e9%aa%a8/"
+  scraped_at: "2026-02-18T09:21:48.189Z"
+  language: "zh-CN"

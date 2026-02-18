@@ -1,22 +1,20 @@
-# 西洋蔘
-# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%a5%bf%e6%b4%8b%e8%94%98-2/
+# 人蔘
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e4%ba%ba%e8%94%98-2/
 # Language: zh-CN
 
-id: "ginseng"
-slug: "ginseng"
-category: "chinese-herbs"
-title: "西洋蔘"
-scientific_name: "Panax quinquefolium"
-image: "images/ginseng.jpg"
-
+id: ginseng
+slug: ginseng
+category: chinese-herbs
+title: 人蔘
+scientific_name: Panax Ginseng C. A. Mey
+image: images/ginseng.jpg
 introduction: |
-  五加科植物西洋蔘的根，野生产於美国及加拿大，法国及本国产为培植品种。
-
+  五加科植物人蔘的根。野生人蔘多生於以红松为主的针阔叶混交林或杂木林中，分佈於长白山、小兴安岭东南部。野生人蔘采挖时间一般在7月下旬至9月间，因为这时果实成熟呈红色，比较容易被人发现。野生人蔘多数用生曬的方法，把人蔘洗刷洁净後，先用硫磺熏，再在阳光下曝晒。反覆四五次，最後以炭火缓缓烘乾。
 traditional_usage: |
-  西洋蔘是补气药，味甘、微苦，药性寒，归心、肺、肾经，能补气养阴，清热生津，常用於热病气阴两伤，烦倦、口渴等症状，常与生地黄、麦冬等同用。
-
+  人蔘是最常用的补气药，市面上分为多种规格：野生者称为「山蔘」， 栽培者称为「园蔘」，鲜蔘洗净后干燥者称为「生晒蔘」，蒸制后干燥者称为「红蔘」，灼烫浸糖后干燥者称为「糖蔘」或「白蔘」，加工断下的细根称为「蔘须」。人蔘药味甘、微苦，药性微温，归心、肺、脾经，主要功能是大补元气，尤其善于补肺补脾，能有助改善气虚引起的疲乏无力、少气喘促、自汗等症状，同时亦能生津、安神，可用于心悸等症状。
 metadata:
-  source: "vitaherbapedia.com"
-  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%a5%bf%e6%b4%8b%e8%94%98-2/"
-  scraped_at: "2026-02-18T04:58:12.067Z"
-  language: "zh-CN"
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e4%ba%ba%e8%94%98-2/
+  scraped_at: "2026-02-18T09:20:30.638Z"
+  language: zh-CN
+modern_usage: 人蔘含有多种人蔘皂，研究显示有助稳定血糖，其他研究显示人蔘能增加免疫功能，具抗疲劳的功能，人蔘的药理活性常因机体机能状态不同呈双向作用。实验研究，人蔘对实验性糖尿病狗有降低血糖作用，其一般症状得以改善，对肾上腺素或高渗葡萄糖引起的高血糖有抑制作用，既能降低饮食性高血糖，又能升高胰岛素引起的低血糖。在研究人蔘多肽的降血糖作用中发现，大鼠和小鼠静脉或皮下给药能降低正常血糖和肝糖原，对总血脂无明显影响；对肾上腺素、四氧嘧啶及葡萄糖引起的高血糖有抑制作用，并能增强肾上腺素对肝糖原的分解。

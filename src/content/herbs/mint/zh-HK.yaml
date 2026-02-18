@@ -1,0 +1,19 @@
+# 薄荷
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e8%96%84%e8%8d%b7/
+# Language: zh-HK
+
+id: "mint"
+slug: "mint"
+category: "chinese-herbs"
+title: "薄荷"
+scientific_name: "Mentha haplocalyx"
+image: "images/mint.jpg"
+
+traditional_usage: |
+  薄荷是發散風熱藥，味辛，藥性涼，歸肺、肝經，能疏散風熱、清利頭目、利咽、疏肝解鬱、透疹，常用於風熱感冒、頭痛、咽痛。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e8%96%84%e8%8d%b7/"
+  scraped_at: "2026-02-18T09:18:31.646Z"
+  language: "zh-HK"

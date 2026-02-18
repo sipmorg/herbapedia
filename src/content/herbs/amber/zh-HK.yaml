@@ -2,21 +2,19 @@
 # Source: https://www.vitaherbapedia.com/zh/shop/westherbs/%e7%90%a5%e7%8f%80/
 # Language: zh-HK
 
-id: "amber"
-slug: "amber"
-category: "western-herbs"
-title: "琥珀"
-scientific_name: "Succinum"
-image: "images/amber.jpg"
-
+id: amber
+slug: amber
+category: western-herbs
+title: 琥珀
+scientific_name: Succinum
+image: images/amber.jpg
 introduction: |
   琥珀多出現於陳腐的樹脂或樹坑道。
-
 traditional_usage: |
   琥珀是樹脂或樹汁液演變的化石。世界上大部分琥珀已有三千至九千萬年歷史。維特健靈選用波羅的海琥珀 - Succinum, 其化學物 succinic acid，傳統用作紓緩關節疼痛。琥珀除了擁有如寶石的外表，其藥效價值亦早被肯定。琥珀能安神定驚、使精神平靜，促進血液循環，有助改善月經不調、減淡紅印和促進痊癒。
-
 metadata:
-  source: "vitaherbapedia.com"
-  source_url: "https://www.vitaherbapedia.com/zh/shop/westherbs/%e7%90%a5%e7%8f%80/"
-  scraped_at: "2026-02-18T04:55:56.368Z"
-  language: "zh-HK"
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/zh/shop/westherbs/%e7%90%a5%e7%8f%80/
+  scraped_at: "2026-02-18T09:19:10.148Z"
+  language: zh-HK
+modern_usage: 波羅的海琥珀在現代美容護理上多用作煥發肌膚生氣的主要成份，如維特健靈旗下的護膚品牌「OS-21」。波羅的海琥珀有助調節肌膚顏色，減少皺紋和疲勞。

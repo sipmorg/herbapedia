@@ -1,0 +1,19 @@
+# 石斛
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%9f%b3%e6%96%9b/
+# Language: zh-HK
+
+id: "shihu"
+slug: "shihu"
+category: "chinese-herbs"
+title: "石斛"
+scientific_name: "Dendrobium nobile Lindl."
+image: "images/shihu.jpg"
+
+traditional_usage: |
+  石斛味甘而藥性微寒，歸肝、腎、胃經，能補腎、養肝明目、養陰清熱、益胃生津，主治陰虛、肝火或津虧導致的口燥咽乾、視力減退等。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%9f%b3%e6%96%9b/"
+  scraped_at: "2026-02-18T09:18:16.861Z"
+  language: "zh-HK"

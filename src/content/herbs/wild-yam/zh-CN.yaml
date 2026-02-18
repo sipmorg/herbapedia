@@ -1,22 +1,20 @@
-# 蒟蒻
-# Source: https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e8%92%9f%e8%92%bb-2/
+# 野山芋
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e9%87%8e%e5%b1%b1%e8%8a%8b-2/
 # Language: zh-CN
 
-id: "wild-yam"
-slug: "wild-yam"
-category: "western-herbs"
-title: "蒟蒻"
-scientific_name: "Amorphophallus konjac"
-image: "images/wild-yam.jpg"
-
-introduction: |
-  天南星科植物蒟蒻芋的地下块茎
-
+id: wild-yam
+slug: wild-yam
+category: chinese-herbs
+title: 野山芋
+scientific_name: Dioscorea Villosa
+image: images/wild-yam.jpg
+history: |
+  在18、19世纪，草本植物学家以野生芋治疗女性疾病包括经痛和分娩痛楚。而美国人最初以野生芋治疗腹绞痛，而至後来野生芋更被广泛应用到治疗其他疾病如：发炎或呼吸困难等。
 traditional_usage: |
-  蒟蒻是常见的食品，具化痰散结、行瘀消肿的功效。
-
+  野山芋的块茎蕴含高浓度的 diosgenin，这种类似类固醇的物质多用作製药，可提升新陈代谢，同时保护肌肤免受游离基的伤害。
 metadata:
-  source: "vitaherbapedia.com"
-  source_url: "https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e8%92%9f%e8%92%bb-2/"
-  scraped_at: "2026-02-18T04:58:50.961Z"
-  language: "zh-CN"
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e9%87%8e%e5%b1%b1%e8%8a%8b-2/
+  scraped_at: "2026-02-18T09:21:33.819Z"
+  language: zh-CN
+modern_usage: 由于所蕴含的diosgenin经实验证明可产生荷尔蒙黄体酮，故此它亦被用作生产荷尔蒙和应用于避孕丸。

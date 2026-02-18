@@ -1,0 +1,19 @@
+# 艾叶
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%89%be%e5%8f%b6/
+# Language: zh-CN
+
+id: "chinese-mugwort-leaf"
+slug: "chinese-mugwort-leaf"
+category: "chinese-herbs"
+title: "艾叶"
+scientific_name: "Artemisiae Argyi"
+image: "images/chinese-mugwort-leaf.jpg"
+
+traditional_usage: |
+  艾叶味苦、辛，药性温，归肝、脾、肾经，内服可温宫散寒、止痛，常用於因阳虚导致的经痛，亦常应用於艾灸之中，有助於促进气血运行、温经止痛，适用於各种因气血不通而致的症状。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%89%be%e5%8f%b6/"
+  scraped_at: "2026-02-18T09:21:18.093Z"
+  language: "zh-CN"

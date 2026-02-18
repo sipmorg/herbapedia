@@ -1,0 +1,22 @@
+# 絞股藍
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%b5%9e%e8%82%a1%e8%97%8d/
+# Language: zh-HK
+
+id: "jiaogulan"
+slug: "jiaogulan"
+category: "chinese-herbs"
+title: "絞股藍"
+scientific_name: "Gynostemma pentaphyllum"
+image: "images/jiaogulan.jpg"
+
+introduction: |
+  葫蘆科植物絞股藍的根狀莖或全草
+
+traditional_usage: |
+  本品味甘、苦，性涼，歸肺、脾、腎經，能清熱生津、並有潤腸功效。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%b5%9e%e8%82%a1%e8%97%8d/"
+  scraped_at: "2026-02-18T09:18:21.967Z"
+  language: "zh-HK"

@@ -1,0 +1,20 @@
+# 大青叶
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%a4%a7%e9%9d%92%e5%8f%b6/
+# Language: zh-CN
+
+id: woad-or-glastum
+slug: woad-or-glastum
+category: chinese-herbs
+title: 大青叶
+scientific_name: Isatis tinctoria
+image: images/woad-or-glastum.jpg
+introduction: |
+  十字花科二年生草本植物菘蓝的叶片
+traditional_usage: |
+  大青叶是传统的清热解毒药，味苦、咸，药性大寒，能清热解毒、凉血消斑，归心、肺、胃经，常用于清心胃二经实火，又善解瘟疫时毒所致的热性外感。大青叶植物中的靛蓝色天然色素可提炼另一清热解毒中药青黛，功效类似。
+metadata:
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%a4%a7%e9%9d%92%e5%8f%b6/
+  scraped_at: "2026-02-18T09:20:38.221Z"
+  language: zh-CN
+modern_usage: 近年研究实验发现本品有抗菌、抗病毒、解热、抗炎等作用

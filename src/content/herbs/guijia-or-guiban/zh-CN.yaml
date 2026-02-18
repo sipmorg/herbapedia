@@ -1,0 +1,25 @@
+# 龟板
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e9%be%9f%e6%9d%bf/
+# Language: zh-CN
+
+id: "guijia-or-guiban"
+slug: "guijia-or-guiban"
+category: "chinese-herbs"
+title: "龟板"
+scientific_name: "Carapace and plastrum of Chinemys reevesii"
+image: "images/guijia-or-guiban.jpg"
+
+history: |
+  始载於《神农本草经》，列为上品。
+
+introduction: |
+  龟科动物乌龟的甲壳 (主要为腹甲) ，又称龟甲。
+
+traditional_usage: |
+  龟板又称龟甲，是一味补阴药材，药味甘、咸，药性寒，归属肝、肾、心经，功效是滋阴潜阳、益肾健骨、固经止血、养血补心，主要用於肾虚所致的骨痿、腰酸、月经过多、崩漏等，亦会用於阴虚动风症，如头晕、耳声嘈杂、盗汗等症状。《本草纲目》言：「其甲以补心、补肾、补血，皆以养阴也。」
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e9%be%9f%e6%9d%bf/"
+  scraped_at: "2026-02-18T09:21:49.078Z"
+  language: "zh-CN"

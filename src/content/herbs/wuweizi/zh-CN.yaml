@@ -1,0 +1,20 @@
+# 五味子
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e4%ba%94%e5%91%b3%e5%ad%90-2/
+# Language: zh-CN
+
+id: wuweizi
+slug: wuweizi
+category: chinese-herbs
+title: 五味子
+scientific_name: Schisandra chinensis
+image: images/wuweizi.jpg
+introduction: |
+  木兰科植物五味子的成熟果实
+traditional_usage: |
+  五味子是常用的收敛药，味酸而甘，药性微温，归肺、心、肾经，能敛肺滋肾、生津敛汗、涩精止泻、宁心安神，常用症状包括津伤口渴、自汗、盗汗、滑精、心悸、失眠、多梦、肺虚久咳等。
+metadata:
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e4%ba%94%e5%91%b3%e5%ad%90-2/
+  scraped_at: "2026-02-18T09:20:29.818Z"
+  language: zh-CN
+modern_usage: 五味子种子挥发油中的主要成份为五味子素，能稳定血压、利胆，并对肝细胞有保护作用，可用于血清转氨增高的情况。

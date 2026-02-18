@@ -1,0 +1,22 @@
+# 维他命 B5 又名泛酸
+# Source: https://www.vitaherbapedia.com/cn/shop/vitamins-cn/%e7%bb%b4%e4%bb%96%e5%91%bd-b5-%e5%8f%88%e5%90%8d%e6%b3%9b%e9%85%b8/
+# Language: zh-CN
+
+id: "vitamin-b5"
+slug: "vitamin-b5"
+category: "vitamins"
+title: "维他命 B5 又名泛酸"
+scientific_name: "Pantothenic Acid"
+image: "images/vitamin-b5.jpg"
+
+introduction: |
+  泛酸可在肝、肾、小麦穀皮、米穀皮、坚果、蘑菇、鮭鱼、蓝色乳酪、蛋、糙米、龙虾和向日葵种子中找到。虽然酵母含有丰富泛酸，但食物补充剂广泛使用合成泛酸钙。
+
+traditional_usage: |
+  维他命B5又名泛酸，是辅酶A(CoA)及酰基载体蛋白(acyl carrier protein, ACP)的组成部分。CoA 帮助传送神经脉衝，製造荷尔蒙和血红蛋白，血红蛋白是血液红细胞的主要成分。CoA 也有助控制血糖和製造抗体。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/vitamins-cn/%e7%bb%b4%e4%bb%96%e5%91%bd-b5-%e5%8f%88%e5%90%8d%e6%b3%9b%e9%85%b8/"
+  scraped_at: "2026-02-18T09:22:24.612Z"
+  language: "zh-CN"

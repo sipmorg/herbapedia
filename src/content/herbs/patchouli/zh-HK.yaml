@@ -1,0 +1,20 @@
+# 藿香葉 又名廣藿香
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e8%97%bf%e9%a6%99%e8%91%89-%e5%8f%88%e5%90%8d%e5%bb%a3%e8%97%bf%e9%a6%99/
+# Language: zh-HK
+
+id: patchouli
+slug: patchouli
+category: chinese-herbs
+title: 藿香葉 又名廣藿香
+scientific_name: Pogostemon cablin
+image: images/patchouli.jpg
+introduction: |
+  唇形科植物廣藿香的地上部份
+traditional_usage: |
+  藿香屬於芳香化濕藥，藥味辛，藥性微溫，歸脾、胃、肺經，能化濕、解暑、止嘔，用於濕滯中焦引起的脘腹痞悶、食慾不振、噁心嘔吐，又能解表，用於外感濕邪的感冒，常與佩蘭等化濕藥同用。
+metadata:
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e8%97%bf%e9%a6%99%e8%91%89-%e5%8f%88%e5%90%8d%e5%bb%a3%e8%97%bf%e9%a6%99/
+  scraped_at: "2026-02-18T09:18:33.389Z"
+  language: zh-HK
+modern_usage: 有實驗顯示水煎劑有一定程度抗真菌、抗病毒等作用。

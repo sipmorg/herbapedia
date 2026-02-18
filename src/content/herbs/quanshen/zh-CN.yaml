@@ -1,0 +1,20 @@
+# 拳蔘
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e6%8b%b3%e8%94%98-2/
+# Language: zh-CN
+
+id: quanshen
+slug: quanshen
+category: chinese-herbs
+title: 拳蔘
+scientific_name: Polygonum Bistortae
+image: images/quanshen.jpg
+introduction: |
+  蓼科多年生草本植物拳蔘的根茎
+traditional_usage: |
+  拳参味苦，药性微寒，归肝、大肠两经，能清热解毒、镇肝熄风、凉血止痢。用于实热引起的痈肿瘰疬、热病抽搐、赤痢脓血、湿热泄泻等。外用可治疗口腔糜烂，咽喉溃疡。
+metadata:
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e6%8b%b3%e8%94%98-2/
+  scraped_at: "2026-02-18T09:20:49.276Z"
+  language: zh-CN
+modern_usage: 拳参体外试验对金黄色葡萄球菌、溶血性链球菌、脑膜炎双链球菌、痢疾桿菌、伤寒桿菌、副伤寒桿菌、大肠桿菌、绿脓桿菌、枯草桿菌有抑制作用。

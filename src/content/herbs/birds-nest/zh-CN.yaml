@@ -1,22 +1,22 @@
-# 燕窝
-# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%87%95%e7%aa%9d/
+# 燕窩
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs/燕窩/
 # Language: zh-CN
 
 id: "birds-nest"
 slug: "birds-nest"
 category: "chinese-herbs"
-title: "燕窝"
+title: "燕窩"
 scientific_name: "Swiftlet's Nest"
 image: "images/birds-nest.jpg"
 
 introduction: |
-  雨燕科动物金丝燕及多种同属燕类唾液或唾液与绒羽等混合凝结所筑成的巢窝，主产地为印度尼西亚、泰国、缅甸、中国海南岛等。
+  雨燕科動物金絲燕及多種同屬燕類唾液或唾液與絨羽等混合凝結所築成的巢窩，主產地為印尼、泰國、緬甸、中國海南島等。
 
 traditional_usage: |
-  燕窝属传统补虚食品，据《本草纲目》记载，燕窝「入肺主气、入肾滋水、入胃补脾、补而不燥」，「大养肺阴，化痰止嗽，补而能清，为调理虚劳之圣药」，燕窝味甘而药性平和，归肺、胃、肾经，能润肺止咳、补胃润燥，常用于肺虚久咳等不适、以及养颜润肤等。
+  燕窩屬傳統補虛食品，據《本草綱目》記載，燕窩「入肺主氣、入腎滋水、入胃補脾、補而不燥」，「大養肺陰，化痰止嗽，補而能清，為調理虛勞之聖藥」，燕窩味甘而藥性平和，歸肺、胃、腎經，能潤肺止咳、補胃潤燥，常用於肺虛久咳等不適、以及養顏潤膚等。
 
 metadata:
   source: "vitaherbapedia.com"
-  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%87%95%e7%aa%9d/"
-  scraped_at: "2026-02-18T04:57:46.180Z"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs/燕窩/"
+  scraped_at: "2026-02-18T09:36:01.371Z"
   language: "zh-CN"

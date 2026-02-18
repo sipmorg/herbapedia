@@ -1,0 +1,22 @@
+# 维他命 E
+# Source: https://www.vitaherbapedia.com/cn/shop/vitamins-cn/%e7%bb%b4%e4%bb%96%e5%91%bd-e/
+# Language: zh-CN
+
+id: vitamin-e
+slug: vitamin-e
+category: vitamins
+title: 维他命 E
+scientific_name: d-Alpha-tocopherol, d-Beta-tocopherol, d-Gamma-tocopherol, d-Delta-tocopherol; Tocopheryl acetate, Tocopheryl succinate
+image: images/vitamin-e.jpg
+introduction: |
+  每日需求 每天20IU，最高400IU 维他命 E的来源 维他命E多从植物油中找到（除了椰子油），还有紫花苜蓿籽，人造牛油，坚果（尤其是杏仁，巴西坚果，榛子，花生和薄壳胡桃，向日葵籽，芦笋，牛油果，牛肉，黑莓，牛油，鸡蛋，绿色多叶的蔬菜，燕麦和海鲜。
+traditional_usage: |
+  维他命E 是一种天然抗氧化剂，能保护身体细胞，对抗从不饱和脂肪酸形成的游离基。它是细胞呼吸不可或缺的元素，尤其是在心和骨骼肌肉组织上。天然的维他命E 比合成的更容易被吸收和更具有生物活性。Alpha-tocopherol 是生化活性最活跃的维他命E形式。
+functions: |
+  维持细胞正常，保持皮肤及各组织的健康 保护红血球 抗氧化功能 加强抵抗力 提高生育能力，预防流产
+metadata:
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/cn/shop/vitamins-cn/%e7%bb%b4%e4%bb%96%e5%91%bd-e/
+  scraped_at: "2026-02-18T09:22:29.832Z"
+  language: zh-CN
+modern_usage: 很多维他命E 针对长者慢性病的研究在测试中，包括老人癡呆症、斑点形成、骨关节问题，和前列变大等。维他命E的强力抗氧化能力或能帮助阻止部份顽疾发展。

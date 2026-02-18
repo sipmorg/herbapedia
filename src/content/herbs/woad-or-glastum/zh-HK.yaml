@@ -1,0 +1,20 @@
+# 大青葉
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%a4%a7%e9%9d%92%e8%91%89/
+# Language: zh-HK
+
+id: woad-or-glastum
+slug: woad-or-glastum
+category: chinese-herbs
+title: 大青葉
+scientific_name: Isatis tinctoria
+image: images/woad-or-glastum.jpg
+introduction: |
+  十字花科二年生草本植物菘藍的葉片
+traditional_usage: |
+  大青葉是傳統的清熱解毒藥，味苦、鹹，藥性大寒，能清熱解毒、涼血消斑，歸心、肺、胃經，常用於清心胃二經實火，又善解瘟疫時毒所致的熱性外感。大青葉植物中的靛藍色天然色素可提煉另一清熱解毒中藥青黛，功效類似。
+metadata:
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%a4%a7%e9%9d%92%e8%91%89/
+  scraped_at: "2026-02-18T09:17:43.267Z"
+  language: zh-HK
+modern_usage: 近年研究實驗發現本品有抗菌、抗病毒、解熱、抗炎等作用

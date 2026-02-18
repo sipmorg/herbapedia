@@ -2,21 +2,19 @@
 # Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e6%a1%83%e4%bb%81-2/
 # Language: zh-CN
 
-id: "taoren-or-peach-kernel"
-slug: "taoren-or-peach-kernel"
-category: "chinese-herbs"
-title: "桃仁"
-scientific_name: "Prunus persica (L.) Batsch"
-image: "images/taoren-or-peach-kernel.jpg"
-
+id: taoren-or-peach-kernel
+slug: taoren-or-peach-kernel
+category: chinese-herbs
+title: 桃仁
+scientific_name: Prunus persica (L.) Batsch
+image: images/taoren-or-peach-kernel.jpg
 introduction: |
   桃仁是法国Prumus persica(L.) Batsch 或 P davidiana 的种子。
-
 traditional_usage: |
   桃仁是中国传统的草药，提取自成熟桃子内的果核，传统用作解决血行停滞等问题如：包括月经紊乱、腹痛、外伤口、胁腹痛和肠脓肿。桃仁同时能润肠和疏通肠道，有助纾缓排便问题。
-
 metadata:
-  source: "vitaherbapedia.com"
-  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e6%a1%83%e4%bb%81-2/"
-  scraped_at: "2026-02-18T04:57:38.823Z"
-  language: "zh-CN"
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e6%a1%83%e4%bb%81-2/
+  scraped_at: "2026-02-18T09:20:54.347Z"
+  language: zh-CN
+modern_usage: 桃核油近年多用于皮肤护理上，如滋润肌肤和补充皮肤水份。桃核油蕴含丰富的维生素 A 和 E，容易被皮肤表层吸收，而且润而不腻。

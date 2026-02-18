@@ -1,0 +1,22 @@
+# 白芍
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/白芍-2/
+# Language: zh-CN
+
+id: "white-peony-root"
+slug: "white-peony-root"
+category: "chinese-herbs"
+title: "白芍"
+scientific_name: "Paeonia lactiflora pall"
+image: "images/white-peony-root.jpg"
+
+history: |
+  始载于《神农本草经》，列为中品。但无赤芍、白芍之分，统称为芍药。白芍药则见于《本草经集注》。
+
+traditional_usage: |
+  白芍是补血药，味苦、酸、甘，药性微寒，归肝、脾经，能养血调经、平肝止痛、敛阴止汗。常用於头痛、眩晕、胁肋疼痛、四肢挛痛、血虚、月经不调、自汗及盗汗等。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/白芍-2/"
+  scraped_at: "2026-02-18T09:36:13.839Z"
+  language: "zh-CN"

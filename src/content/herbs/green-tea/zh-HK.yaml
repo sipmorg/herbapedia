@@ -1,0 +1,22 @@
+# 綠茶
+# Source: https://www.vitaherbapedia.com/zh/shop/westherbs/%e7%b6%a0%e8%8c%b6/
+# Language: zh-HK
+
+id: "green-tea"
+slug: "green-tea"
+category: "western-herbs"
+title: "綠茶"
+scientific_name: "Camellia Sinensis"
+image: "images/green-tea.jpg"
+
+introduction: |
+  綠茶取自新鮮摘取及迅速製乾的野茶樹葉芽，它是雙子葉屬的植物，原生於多雨的亞洲森林，並在中國、斯里蘭卡、印度、日本、印尼以及非洲大陸廣泛培植。
+
+traditional_usage: |
+  綠茶為天然抗氧化劑，服用能增強健康，幫助紓緩身體與腦部疲勞。綠茶多用作對抗頑疾，防止腦血栓，降低體內膽固醇，調節血糖和瘦身減重。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/westherbs/%e7%b6%a0%e8%8c%b6/"
+  scraped_at: "2026-02-18T09:19:14.342Z"
+  language: "zh-HK"

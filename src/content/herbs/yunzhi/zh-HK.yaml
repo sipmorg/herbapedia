@@ -1,0 +1,18 @@
+# 雲芝
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e9%9b%b2%e8%8a%9d/
+# Language: zh-HK
+
+id: yunzhi
+slug: yunzhi
+category: chinese-herbs
+title: 雲芝
+scientific_name: Coriolus Versicolour, Trametes versicolor
+image: images/yunzhi.jpg
+traditional_usage: |
+  雲芝即多孔菌科植物彩絨革蓋菌，其味甘、淡，性微寒，歸肝、脾、肺經。傳統認為能健脾利濕、止咳平喘，近代多用於抗腫瘤，適用於消化道、肺、乳腺、子宮頸等部位的不良細胞引起之頑疾。亦可用於護肝以及改善呼吸系統慢性毛病。
+metadata:
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e9%9b%b2%e8%8a%9d/
+  scraped_at: "2026-02-18T09:18:49.330Z"
+  language: zh-HK
+modern_usage: 雲芝多糖對不良細胞的生長有抑制作用，並能增強免疫系統，用於頑疾的臨床輔助治療，提高療程的成效，以及減輕治療時所產生的副作用。

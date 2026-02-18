@@ -1,0 +1,22 @@
+# 杜仲
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e6%9d%9c%e4%bb%b2/
+# Language: zh-HK
+
+id: "duzhong"
+slug: "duzhong"
+category: "chinese-herbs"
+title: "杜仲"
+scientific_name: "Eucommia ulmoides Oliv."
+image: "images/duzhong.jpg"
+
+history: |
+  始載於《神農本草經》，列為上品
+
+traditional_usage: |
+  杜仲是著名的溫補藥材，味甘而藥性溫，歸入肝、腎經，能補肝腎、強筋骨、安胎，傳統用於治療肝腎不足而致的腰膝酸痛、四肢無力、尿頻、性功能下降、胎動不安等。近年發現杜仲有助穩定血壓，常用於有血壓問題而又肝腎不足的情況。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e6%9d%9c%e4%bb%b2/"
+  scraped_at: "2026-02-18T09:17:53.991Z"
+  language: "zh-HK"

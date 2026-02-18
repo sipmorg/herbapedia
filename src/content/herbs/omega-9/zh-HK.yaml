@@ -1,0 +1,22 @@
+# 奧米加9
+# Source: https://www.vitaherbapedia.com/zh/shop/nutrients/%e5%a5%a7%e7%b1%b3%e5%8a%a09/
+# Language: zh-HK
+
+id: "omega-9"
+slug: "omega-9"
+category: "nutrients"
+title: "奧米加9"
+scientific_name: "Oleic acid, Erucic acid / ω-9 fatty acids"
+image: "images/omega-9.jpg"
+
+introduction: |
+  橄欖油、芝麻油、鱷梨、腰果和澳洲堅果都含有豐富的奧米加9。
+
+functions: |
+  由於身體可自行製造奧米加9脂肪酸，所以奧米加9脂肪酸通常被界定為非必要的脂肪酸，但這個製造過程是需要依靠一些不能由身體自行製造，而需要由日常飲食中吸取的奧米加3及6。奧米加9可減少患上管道硬化、及減低心血管道及腦管道梗塞的機會。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/nutrients/%e5%a5%a7%e7%b1%b3%e5%8a%a09/"
+  scraped_at: "2026-02-18T09:19:59.821Z"
+  language: "zh-HK"

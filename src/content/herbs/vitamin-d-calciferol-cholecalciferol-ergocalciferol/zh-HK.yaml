@@ -1,0 +1,25 @@
+# 維他命 D
+# Source: https://www.vitaherbapedia.com/zh/shop/vitamins/%e7%b6%ad%e4%bb%96%e5%91%bd-d/
+# Language: zh-HK
+
+id: "vitamin-d-calciferol-cholecalciferol-ergocalciferol"
+slug: "vitamin-d-calciferol-cholecalciferol-ergocalciferol"
+category: "vitamins"
+title: "維他命 D"
+scientific_name: "1,25 dihydroxycholecalciferol"
+image: "images/vitamin-d-calciferol-cholecalciferol-ergocalciferol.jpg"
+
+introduction: |
+  每日需求 每日1200IU 兒童每日400IU 維他命 D的來源 來源包括強化營養食物例如乳製品、乳酪、麥淇淋和穀物；其他天然資源包括魚、蠔、鱈魚肝油、鮭魚、鮪魚和沙丁魚。曬太陽或太陽燈會令身體將維他命D原轉換成活躍的維他命D。
+
+traditional_usage: |
+  維他命D是身體內的很多作用的必需品，能增加小腸對鈣的吸收、促進骨骼成長和礦化及維持牙齒健康。維他命D對增加小腸壁對磷的吸收、增加腎小球對磷酸鹽的再次吸收、保持血液中檸檬酸鹽的正常的水平，以及避免氨基酸從腎而流失均有幫助。缺乏維生素 D可導致佝僂病以及骨頭和牙齒變形，並會引發骨頭疼痛和血糖等問題。
+
+functions: |
+  協助身體吸收和利用鈣質和磷質，以幫助牙齒和骨骼生長及腦部健康保持血中鈣質平衡可分為活性 (如D2) 和非活性 (D3)人體中每個細胞都有一個維他命D受體，這些受體對調控人體多個重要代謝反應 (如免疫系統，肌肉代謝等)十分重要
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/vitamins/%e7%b6%ad%e4%bb%96%e5%91%bd-d/"
+  scraped_at: "2026-02-18T09:19:37.592Z"
+  language: "zh-HK"

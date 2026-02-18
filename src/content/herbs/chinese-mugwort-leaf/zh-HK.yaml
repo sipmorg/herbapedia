@@ -1,0 +1,19 @@
+# 艾葉
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e8%89%be%e8%91%89/
+# Language: zh-HK
+
+id: "chinese-mugwort-leaf"
+slug: "chinese-mugwort-leaf"
+category: "chinese-herbs"
+title: "艾葉"
+scientific_name: "Artemisiae Argyi"
+image: "images/chinese-mugwort-leaf.jpg"
+
+traditional_usage: |
+  艾葉味苦、辛，藥性溫，歸肝、脾、腎經，內服可溫宮散寒、止痛，常用於因陽虛導致的經痛，亦常應用於艾灸之中，有助於促進氣血運行、溫經止痛，適用於各種因氣血不通而致的症狀。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e8%89%be%e8%91%89/"
+  scraped_at: "2026-02-18T09:18:23.761Z"
+  language: "zh-HK"

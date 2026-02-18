@@ -1,0 +1,20 @@
+# 坚果油
+# Source: https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e5%9d%9a%e6%9e%9c%e6%b2%b9/
+# Language: zh-CN
+
+id: argan-oil
+slug: argan-oil
+category: western-herbs
+title: 坚果油
+scientific_name: Argania Spinosa
+image: images/argan-oil.jpg
+introduction: |
+  坚果油提炼自摩洛哥坚果树上的果实，坚果树能在天气最乾涸的环境下生长。
+traditional_usage: |
+  坚果油独有脂肪酸、维生素 E（维生素 E)、角鲨烯、固醇和苯酚化合物等，传统上用作治疗皮肤疾病。坚果油同时有助改善顽疾，并於防治心血管问题上担当著正面的角色。
+metadata:
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e5%9d%9a%e6%9e%9c%e6%b2%b9/
+  scraped_at: "2026-02-18T09:21:55.015Z"
+  language: zh-CN
+modern_usage: 坚果油蕴含80% 非饱和脂肪酸，当中蕴含丰富的 linoelic 酸和维生素 E，坚果油能重整和平衡水脂质，滋养最乾燥的肌肤和活化细胞活动。

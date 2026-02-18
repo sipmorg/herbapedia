@@ -1,0 +1,25 @@
+# 維他命 B9 又名葉酸
+# Source: https://www.vitaherbapedia.com/zh/shop/vitamins/%e7%b6%ad%e4%bb%96%e5%91%bd-b9-%e5%8f%88%e5%90%8d%e8%91%89%e9%85%b8/
+# Language: zh-HK
+
+id: "vitamin-b9-folate-folic-acid"
+slug: "vitamin-b9-folate-folic-acid"
+category: "vitamins"
+title: "維他命 B9 又名葉酸"
+scientific_name: "Folacin, Folic Acid, Pteroylglutamic Acid (PGA)"
+image: "images/vitamin-b9-folate-folic-acid.jpg"
+
+history: |
+  葉酸名字由拉丁文字「薄層」而來，它最初被提取自菠菜葉。 葉酸於70年前被研究人員 Wills 識別，並用於預防懷孕貧血的養份。醫生Wills 顯示當中提煉的酵母可以改善貧血。葉酸於1930 時提取自酵母，並被認定能改善貧血的物質，於1941年開始從菠菜中提煉。
+
+introduction: |
+  每日需求 每日400微克 維他命 B9的來源 肝臟、腎、鱷梨、豆子、甜菜、芹菜、鷹嘴豆、蛋、魚、綠色多葉蔬菜、堅果、橙、大豆和全麥產品都含有豐富的葉酸。含葉酸成份的補充劑通常都是從酵母、小麥胚芽或/及合成的葉酸上中撮取。
+
+functions: |
+  維他命B9又名葉酸 協助製造紅血球，缺乏維生素B9會使得血紅素降低，而導致貧血 協助細胞生長，生長發育必須 有助胎兒神經管道發育，懷孕婦女需預早做好準備，尤其懷孕初期的攝取十分重要
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/vitamins/%e7%b6%ad%e4%bb%96%e5%91%bd-b9-%e5%8f%88%e5%90%8d%e8%91%89%e9%85%b8/"
+  scraped_at: "2026-02-18T09:19:35.861Z"
+  language: "zh-HK"

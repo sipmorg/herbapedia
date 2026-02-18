@@ -2,18 +2,17 @@
 # Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%89%9b%e8%92%a1/
 # Language: zh-HK
 
-id: "great-burdock"
-slug: "great-burdock"
-category: "chinese-herbs"
-title: "牛蒡"
-scientific_name: "Arctium lappi L."
-image: "images/great-burdock.jpg"
-
+id: great-burdock
+slug: great-burdock
+category: chinese-herbs
+title: 牛蒡
+scientific_name: Arctium lappi L.
+image: images/great-burdock.jpg
 traditional_usage: |
   傳統中藥藥用部份是牛蒡的成熟果實牛蒡子，其味辛、苦，性寒涼，歸肺、胃經，能疏散風熱、透疹利咽、解毒散腫，常用於外感風熱、發熱咽痛，並具溫和的潤腸通便作用。
-
 metadata:
-  source: "vitaherbapedia.com"
-  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%89%9b%e8%92%a1/"
-  scraped_at: "2026-02-18T04:54:55.428Z"
-  language: "zh-HK"
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%89%9b%e8%92%a1/
+  scraped_at: "2026-02-18T09:18:06.667Z"
+  language: zh-HK
+modern_usage: 牛蒡根部的油性提取物含有豐富的脂肪酸及其他營養素，有助維持頭皮、頭髮健康。

@@ -1,0 +1,22 @@
+# 冬蟲夏草
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%86%ac%e8%9f%b2%e5%a4%8f%e8%8d%89-2/
+# Language: zh-CN
+
+id: cordyceps
+slug: cordyceps
+category: chinese-herbs
+title: 冬蟲夏草
+scientific_name: Cordyceps sinensis (BerK.) Sacc.
+image: images/cordyceps.jpg
+history: |
+  始载於《本草纲目拾遗》
+introduction: |
+  麦角科真菌冬虫夏草寄生在蝙蝠蛾幼虫上的子座及幼虫尸体的复合体，产于海拔3000至4000米的高山草甸区土层，分布四川、云南、甘肃、青海、西藏等地。现有培植品种
+traditional_usage: |
+  冬虫夏草为珍贵的补阳药，其药味甘而药性平和，能有效益肾壮阳、补肺平喘，改善因肺虚、肾虚所导致的慢性咳喘、小便欠佳等问题，有助提升免疫力，是高效的养生药材。冬虫夏草药性温和，四季合用。
+metadata:
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%86%ac%e8%9f%b2%e5%a4%8f%e8%8d%89-2/
+  scraped_at: "2026-02-18T09:20:33.154Z"
+  language: zh-CN
+modern_usage: 根据近代研究，冬蟲夏草能兴奋中枢神经系统、抑制不良细胞的生长、增强机体的免疫功能、增强肾脏功能、改善肺功能等等。

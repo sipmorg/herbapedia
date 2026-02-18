@@ -1,0 +1,22 @@
+# 枳壳
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs/枳壳/
+# Language: zh-CN
+
+id: "zhiko"
+slug: "zhiko"
+category: "chinese-herbs"
+title: "枳壳"
+scientific_name: "Citrus aurantium L."
+image: "images/zhiko.jpg"
+
+introduction: |
+  芸香科植物枸橘、酸橙、香圆或玳玳花等将近成熟的果实
+
+traditional_usage: |
+  芸香科植物酸橙，其接近成熟的去瓤果实称为枳壳，可以生用或炒用，味苦、辛而药性微寒，归脾、胃、大肠经，能行气宽中除胀、化痰除积，常用於食积或胃肠热结气滞症，例如腹胀腹痛、大便秘结等，常与大黄同用，尚可用於肠胃功能欠佳、子宫脱垂、脱肛等，配合补气、升阳药同用以增强疗效。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs/枳壳/"
+  scraped_at: "2026-02-18T09:36:15.526Z"
+  language: "zh-CN"

@@ -2,21 +2,19 @@
 # Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%a0%82%e4%bb%81/
 # Language: zh-HK
 
-id: "cardamom"
-slug: "cardamom"
-category: "chinese-herbs"
-title: "砂仁"
-scientific_name: "Amomum villosum"
-image: "images/cardamom.jpg"
-
+id: cardamom
+slug: cardamom
+category: chinese-herbs
+title: 砂仁
+scientific_name: Amomum villosum
+image: images/cardamom.jpg
 introduction: |
   薑科植物陽春砂的乾燥成熟果實
-
 traditional_usage: |
   砂仁是一種芳香化濕的中藥，味辛性溫，歸脾、胃經，功效是化濕行氣、溫中止嘔止瀉、安胎，用於濕困脾胃或氣滯所致的嘔吐、腹瀉、食慾不振等，因能安胎，亦常用於改善妊娠嘔吐的情況。
-
 metadata:
-  source: "vitaherbapedia.com"
-  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%a0%82%e4%bb%81/"
-  scraped_at: "2026-02-18T04:55:05.338Z"
-  language: "zh-HK"
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%a0%82%e4%bb%81/
+  scraped_at: "2026-02-18T09:18:17.720Z"
+  language: zh-HK
+modern_usage: 砂仁所含揮發油及水煎劑能促進胃液分泌，並能抗潰瘍，抑制金黃葡萄球菌生長。

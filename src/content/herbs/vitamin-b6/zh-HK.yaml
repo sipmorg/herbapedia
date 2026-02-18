@@ -1,0 +1,22 @@
+# 維他命 B6 又名抗皮炎素
+# Source: https://www.vitaherbapedia.com/zh/shop/vitamins/%e7%b6%ad%e4%bb%96%e5%91%bd-b6-%e5%8f%88%e5%90%8d%e6%8a%97%e7%9a%ae%e7%82%8e%e7%b4%a0/
+# Language: zh-HK
+
+id: vitamin-b6
+slug: vitamin-b6
+category: vitamins
+title: 維他命 B6 又名抗皮炎素
+scientific_name: Pyridoxine, Pyridoxal, Pyridoxamine
+image: images/vitamin-b6.jpg
+introduction: |
+  每日需求 每日1.3毫克 維他命 B6的來源 可以在米穀皮、小麥穀皮、向日葵籽、鱷梨、香蕉、玉米、魚、腎、瘦肉、肝臟、堅果、家禽、糙米、大豆和全麥食品中找到。鹽酸吡哆辛是最普遍的存在合成形式。酵母(例如釀酒的酵母)、光米和小麥肧都可用作天然的補充劑。由於維生素 B6在食品中為數不多，補充的維他命B6及合成鹽酸吡哆辛變得不可或缺，當中對嬰兒及懷孕及授乳期的婦女為甚，因為在處理及烹煮食物過程中，可以破壞維他命B6量達50%。
+traditional_usage: |
+  維他命B6在身體中發揮輔酵素(哆醛磷酸鹽)的作用。部分維他命B雜是水溶性的，是身心健康的必要元素。維他命B6有助蛋白質、脂肪及碳水化合物的處理和生陳代謝，能平衡女性荷爾蒙，是維持強健免疫系統不可缺少的重要元素。
+functions: |
+  幫助蛋白質的新陳代謝協助製造紅血球、荷爾蒙、酵素、抗體協助神經系統的傳導功能
+metadata:
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/zh/shop/vitamins/%e7%b6%ad%e4%bb%96%e5%91%bd-b6-%e5%8f%88%e5%90%8d%e6%8a%97%e7%9a%ae%e7%82%8e%e7%b4%a0/
+  scraped_at: "2026-02-18T09:19:34.214Z"
+  language: zh-HK
+modern_usage: 很多女性都服用維他命B6以紓緩經前綜合症，但至今仍未有研究確認其功效。然而，它在產生前列腺素擔當重要角色。前列腺素能能放鬆尿道肌肉，及充當溫和的利尿劑，從而幫助減輕絞痛和膨脹。維生素 B6 對增強癌症免疫力和減輕腕管綜合症皆有助效。

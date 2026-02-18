@@ -1,0 +1,22 @@
+# 佩蘭葉 又名佩蘭
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e4%bd%a9%e8%98%ad%e8%91%89-%e5%8f%88%e5%90%8d%e4%bd%a9%e8%98%ad/
+# Language: zh-HK
+
+id: "peilan"
+slug: "peilan"
+category: "chinese-herbs"
+title: "佩蘭葉 又名佩蘭"
+scientific_name: "Eupatorium fortunei"
+image: "images/peilan.jpg"
+
+introduction: |
+  菊科植物佩蘭（蘭草）的地上部份
+
+traditional_usage: |
+  佩蘭藥味辛，藥性平和，歸脾、胃、肺經，具化濕、解暑的功效，常用於濕滯中焦引發的不適，例如口中甜膩、口臭、多涎等，常與藿香、荷葉等同用。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e4%bd%a9%e8%98%ad%e8%91%89-%e5%8f%88%e5%90%8d%e4%bd%a9%e8%98%ad/"
+  scraped_at: "2026-02-18T09:17:37.543Z"
+  language: "zh-HK"

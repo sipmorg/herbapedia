@@ -1,0 +1,20 @@
+# 堅果油
+# Source: https://www.vitaherbapedia.com/zh/shop/westherbs/%e5%a0%85%e6%9e%9c%e6%b2%b9/
+# Language: zh-HK
+
+id: argan-oil
+slug: argan-oil
+category: western-herbs
+title: 堅果油
+scientific_name: Argania Spinosa
+image: images/argan-oil.jpg
+introduction: |
+  堅果油提煉自摩洛哥堅果樹上的果實，堅果樹能在天氣最乾涸的環境下生長。
+traditional_usage: |
+  堅果油獨有脂肪酸、維生素 E（維生素 E)、角鯊烯、固醇和苯酚化合物等，傳統上用作治療皮膚疾病。堅果油同時有助改善頑疾，並於防治心血管問題上擔當著正面的角色。
+metadata:
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/zh/shop/westherbs/%e5%a0%85%e6%9e%9c%e6%b2%b9/
+  scraped_at: "2026-02-18T09:19:04.318Z"
+  language: zh-HK
+modern_usage: 堅果油蘊含80% 非飽和脂肪酸，當中蘊含豐富的 linoelic 酸和維生素 E，堅果油能重整和平衡水脂質，滋養最乾燥的肌膚和活化細胞活動。

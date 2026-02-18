@@ -1,0 +1,22 @@
+# 奥米加3
+# Source: https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e5%a5%a5%e7%b1%b3%e5%8a%a03/
+# Language: zh-CN
+
+id: "omega-3"
+slug: "omega-3"
+category: "nutrients"
+title: "奥米加3"
+scientific_name: "Docosahexaenoic Acid (DHA), Eicosapentaenoic Acid (EPA) / ω-3 fatty acids"
+image: "images/omega-3.jpg"
+
+introduction: |
+  鲔鱼、鲑鱼和鲭鱼等生活在冰冷海水的鱼类含有奥米加3 脂肪酸。它也可在深绿多叶蔬菜、亚麻籽油和部份蔬菜油中找到。
+
+functions: |
+  奥米加3脂肪酸能减低患上心脏病的风险、压抑发炎细胞、防止血液脂肪粒积聚于血管道、控制血压、胆固醇和甘油三酸脂水平。它也可减少患上血糖、管道堵塞、关节、消化系统、顽疾和脑力衰退等问题。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e5%a5%a5%e7%b1%b3%e5%8a%a03/"
+  scraped_at: "2026-02-18T09:22:50.106Z"
+  language: "zh-CN"

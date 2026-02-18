@@ -1,22 +1,22 @@
-# 赤灵芝孢子
-# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%b5%a4%e7%81%b5%e8%8a%9d%e5%ad%a2%e5%ad%90/
+# 野生灵芝
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e9%87%8e%e7%94%9f%e7%81%b5%e8%8a%9d/
 # Language: zh-CN
 
-id: "lingzhi-spores"
-slug: "lingzhi-spores"
-category: "chinese-herbs"
-title: "赤灵芝孢子"
-scientific_name: "Ganoderma lucidum"
-image: "images/lingzhi-spores.jpg"
-
+id: lingzhi-spores
+slug: lingzhi-spores
+category: chinese-herbs
+title: 野生灵芝
+scientific_name: Ganoderma lucidum
+image: images/lingzhi-spores.jpg
+history: |
+  首载于《说文》，《神农本草经》列为上品，认为「久食，轻身不老，延年神仙」，记载有赤芝、黑芝、青芝、白芝、黄芝、紫芝六种。
 introduction: |
-  多孔菌科真菌赤灵芝的孢子
-
+  多孔菌科真菌赤灵芝的全株，主要分布在中国河北、山东、四川、云南、广西等地。
 traditional_usage: |
-  灵芝孢子被两层外壁包着，未经破壁时，其精华不易为人体吸收，而经破壁的孢子，其精华及有效物质便可充份发挥作用。主要用于虚劳羸弱，食欲不振，心悸怔仲，失眠健忘以及咳痰喘息，久嗽不止。现还用于促进心脑血管系统健康，以及改善神经衰弱、慢性呼吸系统毛病等。
-
+  味甘、微苦，药性平和，主要功能是补中益气，养心安神，用于虚劳羸弱、食欲不振、心悸怔仲、失眠健忘以及咳痰喘息，久嗽不止。现还用于促进心脑血管系统健康，以及改善神经衰弱、慢性呼吸系统毛病等。
 metadata:
-  source: "vitaherbapedia.com"
-  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%b5%a4%e7%81%b5%e8%8a%9d%e5%ad%a2%e5%ad%90/"
-  scraped_at: "2026-02-18T04:58:12.891Z"
-  language: "zh-CN"
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e9%87%8e%e7%94%9f%e7%81%b5%e8%8a%9d/
+  scraped_at: "2026-02-18T09:21:35.568Z"
+  language: zh-CN
+modern_usage: 研究證实灵芝含有大量高分子多糖体，对抗顽疾、稳定血糖及增强免疫力都有良效，另含有叁萜类，这种物质已被证实对肝不良细胞有毒害作用，对促进肝功能及减轻过敏症状，亦可增强心血管及呼吸系统功能。

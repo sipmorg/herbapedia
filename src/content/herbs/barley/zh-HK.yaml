@@ -1,0 +1,22 @@
+# 炒麥芽
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%82%92%e9%ba%a5%e8%8a%bd/
+# Language: zh-HK
+
+id: "barley"
+slug: "barley"
+category: "chinese-herbs"
+title: "炒麥芽"
+scientific_name: "Hordeum vulgare"
+image: "images/barley.jpg"
+
+introduction: |
+  禾本科植物大麥的成熟果實經發芽乾燥而成
+
+traditional_usage: |
+  炒麥芽是消食藥，味甘，藥性平，歸脾、胃、肝經，能消食健胃，疏肝消脹，常用於食滯或肝鬱引起的腹脹不適。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%82%92%e9%ba%a5%e8%8a%bd/"
+  scraped_at: "2026-02-18T09:18:04.120Z"
+  language: "zh-HK"

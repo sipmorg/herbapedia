@@ -2,21 +2,19 @@
 # Source: https://www.vitaherbapedia.com/zh/shop/nutrients/%e8%83%ba%e5%9f%ba%e8%8b%af%e9%85%b8/
 # Language: zh-HK
 
-id: "paba"
-slug: "paba"
-category: "nutrients"
-title: "胺基苯酸"
-scientific_name: "Para Amino Benzoic Acid"
-image: "images/paba.jpg"
-
+id: paba
+slug: paba
+category: nutrients
+title: 胺基苯酸
+scientific_name: Para Amino Benzoic Acid
+image: images/paba.jpg
 introduction: |
   胺基苯酸可在肝、腎、釀酒的酵母、糖蜜、全麥食品、蘑菇和菠菜中找到。它也會由腸內細菌所產生。
-
 traditional_usage: |
   PABA可幫助蛋白質的代謝，能製造紅血球和於腸道製造葉酸，並有助提升葉酸的效用和有助滋養健康頭髮，是健康頭髮的必需品。
-
 metadata:
-  source: "vitaherbapedia.com"
-  source_url: "https://www.vitaherbapedia.com/zh/shop/nutrients/%e8%83%ba%e5%9f%ba%e8%8b%af%e9%85%b8/"
-  scraped_at: "2026-02-18T04:56:54.495Z"
-  language: "zh-HK"
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/zh/shop/nutrients/%e8%83%ba%e5%9f%ba%e8%8b%af%e9%85%b8/
+  scraped_at: "2026-02-18T09:20:10.157Z"
+  language: zh-HK
+modern_usage: PABA 用作遮光劑的準備，因為它幫助保護皮膚免受紫外光的放射性傷害。

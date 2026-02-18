@@ -1,0 +1,22 @@
+# 墨旱蓮
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%a2%a8%e6%97%b1%e8%93%ae/
+# Language: zh-HK
+
+id: "mohanlian"
+slug: "mohanlian"
+category: "chinese-herbs"
+title: "墨旱蓮"
+scientific_name: "Eclipta prostrata"
+image: "images/mohanlian.jpg"
+
+introduction: |
+  菊科植物鱧腸的全草和旱蓮草、黑墨草、墨汁旱蓮、野葵花的全草
+
+traditional_usage: |
+  墨旱蓮為菊科一年生草本植物鱧腸的地上部分，味甘、酸，藥性寒，歸肝、腎二經，有效補肝腎陰，涼血止血。主治腎虛所致的牙齒鬆動、鬚髮早白、眩暈、耳聲嘈雜、腰膝酸軟等，常與女貞子同用。《本草綱目》中記載：「烏髭髮，益腎陰。」
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%a2%a8%e6%97%b1%e8%93%ae/"
+  scraped_at: "2026-02-18T09:17:42.457Z"
+  language: "zh-HK"

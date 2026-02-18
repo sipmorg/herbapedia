@@ -1,0 +1,25 @@
+# 丹蔘
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e4%b8%b9%e8%94%98/
+# Language: zh-HK
+
+id: "danshen"
+slug: "danshen"
+category: "chinese-herbs"
+title: "丹蔘"
+scientific_name: "Salvia Miltorrhiza Bge."
+image: "images/danshen.jpg"
+
+history: |
+  始載於《神農本草經》，列為上品。
+
+introduction: |
+  唇形科植物丹蔘的根及根莖
+
+traditional_usage: |
+  丹蔘傳統用作活血化瘀調經藥，味苦而藥性微寒，歸心、肝經，能活血調經、涼血消癰、安神，是婦女月經不調、痛經、閉經、或產後活血化瘀的常用藥，因其活血化瘀之力顯著，亦常用於心血瘀阻引起的心胸痞悶、疼痛等，丹蔘既能活血又能養心，近年常用於促進心血管系統健康。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e4%b8%b9%e8%94%98/"
+  scraped_at: "2026-02-18T09:17:34.982Z"
+  language: "zh-HK"

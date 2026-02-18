@@ -1,0 +1,25 @@
+# 牛膝
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%89%9b%e8%86%9d/
+# Language: zh-HK
+
+id: "niuxi"
+slug: "niuxi"
+category: "chinese-herbs"
+title: "牛膝"
+scientific_name: "Achyranthis bidentatae"
+image: "images/niuxi.jpg"
+
+history: |
+  始載於《神農本草經》，列為上品
+
+introduction: |
+  莧科植物牛膝的根，又稱為懷牛膝。
+
+traditional_usage: |
+  牛膝，味苦、甘、酸，藥性平和，歸肝、腎經，能活血通經、補肝腎、強筋骨、利水通淋、引火下行，主治腎虛腰痛、久痺、腰膝無力、浮腫、小便不利等情況。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%89%9b%e8%86%9d/"
+  scraped_at: "2026-02-18T09:18:05.843Z"
+  language: "zh-HK"

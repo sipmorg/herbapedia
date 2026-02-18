@@ -1,0 +1,20 @@
+# 山楂
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%b1%b1%e6%a5%82/
+# Language: zh-HK
+
+id: shanzha
+slug: shanzha
+category: chinese-herbs
+title: 山楂
+scientific_name: Crataegus pinnatifida
+image: images/shanzha.jpg
+introduction: |
+  薇科落葉灌木或小喬木植物山里紅或野山楂的成熟果實
+traditional_usage: |
+  山楂味酸、甘，藥性微溫，歸屬脾、胃、肝經。能消食化積、行氣散瘀。主治肉食積滯、胃脘脹滿、血瘀經閉、產後血瘀、心腹刺痛，可分生用或炒用，活血散瘀宜生用。
+metadata:
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%b1%b1%e6%a5%82/
+  scraped_at: "2026-02-18T09:17:49.032Z"
+  language: zh-HK
+modern_usage: 現代研究提出可用於控制血脂問題、預防動脈硬化、穩定血壓、促進心血管健康等。

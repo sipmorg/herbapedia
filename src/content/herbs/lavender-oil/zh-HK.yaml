@@ -2,21 +2,19 @@
 # Source: https://www.vitaherbapedia.com/zh/shop/westherbs/%e8%96%b0%e8%a1%a3%e8%8d%89%e7%b2%be%e6%b2%b9/
 # Language: zh-HK
 
-id: "lavender-oil"
-slug: "lavender-oil"
-category: "western-herbs"
-title: "薰衣草精油"
-scientific_name: "Lavandula angustifolia, Lavandula officinalis"
-image: "images/lavender-oil.jpg"
-
+id: lavender-oil
+slug: lavender-oil
+category: western-herbs
+title: 薰衣草精油
+scientific_name: Lavandula angustifolia, Lavandula officinalis
+image: images/lavender-oil.jpg
 introduction: |
   薰衣草香精油經由蒸氣蒸餾新鮮薰衣草提取。
-
 traditional_usage: |
   薰衣草精油長期以來用於香水的生產，同時也用在香薰治療。薰衣草氣味有鎮靜的功效，可以幫助鬆弛和減少焦慮。薰衣草香氣有助舒緩頭痛不適，吸入薰衣草香氣或稀釋了的香氣，以及將薰衣草精油磨擦於肌膚上，便有助舒緩疼痛。當薰衣草精油加進蒸汽機，所揮發的氣味有助治療咳嗽和呼吸道的疾病。
-
 metadata:
-  source: "vitaherbapedia.com"
-  source_url: "https://www.vitaherbapedia.com/zh/shop/westherbs/%e8%96%b0%e8%a1%a3%e8%8d%89%e7%b2%be%e6%b2%b9/"
-  scraped_at: "2026-02-18T04:56:07.089Z"
-  language: "zh-HK"
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/zh/shop/westherbs/%e8%96%b0%e8%a1%a3%e8%8d%89%e7%b2%be%e6%b2%b9/
+  scraped_at: "2026-02-18T09:19:21.024Z"
+  language: zh-HK
+modern_usage: 臨床研究指出薰衣草香精油有助於治療不同病徵， 包括不眠症、禿頭症（脫髮）、焦慮、壓力、手術後的疼痛。薰衣草香精油有抗菌和抗病毒作用， 經常連同其他形式的治療一併使用， 例如按摩、針灸、背部矯正。它亦可治療皮膚疾病，例如由真菌引起的感染（如念珠菌症）、創傷、濕疹和痘痘等。

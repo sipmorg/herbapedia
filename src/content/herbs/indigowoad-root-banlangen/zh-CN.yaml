@@ -1,0 +1,20 @@
+# 板蓝根
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e6%9d%bf%e8%93%9d%e6%a0%b9/
+# Language: zh-CN
+
+id: indigowoad-root-banlangen
+slug: indigowoad-root-banlangen
+category: chinese-herbs
+title: 板蓝根
+scientific_name: Isatis tinctoria L.
+image: images/indigowoad-root-banlangen.jpg
+history: |
+  始载於《神农本草经》，列为上品
+traditional_usage: |
+  板蓝根是清热药，味苦，药性寒，归心、肺、胃经，能清热解毒，凉血利咽，主治温热病出现发热、头痛、咽痛等症状。
+metadata:
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e6%9d%bf%e8%93%9d%e6%a0%b9/
+  scraped_at: "2026-02-18T09:20:50.972Z"
+  language: zh-CN
+modern_usage: 近年实验研究发现板蓝根提取液对多种革兰氏阳性菌、革兰氏阴性菌及病毒均有抑制作用，并可增强免疫功能。

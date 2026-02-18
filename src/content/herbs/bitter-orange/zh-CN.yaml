@@ -1,0 +1,22 @@
+# 香柠檬
+# Source: https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e9%a6%99%e6%9f%a0%e6%aa%ac/
+# Language: zh-CN
+
+id: "bitter-orange"
+slug: "bitter-orange"
+category: "western-herbs"
+title: "香柠檬"
+scientific_name: "Citrus Aurantium L."
+image: "images/bitter-orange.jpg"
+
+introduction: |
+  土生于东南亚。南太平洋诸岛的特产，在斐济，萨摩亚群岛和关岛等地更尤其普遍，相信于史前时期开始萌生于这些地方的海岸。
+
+traditional_usage: |
+  香柠檬精华是一种有助减少身体脂肪和抑制食欲的营养补充剂，含刺激物 synephrine，功用跟咖啡因和麻黄素很相似，能够抑制食欲，增加新陈代谢率和热量的消耗。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e9%a6%99%e6%9f%a0%e6%aa%ac/"
+  scraped_at: "2026-02-18T09:22:18.589Z"
+  language: "zh-CN"

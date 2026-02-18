@@ -1,0 +1,20 @@
+# 炒神曲
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%82%92%e7%a5%9e%e6%9b%b2/
+# Language: zh-HK
+
+id: shenqu
+slug: shenqu
+category: chinese-herbs
+title: 炒神曲
+scientific_name: Massa Fermentata
+image: images/shenqu.jpg
+introduction: |
+  麵粉和其他藥物混合後經發酵而成的加工品
+traditional_usage: |
+  神曲是由麵粉和多種藥材混合發酵而成，味道甘、辛，藥性溫，歸脾、胃經，功效是消食和胃，用於治療飲食積滯而致的胃脹腹痛、食慾不振，本品略有解表之力，所以尤其適合外感兼食滯的情況。
+metadata:
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%82%92%e7%a5%9e%e6%9b%b2/
+  scraped_at: "2026-02-18T09:18:03.319Z"
+  language: zh-HK
+modern_usage: 本品含有酵母菌、維生素B群等，有促進消化、增進食慾的作用。

@@ -1,0 +1,22 @@
+# 丁香油
+# Source: https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e4%b8%81%e9%a6%99%e6%b2%b9-2/
+# Language: zh-CN
+
+id: "clove-oil"
+slug: "clove-oil"
+category: "western-herbs"
+title: "丁香油"
+scientific_name: "Eugenia caryophyllata (Thumb)"
+image: "images/clove-oil.jpg"
+
+introduction: |
+  提取自丁香植物, 并以蒸馏方式提炼丁香油。
+
+traditional_usage: |
+  气味浓烈的丁香油自古以来治疗呼吸道疾病, 包括哮喘和支气管炎、肌肉疼痛、肌肉扭伤或拉紧、关节炎和风湿病。人们多以丁香油来止痛, 包括口疮和牙痛。丁香油有助舒缓各种痛症。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e4%b8%81%e9%a6%99%e6%b2%b9-2/"
+  scraped_at: "2026-02-18T09:21:53.196Z"
+  language: "zh-CN"

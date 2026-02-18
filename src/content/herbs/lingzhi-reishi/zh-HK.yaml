@@ -1,0 +1,22 @@
+# 野生靈芝
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/野生靈芝/
+# Language: zh-HK
+
+id: lingzhi-reishi
+slug: lingzhi-reishi
+category: chinese-herbs
+title: 野生靈芝
+scientific_name: Ganoderma lucidum
+image: images/lingzhi-reishi.jpg
+history: |
+  首載於《說文》，《神農本草經》列為上品，認為「久食，輕身不老，延年神仙」，記載有赤芝、黑芝、青芝、白芝、黃芝、紫芝六種。
+introduction: |
+  多孔菌科真菌赤靈芝的全株，主要分佈在中國河北、山東、四川、雲南、廣西等地。
+traditional_usage: |
+  味甘、微苦，藥性平和，主要功能是補中益氣，養心安神，用於虛勞羸弱、食慾不振、心悸怔仲、失眠健忘以及咳痰喘息，久嗽不止。現還用於促進心腦血管系統健康，以及改善神經衰弱、慢性呼吸系統毛病等。
+metadata:
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/zh/shop/chiherbs/野生靈芝/
+  scraped_at: "2026-02-18T09:36:07.440Z"
+  language: zh-HK
+modern_usage: 研究證實靈芝含有大量高分子多糖體，對抗頑疾、穩定血糖及增強免疫力都有良效，另含有三萜類，這種物質已被証實對肝不良細胞有毒害作用，對促進肝功能及減輕過敏症狀，亦可增強心血管及呼吸系統功能。

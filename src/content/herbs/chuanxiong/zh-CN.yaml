@@ -1,0 +1,22 @@
+# 川芎
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%b7%9d%e8%8a%8e-2/
+# Language: zh-CN
+
+id: "chuanxiong"
+slug: "chuanxiong"
+category: "chinese-herbs"
+title: "川芎"
+scientific_name: "Ligusticum chuanxiong Hort"
+image: "images/chuanxiong.jpg"
+
+history: |
+  始载於《神农本草经》，列为上品
+
+traditional_usage: |
+  川芎是传统的活血止痛药，药味辛，药性温，归於肝、胆、心包经，能活血行气、袪风止痛，常用於气滞血瘀的痛症，例如头痛、腹痛、胸胁疼痛、关节疼痛、外伤肿痛等，亦常用於月经不调，例如迟经、闭经等等。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%b7%9d%e8%8a%8e-2/"
+  scraped_at: "2026-02-18T09:20:45.798Z"
+  language: "zh-CN"

@@ -1,0 +1,22 @@
+# 熟地 又名熟地黄
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%86%9f%e5%9c%b0-%e5%8f%88%e5%90%8d%e7%86%9f%e5%9c%b0%e9%bb%84/
+# Language: zh-CN
+
+id: "shoudihuang"
+slug: "shoudihuang"
+category: "chinese-herbs"
+title: "熟地 又名熟地黄"
+scientific_name: "Processed Rehmannia glutinosa"
+image: "images/shoudihuang.jpg"
+
+introduction: |
+  参科多年生草本植物地黄的根，经加黄酒拌蒸至同外色黑、油润，或直接蒸至黑润而成。
+
+traditional_usage: |
+  参科性甘，药性微温，归属肝、肾两经。功效补血滋阴，益精填髓。主治血虚萎黄，眩晕，心悸失眠，月经不调，崩漏，潮热盗汗，腰膝酸软，肾虚耳声嘈杂等。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%86%9f%e5%9c%b0-%e5%8f%88%e5%90%8d%e7%86%9f%e5%9c%b0%e9%bb%84/"
+  scraped_at: "2026-02-18T09:21:01.063Z"
+  language: "zh-CN"

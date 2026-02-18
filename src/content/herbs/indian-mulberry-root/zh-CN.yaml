@@ -1,0 +1,22 @@
+# 巴戟天
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%b7%b4%e6%88%9f%e5%a4%a9-2/
+# Language: zh-CN
+
+id: "indian-mulberry-root"
+slug: "indian-mulberry-root"
+category: "chinese-herbs"
+title: "巴戟天"
+scientific_name: "Morindae Officinalis"
+image: "images/indian-mulberry-root.jpg"
+
+history: |
+  始载於《神农本草经》，列为上品
+
+traditional_usage: |
+  巴戟天是补阳药，味甘、辛，药性微温，归肝、肾经，能补肾阳、强筋骨、袪风湿，常用於肾阳虚引起的不适，例如腰膝酸软、小便清长、耳声嘈杂等。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%b7%b4%e6%88%9f%e5%a4%a9-2/"
+  scraped_at: "2026-02-18T09:20:47.531Z"
+  language: "zh-CN"

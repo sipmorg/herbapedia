@@ -1,0 +1,20 @@
+# 金樱子
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e9%87%91%e6%a8%b1%e5%ad%90/
+# Language: zh-CN
+
+id: jinyingzi
+slug: jinyingzi
+category: chinese-herbs
+title: 金樱子
+scientific_name: Rosa laevigata Michx.
+image: images/jinyingzi.jpg
+introduction: |
+  蔷薇科植物金樱子的果实
+traditional_usage: |
+  金樱子为蔷薇科常绿攀灌植物金樱子的成熟果实， 味酸、涩，药性平， 归属肾、膀胱、大肠经， 能固精缩尿， 涩肠止泻。主治肾虚遗精、久泻不止，白带偏多，肺虚喘咳，自汗盗汗，崩漏等症。
+metadata:
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e9%87%91%e6%a8%b1%e5%ad%90/
+  scraped_at: "2026-02-18T09:21:36.481Z"
+  language: zh-CN
+modern_usage: 金樱子含鞣质，具收敛作用，其煎剂有助控制血脂问题，体外试验其对金黄色葡萄球菌、大肠桿菌、绿脓桿菌、流感病毒PR -3株有抑制作用。

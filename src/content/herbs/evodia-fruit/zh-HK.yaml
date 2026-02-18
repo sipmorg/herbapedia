@@ -1,0 +1,22 @@
+# 吳茱萸
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%90%b3%e8%8c%b1%e8%90%b8/
+# Language: zh-HK
+
+id: "evodia-fruit"
+slug: "evodia-fruit"
+category: "chinese-herbs"
+title: "吳茱萸"
+scientific_name: "Evodia rutaecarpa"
+image: "images/evodia-fruit.jpg"
+
+introduction: |
+  芸香科植物吳茱萸的接近成熟的果實
+
+traditional_usage: |
+  吳茱萸藥味辛、苦，藥性熱，有小毒，歸肝、脾、胃、腎經，能散寒止痛、溫中止嘔、助陽止瀉，可用於寒滯肝脈的脅脹腹痛，以及胃寒造成的脘腹冷痛、嘔吐、泄瀉等。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%90%b3%e8%8c%b1%e8%90%b8/"
+  scraped_at: "2026-02-18T09:17:41.585Z"
+  language: "zh-HK"

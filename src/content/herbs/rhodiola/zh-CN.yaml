@@ -1,0 +1,20 @@
+# 红景天
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%ba%a2%e6%99%af%e5%a4%a9/
+# Language: zh-CN
+
+id: rhodiola
+slug: rhodiola
+category: chinese-herbs
+title: 红景天
+scientific_name: Rhodiola Sacra
+image: images/rhodiola.jpg
+introduction: |
+  景天科植物红景天的根及根茎，分布新疆、山西、吉林等地，生于海拔1600至2700米的山坡林下，是亚洲地区常用传统药材。
+traditional_usage: |
+  红景天药味甘、微苦，药性微凉，能补气养阴，强心益智，一般用于心力衰弱、体虚乏力、头昏健忘等症。
+metadata:
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%ba%a2%e6%99%af%e5%a4%a9/
+  scraped_at: "2026-02-18T09:21:15.450Z"
+  language: zh-CN
+modern_usage: 红景天具抗缺氧抗疲劳作用，可用於预防高山症，并能增加运动耐力，国内常用於提升或保持运动员於比赛或训练期间的耐力。

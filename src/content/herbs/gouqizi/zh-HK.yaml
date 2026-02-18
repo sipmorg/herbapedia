@@ -1,0 +1,22 @@
+# 枸杞子
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e6%9e%b8%e6%9d%9e%e5%ad%90/
+# Language: zh-HK
+
+id: gouqizi
+slug: gouqizi
+category: chinese-herbs
+title: 枸杞子
+scientific_name: Lycium barbarum L.
+image: images/gouqizi.jpg
+history: |
+  始載於《神農本草經》，列為上品
+introduction: |
+  茄科植物枸杞或寧夏枸杞的成熟果實。枸杞子野生或栽培於海拔2000-3000米的河岸、於山坡、渠畔、耐鹽、耐旱的沙質土壤中。分佈於河北、內蒙古、山西、陝西、寧夏、甘肅、青海、新疆等地。7-9月清晨或傍晚採收成熟 果實，除去果柄，置席上放陰涼地方攤開晾至果皮起皺，再放到日光下曬到外皮乾燥而果實柔軟。
+traditional_usage: |
+  枸杞子味甘，藥性平，歸屬肝、腎二經，能明目補肝腎。主治肝腎不足，腰酸遺精，頭暈目眩，視力減退，消渴等，屬於常用的食療中藥。
+metadata:
+  source: vitaherbapedia.com
+  source_url: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e6%9e%b8%e6%9d%9e%e5%ad%90/
+  scraped_at: "2026-02-18T09:17:56.661Z"
+  language: zh-HK
+modern_usage: 本品具增強細胞與體液免疫的作用；對造血功能有促進作用；亦能抗衰老、抗突變、抗頑疾、保肝及穩定血糖等。杞子亦含有Beta胡蘿蔔素，有助改善視力。枸杞子提取物對於大鼠有顯著而持久的降糖作用，使糖耐量升高，有效成分是胍類衍生物及黃酮類。用純品和粗品枸杞多糖對實驗性四氧嘧啶糖尿病兔試驗表明，純品枸杞多糖有效率達100%，糖耐量曲綫明顯下降，降糖效果明顯優於粗品枸杞多糖，也優於枸杞原汁。研究表明，不同劑量枸杞水煎液均有降低血中總膽固醇、甘油三酯、低密度脂蛋白膽固醇的作用，對糖尿病合拼高血脂者療效顯著。

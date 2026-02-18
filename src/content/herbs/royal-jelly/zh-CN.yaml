@@ -1,5 +1,5 @@
 # 蜂王浆
-# Source: https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e8%9c%82%e7%8e%8b%e6%b5%86/
+# Source: https://www.vitaherbapedia.com/cn/shop/westherbs-cn/蜂王浆/
 # Language: zh-CN
 
 id: "royal-jelly"
@@ -16,6 +16,6 @@ traditional_usage: |
 
 metadata:
   source: "vitaherbapedia.com"
-  source_url: "https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e8%9c%82%e7%8e%8b%e6%b5%86/"
-  scraped_at: "2026-02-18T04:58:55.143Z"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/westherbs-cn/蜂王浆/"
+  scraped_at: "2026-02-18T09:36:09.974Z"
   language: "zh-CN"

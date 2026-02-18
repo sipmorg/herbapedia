@@ -1,0 +1,25 @@
+# 大黃
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%a4%a7%e9%bb%83/
+# Language: zh-HK
+
+id: "chinese-rhubarb-root"
+slug: "chinese-rhubarb-root"
+category: "chinese-herbs"
+title: "大黃"
+scientific_name: "Rheum palmatum L."
+image: "images/chinese-rhubarb-root.jpg"
+
+history: |
+  始載於《神農本草經》，列為下品
+
+introduction: |
+  蓼科植物大黃的根及根莖
+
+traditional_usage: |
+  大黃為蓼科多年生草本植物，是十分常用的攻下藥，其藥味苦而藥性寒涼，歸脾、胃、大腸、肝、心經，能通便瀉下、清熱解毒，傳統常用於陽明腑實證，例如熱結便秘、胃腸積滯，以及其他熱毒症狀。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%a4%a7%e9%bb%83/"
+  scraped_at: "2026-02-18T09:17:44.109Z"
+  language: "zh-HK"

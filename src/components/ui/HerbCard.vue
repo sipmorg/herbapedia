@@ -55,11 +55,25 @@ const categoryLabel = computed(() => categoryLabels[props.category] || props.cat
   overflow: hidden;
   box-shadow: var(--shadow-md);
   transition: all var(--transition-normal);
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
 }
 
-.herb-card:hover {
-  transform: translateY(-4px);
-  box-shadow: var(--shadow-xl);
+/* Only apply hover effects on devices that support hover (not touch) */
+@media (hover: hover) and (pointer: fine) {
+  .herb-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-xl);
+  }
+
+  .herb-card:hover .herb-card__image {
+    transform: scale(1.05);
+  }
+}
+
+/* Active state for mobile tap feedback */
+.herb-card:active {
+  transform: scale(0.98);
 }
 
 .herb-card__image-wrapper {
@@ -74,10 +88,6 @@ const categoryLabel = computed(() => categoryLabels[props.category] || props.cat
   height: 100%;
   object-fit: cover;
   transition: transform var(--transition-slow);
-}
-
-.herb-card:hover .herb-card__image {
-  transform: scale(1.05);
 }
 
 .herb-card__placeholder {

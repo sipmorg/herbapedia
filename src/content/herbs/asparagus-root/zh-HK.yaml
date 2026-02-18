@@ -1,0 +1,19 @@
+# 天冬
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%a4%a9%e5%86%ac/
+# Language: zh-HK
+
+id: "asparagus-root"
+slug: "asparagus-root"
+category: "chinese-herbs"
+title: "天冬"
+scientific_name: "Asparagus cochinchinensis"
+image: "images/asparagus-root.jpg"
+
+traditional_usage: |
+  天冬是百合科植物，藥用部份是塊根，藥味甘、苦，其性寒涼，歸屬肺、腎經，功能是養陰潤燥、清火、生津，常用於陰虛肺熱引起的燥咳、口乾、咽痛等，亦可改善腎陰不足導致的潮熱盜汗、內熱消渴等。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%a4%a9%e5%86%ac/"
+  scraped_at: "2026-02-18T09:17:44.921Z"
+  language: "zh-HK"

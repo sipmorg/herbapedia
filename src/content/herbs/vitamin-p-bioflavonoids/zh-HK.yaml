@@ -1,0 +1,28 @@
+# 維他命 P
+# Source: https://www.vitaherbapedia.com/zh/shop/vitamins/%e7%b6%ad%e4%bb%96%e5%91%bd-p/
+# Language: zh-HK
+
+id: "vitamin-p-bioflavonoids"
+slug: "vitamin-p-bioflavonoids"
+category: "vitamins"
+title: "維他命 P"
+scientific_name: "Bioflavonoids"
+image: "images/vitamin-p-bioflavonoids.jpg"
+
+history: |
+  維他命P能加強維他命C的功效，建議應與維他命C同時服用。維他命P能幫助減輕疼痛，經常用於治療運動創傷，減低在運動碰撞時肌肉瘀傷的情形。它亦能減輕流血不止問題，預防出血性疾病、a low serum calcium、牙床出血。維他命P亦能強化毛细血管壁，增強血管健康及使其滲透性運作正常，讓失去彈性、易破裂的血管恢復彈性，使血液循環順暢。它有助製造膽汁，控制膽固醇水平，亦用作預防眼睛晶體退化問題。
+
+introduction: |
+  維他命P可在柑橘屬果樹表皮下的白色物質中找到，其他來源包括胡椒、葡萄、松樹樹皮、洋蔥、大蒜、藍苺和紅苺、綠茶和蕎麥。
+
+traditional_usage: |
+  維他命P能提升維生素C的功效和或可延長它的效果。由於這個原因維他命 P和維生素C 應該多被一起服用。維他命P有效治療運動受傷，有助於紓緩痛楚。維他命P同時可以減輕某些症狀，包括流血不止和口腔皰疹等。維他命P被認為能保護毛細血管的結構，有抗微生物和促進血液循環的效果。維他命P也負責製造膽汁，控制血液膽固醇水平和防止晶體混濁。
+
+functions: |
+  黃酮類化合物一般在植物，水果中勻含有此類化合物存在於植物的外皮，例如柑橘類的白色果皮有研究顯示具有抗過敏，抗發炎，抗氧化，抗菌，抗癌和抗腹瀉效用有助結締組織形成，幫助減低傷口的形成
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/vitamins/%e7%b6%ad%e4%bb%96%e5%91%bd-p/"
+  scraped_at: "2026-02-18T09:19:39.232Z"
+  language: "zh-HK"
