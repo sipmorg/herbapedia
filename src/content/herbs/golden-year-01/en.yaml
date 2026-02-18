@@ -1,0 +1,25 @@
+# Niuxi
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/niuxi/
+# Language: en
+
+id: "golden-year-01"
+slug: "golden-year-01"
+category: "chinese-herbs"
+title: "Niuxi"
+scientific_name: "Achyranthis bidentatae"
+image: "images/golden-year-01.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica, classisfied as upper class.
+
+introduction: |
+  The root of Achyranthes bidentata Bl., family Amaranthaceae.
+
+traditional_usage: |
+  Niuxi comes from the roots of the cyathula plant, which is native to Sichuan province. Bitter and sour, this herb is neutral in nature. It is associated with the liver and kidney meridians and is able to activate circulation, promote urination, tonify the liver and kidney, and direct fire and blood downwards. It is one of the strongest herbs for treating disorders caused by blood stasis such a menstrual pain, irregular or missing periods and postnatal pain or abnormal bleeding. It tonifies the kidneys, which are the source of healthy hair.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/niuxi/"
+  scraped_at: "2026-02-18T03:34:00.523Z"
+  language: "en"

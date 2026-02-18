@@ -1,0 +1,28 @@
+# Cardamom
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/cardamom/
+# Language: en
+
+id: "cardamom"
+slug: "cardamom"
+category: "chinese-herbs"
+title: "Cardamom"
+scientific_name: "Amomum villosum"
+image: "images/cardamom.jpg"
+
+history: |
+  First appeared in Origins of the Materia Medica.
+
+introduction: |
+  From the dried matured fuit of Amomum villosum Lour., family Zingiberaceae.
+
+traditional_usage: |
+  Sharen, the fruit of the cardamom plant, is an aromatic herb with a warming nature. It regulates the chi, dissolves dampness, strengthens the spleen, warms the middle and is used to prevent miscarriage. It helps to relieve stomach stagnation and aid digestion, and is a popular addition to tonic formulas.
+
+modern_research: |
+  The volatile oil and aqueous decoction of Sharen has been found in studies to have an inhibitory affect against the bacteria staphylococcus aureus and posses anti-ulcerous effects.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/cardamom/"
+  scraped_at: "2026-02-18T03:33:14.588Z"
+  language: "en"

@@ -1,0 +1,25 @@
+# 山楂
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%b1%b1%e6%a5%82-2/
+# Language: zh-CN
+
+id: "fat-03"
+slug: "fat-03"
+category: "chinese-herbs"
+title: "山楂"
+scientific_name: "Crataegus pinnatifida"
+image: "images/fat-03.jpg"
+
+traditional_usage: |
+  山楂味酸、甘，药性微温，归属脾、胃、肝经。能消食化积、行气散瘀。主治肉食积滞、胃脘胀满、血瘀经闭、产后血瘀、心腹刺痛，可分生用或炒用，活血散瘀宜生用。
+
+历史: |
+  载於《本草经集注》
+
+简介: |
+  薇科落叶灌木或小乔木植物山里红或野山楂的成熟果实
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%b1%b1%e6%a5%82-2/"
+  scraped_at: "2026-02-18T03:37:18.876Z"
+  language: "zh-CN"

@@ -1,0 +1,25 @@
+# 荷叶
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%8d%b7%e5%8f%b6/
+# Language: zh-CN
+
+id: "fat-02"
+slug: "fat-02"
+category: "chinese-herbs"
+title: "荷叶"
+scientific_name: "Nelumbo nucifera"
+image: "images/fat-02.jpg"
+
+traditional_usage: |
+  荷叶味苦、涩，药性平，归属心、肝、脾三经。功效清暑利湿，升阳止血。主治暑热病症，如：烦燥、汗多尿少，另治水气浮肿、脾虚泄泻。
+
+历史: |
+  始载於《神农本草经》
+
+简介: |
+  睡莲科多年生水生草本植物莲的叶片
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%8d%b7%e5%8f%b6/"
+  scraped_at: "2026-02-18T03:38:00.067Z"
+  language: "zh-CN"

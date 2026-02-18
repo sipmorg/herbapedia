@@ -1,0 +1,25 @@
+# MPC
+# Source: https://www.vitaherbapedia.com/en/shop/nutrients-en/mpc/
+# Language: en
+
+id: "mpc"
+slug: "mpc"
+category: "nutrients"
+title: "MPC"
+scientific_name: "Milk Peptide Complex"
+image: "images/mpc.jpg"
+
+introduction: |
+  Synthetic.
+
+traditional_usage: |
+  Milk Peptide Complex enhances recovery of damaged skin, formation of the dermal ground substance (the skin's middle layer), blocks ageing factors, and plays a role in cell re-energising and the firming of tissue. The result is smoother, firmer skin with reduced wrinkles.
+
+modern_research: |
+  A key ingredient in many high-tech anti-ageing skin creams.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/nutrients-en/mpc/"
+  scraped_at: "2026-02-18T03:35:53.199Z"
+  language: "en"

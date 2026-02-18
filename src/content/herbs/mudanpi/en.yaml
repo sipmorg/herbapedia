@@ -1,0 +1,25 @@
+# Tree Peony
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/tree-peony/
+# Language: en
+
+id: "mudanpi"
+slug: "mudanpi"
+category: "chinese-herbs"
+title: "Tree Peony"
+scientific_name: "Paeonia Suffruticosa"
+image: "images/mudanpi.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica, classified as middle class.
+
+introduction: |
+  Cortex of Paeonia suffruticosa Andr., family Rranunculaceae.
+
+traditional_usage: |
+  Mudanpi has cooling, bitter properties that enter the heart, liver and kidney meridians. It is used to cool blood heat, invigorate circulation and disperse blood stasis. Its indications include menopausal symptoms; red blotchy skin; menstrual disorders; night fevers; irritability; amenorrhea and bruises caused by trauma.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/tree-peony/"
+  scraped_at: "2026-02-18T03:34:19.749Z"
+  language: "en"

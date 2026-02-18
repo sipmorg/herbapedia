@@ -1,0 +1,28 @@
+# Gouqizi
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/gouqizi/
+# Language: en
+
+id: "women-03"
+slug: "women-03"
+category: "chinese-herbs"
+title: "Gouqizi"
+scientific_name: "Lycium barbarum L."
+image: "images/women-03.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  From the fruit of Lycium barbarum L., family Solanaceae.
+
+traditional_usage: |
+  Gouqizi is a sweet, neutral herb that enters the liver, kidneys and lungs. In English it is known as Wolfberry. It is used for nourishing and tonifying the liver and kidneys, benefiting the essence, brightening the eyes, enriching the yin, nourishing blood and moistening the lungs.
+
+modern_research: |
+  An aqueous extract of Frustus Lycii has been found to enhance non-specific immunity and relieve liver damage in mice. It also contains carotene which is important for good eyesight.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/gouqizi/"
+  scraped_at: "2026-02-18T03:33:38.887Z"
+  language: "en"

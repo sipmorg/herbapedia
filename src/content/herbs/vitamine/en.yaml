@@ -1,0 +1,25 @@
+# Vitamin E
+# Source: https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-e/
+# Language: en
+
+id: "vitamine"
+slug: "vitamine"
+category: "vitamins"
+title: "Vitamin E"
+scientific_name: "d-Alpha-tocopherol, d-Beta-tocopherol, d-Gamma-tocopherol, d-Delta-tocopherol; Tocopheryl acetate, Tocopheryl succinate"
+image: "images/vitamine.jpg"
+
+introduction: |
+  Vitamin E is found in vegetable oils (with the exception of coconut oil), alfalfa seeds, margarine, nuts (especially almonds, brazil nuts, hazelnuts, peanuts and pecans), sunflower seed kernels, asparagus, avocados, beef, blackberries, butter, eggs, green leafy vegetables, oats and seafoods.
+
+traditional_usage: |
+  Vitamin E is a natural antioxidant that protects body cells from free radicals formed from unsaturated fatty acids, enhances elasticity of the connective tissue and is important for the skin's collagen metabolism. It also improves the metabolism of cells, smoothes skin and increases its ability to hold moisture, whilst having a normalising influence on micro-circulation. Around the body, it is essential to cellular respiration, primarily in the heart and skeletal muscle tissues. Natural vitamin E assimilates far better and is more bioactive than synthetic versions. Alpha-tocopherol is the most biologically active form of vitamin E.
+
+modern_research: |
+  Vitamin E is being tested as a treatment for many chronic diseases for the elderly, including Alzheimer's, macular degeneration, osteoarthritis, and prostate enlargement. It is also possible that this powerful antioxidant may help keep some types of cancer from developing.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-e/"
+  scraped_at: "2026-02-18T03:35:21.434Z"
+  language: "en"

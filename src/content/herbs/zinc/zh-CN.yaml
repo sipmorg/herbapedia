@@ -1,0 +1,21 @@
+# 锌
+# Source: https://www.vitaherbapedia.com/cn/shop/minerals-cn/%e9%94%8c/
+# Language: zh-CN
+
+id: "zinc"
+slug: "zinc"
+category: "minerals"
+title: "锌"
+image: "images/zinc.jpg"
+
+traditional_usage: |
+  锌是维持皮肤、骨骼及毛髮健康所必须的微量元素，亦是负责消化和呼吸功能所需的酵素的重要成份。其他功能包括促进红血球的二氧化碳传送、加强骨骼内的钙存量、强化骨质、促进核酸及蛋白质的合成和代谢，锌更有助维持生殖系统健康、促进伤口癒合、维持胰岛素保持正常水平及维持味觉功能。
+
+简介: |
+  食物来源包括牛肉、肝脏、牡蛎、香料和小麦穀皮。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/minerals-cn/%e9%94%8c/"
+  scraped_at: "2026-02-18T03:39:26.617Z"
+  language: "zh-CN"

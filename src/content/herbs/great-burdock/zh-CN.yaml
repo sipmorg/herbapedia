@@ -1,0 +1,22 @@
+# 牛蒡
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%89%9b%e8%92%a1-2/
+# Language: zh-CN
+
+id: "great-burdock"
+slug: "great-burdock"
+category: "chinese-herbs"
+title: "牛蒡"
+scientific_name: "Arctium lappi L."
+image: "images/great-burdock.jpg"
+
+traditional_usage: |
+  传统中药药用部份是牛蒡的成熟果实牛蒡子，其味辛、苦，性寒凉，归肺、胃经，能疏散风热、透疹利咽、解毒散肿，常用於外感风热、发热咽痛，并具温和的润肠通便作用。
+
+简介: |
+  菊科植物牛蒡
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%89%9b%e8%92%a1-2/"
+  scraped_at: "2026-02-18T03:37:41.126Z"
+  language: "zh-CN"

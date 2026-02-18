@@ -1,0 +1,21 @@
+# 卵磷脂
+# Source: https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e5%8d%b5%e7%a3%b7%e8%84%82-2/
+# Language: zh-CN
+
+id: "lecithin"
+slug: "lecithin"
+category: "nutrients"
+title: "卵磷脂"
+image: "images/lecithin.jpg"
+
+functions: |
+  卵磷脂是建造生物体细胞膜的主要成份，能乳化血液中的油脂粒，使油脂粒的体积变小，有助血液循环。当身体从食物中吸取足够的营养，肝脏就能每日制造卵磷脂。卵磷脂能保护细胞免受氧化，也负责制造神经髓鞘，保护脑神经和协助脑讯息传递。
+
+简介: |
+  卵磷脂可在蛋黄、大豆、向日葵籽和葡萄核中找到。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e5%8d%b5%e7%a3%b7%e8%84%82-2/"
+  scraped_at: "2026-02-18T03:39:37.592Z"
+  language: "zh-CN"

@@ -1,0 +1,25 @@
+# 北沙参
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%8c%97%e6%b2%99%e5%8f%82/
+# Language: zh-CN
+
+id: "heart-01"
+slug: "heart-01"
+category: "chinese-herbs"
+title: "北沙参"
+scientific_name: "Glehnia littoralis"
+image: "images/heart-01.jpg"
+
+traditional_usage: |
+  北沙蔘是补阴药，味甘、微苦，药性微寒，归肺、胃经，能养阴清肺、益胃生津。
+
+历史: |
+  始载於《神农本草经》
+
+简介: |
+  伞形科植物珊瑚菜的根
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%8c%97%e6%b2%99%e5%8f%82/"
+  scraped_at: "2026-02-18T03:37:07.454Z"
+  language: "zh-CN"

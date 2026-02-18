@@ -1,0 +1,25 @@
+# 首烏藤
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e9%a6%96%e7%83%8f%e8%97%a4/
+# Language: zh-HK
+
+id: "women-02"
+slug: "women-02"
+category: "chinese-herbs"
+title: "首烏藤"
+scientific_name: "Polygonum multiflorum Thunb"
+image: "images/women-02.jpg"
+
+traditional_usage: |
+  首烏藤又名夜交藤，是蓼科多年生蔓生草本植物何首烏的藤莖或帶葉藤莖。味甘，藥性平。歸經屬心、肝。能有效養心安神，袪風通絡。主治虛煩不眠，多夢，血虛頭暈，筋骨酸痛等，常與合歡花同用。
+
+歷史: |
+  始載於《本經逢原》
+
+簡介: |
+  蓼科植物何首烏的塊根，以黑豆汁拌勻，蒸至內外呈棕褐色，曬乾而成
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e9%a6%96%e7%83%8f%e8%97%a4/"
+  scraped_at: "2026-02-18T04:03:34.955Z"
+  language: "zh-HK"

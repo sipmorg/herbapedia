@@ -1,0 +1,25 @@
+# Inositol
+# Source: https://www.vitaherbapedia.com/en/shop/nutrients-en/inositol/
+# Language: en
+
+id: "inositol"
+slug: "inositol"
+category: "nutrients"
+title: "Inositol"
+scientific_name: "Myoinositol"
+image: "images/inositol.jpg"
+
+introduction: |
+  Inositol is available from both plant and animal sources. However the plant form, phytic acid, can bind with minerals and negatively affect their absorption. The body is also able to manufacture inositol. Food sources include wheat germ, brewers yeast, bananas, liver, brown rice, oat flakes, nuts, unrefined molasses, raisins and vegetables.
+
+traditional_usage: |
+  Inositol is necessary for the formation of lecithin and functions closely with a B complex vitamin, choline. It is a fundamental ingredient of cell membranes and is necessary for proper functioning of the nerves, brain and muscles. It also aids in the breakdown of fats, helps in the reduction of blood cholesterol, and can prevent thinning hair. Although it is often classified as a B vitamin itself and is sometimes referred to as vitamin B8, it is not really a vitamin as it can be manufactured by the human body.
+
+modern_research: |
+  Inositol is primarily used in the treatment of liver problems, depression, panic disorder and diabetes.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/nutrients-en/inositol/"
+  scraped_at: "2026-02-18T03:35:46.687Z"
+  language: "en"

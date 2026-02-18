@@ -1,0 +1,25 @@
+# 辛夷花 又名辛夷
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%be%9b%e5%a4%b7%e8%8a%b1-%e5%8f%88%e5%90%8d%e8%be%9b%e5%a4%b7-2/
+# Language: zh-CN
+
+id: "block-nose-01"
+slug: "block-nose-01"
+category: "chinese-herbs"
+title: "辛夷花 又名辛夷"
+scientific_name: "Magnolia denudata"
+image: "images/block-nose-01.jpg"
+
+traditional_usage: |
+  辛夷花传统用作发散风寒药，《本草纲目》中云：「治头面目鼻之病。」辛夷花能发散风寒、宣通鼻窍，常用于鼻渊头痛、风寒头痛等。
+
+历史: |
+  始载於《神农本草经》
+
+简介: |
+  木兰科植物望春花的花蕾
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%be%9b%e5%a4%b7%e8%8a%b1-%e5%8f%88%e5%90%8d%e8%be%9b%e5%a4%b7-2/"
+  scraped_at: "2026-02-18T03:38:10.873Z"
+  language: "zh-CN"

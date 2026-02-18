@@ -1,0 +1,28 @@
+# Hehuanhua
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/hehuanhua/
+# Language: en
+
+id: "hehuanhua"
+slug: "hehuanhua"
+category: "chinese-herbs"
+title: "Hehuanhua"
+scientific_name: "Albizzia Julibrissin Durazz"
+image: "images/hehuanhua.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica, classified as middle class.
+
+introduction: |
+  From either the flower bud of Albizzia Julibrissin Durazz or A. Kalkora (Roxb.) Prain, family Leguminosae.
+
+traditional_usage: |
+  Sweet in taste and neutral in character, hehuanhua affects the heart and liver meridians. It is used for calming the spirit, lifting feelings of sadness and treating conditions including insomnia and depression. It also invigorates the circulation and facilitates healing, making it a key herb for treating external trauma and injuries.
+
+modern_research: |
+  Clinical tests have confirmed hehuanhua has a suppressant action on the central nervous system, exhibiting sedative and hypnotic properties.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/hehuanhua/"
+  scraped_at: "2026-02-18T03:33:41.682Z"
+  language: "en"

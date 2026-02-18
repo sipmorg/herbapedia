@@ -1,0 +1,25 @@
+# 酸枣仁
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e9%85%b8%e6%9e%a3%e4%bb%81/
+# Language: zh-CN
+
+id: "suanzaoren"
+slug: "suanzaoren"
+category: "chinese-herbs"
+title: "酸枣仁"
+scientific_name: "Ziaiphus Jujube Mill. Var. Spinosa"
+image: "images/suanzaoren.jpg"
+
+traditional_usage: |
+  酸枣仁为鼠李科落叶灌木或小乔木植物酸枣的成熟种子，味甘、酸，药性平，能养心益肝、安神、敛汗，主治阴血不足、虚烦失眠、多梦、心悸怔忡、健忘、自汗盗汗等，近年常用於更年期综合症引起的失眠、多汗等。
+
+历史: |
+  始载於《神农本草经》，列为上品
+
+简介: |
+  鼠李科植物酸枣的乾燥成熟种子
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e9%85%b8%e6%9e%a3%e4%bb%81/"
+  scraped_at: "2026-02-18T03:38:13.700Z"
+  language: "zh-CN"

@@ -1,0 +1,25 @@
+# Asparagus Root
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/asparagus-root/
+# Language: en
+
+id: "lung-02"
+slug: "lung-02"
+category: "chinese-herbs"
+title: "Asparagus Root"
+scientific_name: "Asparagus cochinchinensis"
+image: "images/lung-02.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  From the roots of Asparagus cochinchinensis (Lour.) Merr.
+
+traditional_usage: |
+  Also known as asparagus root, tianmendong is a sweet and bitter tasting herb that is very cold in nature, and enters the lung and kidney meridians. It is used to clear lung heat, nourish the yin and moisten dry areas of the body. It is a useful treatment for dry coughs, chronic respiratory disorders and symptoms such as a dry tongue and chronic thirst. The asparagus roots are harvested in winter, cleaned, steamed and peeled to produce this medicinal herb.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/asparagus-root/"
+  scraped_at: "2026-02-18T03:33:06.168Z"
+  language: "en"

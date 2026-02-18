@@ -1,0 +1,24 @@
+# Selenium
+# Source: https://www.vitaherbapedia.com/en/shop/minerals-en/selenium/
+# Language: en
+
+id: "selenium"
+slug: "selenium"
+category: "minerals"
+title: "Selenium"
+image: "images/selenium.jpg"
+
+introduction: |
+  Selenium is found naturally in brazil nuts, butter, flour, fish, lobsters and smelt. However, the selenium content of plant and animal foodstuffs is affected by the selenium content of the soil and animal feed, respectively.
+
+traditional_usage: |
+  Selenium is an essential micronutrient for good health. It is a component of the enzyme glutathione peroxidase, the metabolic role of which is to protect against oxidation of polyunsaturated fatty acids and resultant tissue damage, meaning it can counter the damage caused by free radicals. It is also important for the functioning of the thyroid gland.
+
+modern_research: |
+  Selenium has been proven to enhance the efficacy of chemotherapy, reducing the toxicity of chemotherapeutic drugs and preventing the body's resistance to the drugs. One study of cancer cells in vitro showed that chemotherapeutic drugs, such as Taxol and Adriamycin, were more toxic to strains of cancer cells grown in culture when selenium was added. Its role in reducing deaths from HIV/Aids is also being investigated.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/minerals-en/selenium/"
+  scraped_at: "2026-02-18T03:35:30.575Z"
+  language: "en"

@@ -1,0 +1,28 @@
+# Shanzha
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/shanzha/
+# Language: en
+
+id: "fat-03"
+slug: "fat-03"
+category: "chinese-herbs"
+title: "Shanzha"
+scientific_name: "Crataegus pinnatifida"
+image: "images/fat-03.jpg"
+
+history: |
+  First appeared in Supplement to the Extension of the Materia Medica.
+
+introduction: |
+  Fruit of Crataegus pinnatifida Bunge, and C.cuneata Sieb. Et Zucc., family Rosaceae.
+
+traditional_usage: |
+  A sour, sweet tasting herb with warming properties, Shanzha enters the spleen, liver and stomach meridians. It reduces food stagnation, transforms blood stasis and dissipates clumps. Recently it has been used to treat hypertension, coronary artery diseases and hyperlipidemia. It may also be used as a nutritional supplement for children.
+
+modern_research: |
+  An extract of the herb has been shown to have a cardio-tonic effect and a slow but prolonged hypotensive action in anesthetised animals. It also inhibited arrhythmias of experimental animals. The herb lowered serum cholesterol and triglyceride level in rabbits, indicating its anti-hyperlipidemic effects.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/shanzha/"
+  scraped_at: "2026-02-18T03:34:07.853Z"
+  language: "en"

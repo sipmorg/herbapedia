@@ -1,0 +1,21 @@
+# Calcium
+# Source: https://www.vitaherbapedia.com/en/shop/minerals-en/calcium/
+# Language: en
+
+id: "calcium"
+slug: "calcium"
+category: "minerals"
+title: "Calcium"
+image: "images/calcium.jpg"
+
+introduction: |
+  Found in cheeses, wheat and soya flour, milk and milk products, soya milk and soya products.
+
+traditional_usage: |
+  The primary function of calcium is to build the bones and teeth and to maintain bone density. Other functions include enabling blood clotting; muscle contraction and relaxation, especially the heartbeat; helping nerves to transmit electrical pulses; maintaining cell wall permeability; enzyme activation; and secretion of a number of hormones and hormone-releasing factors. Without an adequate intake of calcium, the bones become brittle and thin, causing a condition called osteoporosis. It is particularly important that growing children get adequate calcium in their diet while their bones are being formed, and it is an important mineral too for women who have gone through the menopause, and who are therefore most at risk from developing brittle bones due to changes in their hormones.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/minerals-en/calcium/"
+  scraped_at: "2026-02-18T03:35:23.921Z"
+  language: "en"

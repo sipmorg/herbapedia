@@ -1,0 +1,21 @@
+# 精華油
+# Source: https://www.vitaherbapedia.com/zh/shop/nutrients/%e7%b2%be%e8%8f%af%e6%b2%b9/
+# Language: zh-HK
+
+id: "mineral-oil"
+slug: "mineral-oil"
+category: "nutrients"
+title: "精華油"
+image: "images/mineral-oil.jpg"
+
+traditional_usage: |
+  精華油是嬰兒油、凡士林、其他潤膚霜和化妝品的主要成份， 特別是用作唇膏。精華油更能有效卸妝。
+
+簡介: |
+  精華油是清晰、透明和無毒性的油份，由石油衍生出來，具有理想的潤膚功效。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/nutrients/%e7%b2%be%e8%8f%af%e6%b2%b9/"
+  scraped_at: "2026-02-18T04:05:01.659Z"
+  language: "zh-HK"

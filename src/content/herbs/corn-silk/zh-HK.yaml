@@ -1,0 +1,22 @@
+# 玉米穗絲
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%8e%89%e7%b1%b3%e7%a9%97%e7%b5%b2/
+# Language: zh-HK
+
+id: "corn-silk"
+slug: "corn-silk"
+category: "chinese-herbs"
+title: "玉米穗絲"
+scientific_name: "Zea Mays (LINN.)"
+image: "images/corn-silk.jpg"
+
+traditional_usage: |
+  玉米穗絲有利尿、鎮痛、壓抑發炎細胞和提高能量作用，能夠紓緩排水系統所受的各種刺激，同時亦對小孩的腎臟問題有幫助，當與其他草本同時使用，對治療排水系統問題如膀胱、尿管道和前列很有幫助。玉米穗絲或有助改善淋病，排水管道黏膜問題和身體水份積存問題。對痛風和風濕均有良效，亦對減低小孩和老人尿床方面有正面結果。此外，玉米穗絲也是一種對身體無害的減肥配方成分。
+
+簡介: |
+  玉米穗絲是從玉蜀黍外殼內的乾穗狀雄花中取得。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%8e%89%e7%b1%b3%e7%a9%97%e7%b5%b2/"
+  scraped_at: "2026-02-18T04:02:50.001Z"
+  language: "zh-HK"

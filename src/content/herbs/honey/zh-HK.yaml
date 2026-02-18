@@ -1,0 +1,21 @@
+# 蜂王漿
+# Source: https://www.vitaherbapedia.com/zh/shop/westherbs/%e8%9c%82%e7%8e%8b%e6%bc%bf/
+# Language: zh-HK
+
+id: "honey"
+slug: "honey"
+category: "western-herbs"
+title: "蜂王漿"
+image: "images/honey.jpg"
+
+traditional_usage: |
+  蜂王漿含有豐富營養，包括礦物質、維他命 B、蛋白質及必需胺基酸，有助抗氧化及抗疲勞，更可用作紓緩過敏症狀，但對蜜糖及蜜蜂敏感人士不宜服用。
+
+簡介: |
+  蜂皇漿是蜜蜂餵養幼蟲的分泌物。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/westherbs/%e8%9c%82%e7%8e%8b%e6%bc%bf/"
+  scraped_at: "2026-02-18T04:04:12.448Z"
+  language: "zh-HK"

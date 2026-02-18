@@ -1,0 +1,25 @@
+# Xinyihua
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/xinyihua/
+# Language: en
+
+id: "block-nose-01"
+slug: "block-nose-01"
+category: "chinese-herbs"
+title: "Xinyihua"
+scientific_name: "Magnolia denudata"
+image: "images/block-nose-01.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  The flowerbud of Magnolia denudata Desr., or one of several species under the same genus, family Magnoliaceae.
+
+traditional_usage: |
+  Prepared from the buds of the magnolia flower, xinyihua is a warm, bitter herb that enters the lung and stomach meridians to expel wind-cold and relieve nasal congestion, headaches and nasal discharge. It is used to treat conditions including sinusitis and rhinitis.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/xinyihua/"
+  scraped_at: "2026-02-18T03:34:27.810Z"
+  language: "en"

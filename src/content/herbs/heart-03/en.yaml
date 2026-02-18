@@ -1,0 +1,28 @@
+# Danshen
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/danshen/
+# Language: en
+
+id: "heart-03"
+slug: "heart-03"
+category: "chinese-herbs"
+title: "Danshen"
+scientific_name: "Salvia Miltorrhiza Bge."
+image: "images/heart-03.jpg"
+
+history: |
+  First appeared in the Divine Husbandman's Classic of the Materia Medica, classified as upper class.
+
+introduction: |
+  The root and rhizome of Salvia militiorrhiza Bunge, family Labiatae.
+
+traditional_usage: |
+  Danshen, also known as salvia root, is a cooling herb for the heart and liver meridians. It activates blood circulation, clears blood stasis, cools the blood, reduces swellings, nourishes blood and calms the spirit. It can be used to address various disorders caused by blood stagnation, including chest pains and an enlarged liver. Its calming properties also mean it can treat palpitations and insomnia caused by heart-blood deficiency.
+
+modern_research: |
+  Danshen has several pharmacological properties. It is an anticoagulant, antibiotic, hepaprotective, a sedative, and can dilate the coronary arteries. It has been used in clinical studies to treat conditions including chronic hepatitis, coronary artery disease, thrombosis and insomnia with good results.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/danshen/"
+  scraped_at: "2026-02-18T03:33:26.267Z"
+  language: "en"

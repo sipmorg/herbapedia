@@ -1,0 +1,25 @@
+# Maidong
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/maidong/
+# Language: en
+
+id: "lung-01"
+slug: "lung-01"
+category: "chinese-herbs"
+title: "Maidong"
+scientific_name: "Ophiopogon japonicus"
+image: "images/lung-01.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  From the scale leaf of the bulb of Ophiopogon japonicus (L. f.) Ker-Gawl., family Liliaceae.
+
+traditional_usage: |
+  Maimendong is sweet and slightly bitter in taste with a cold nature, entering the heart, lung and stomach meridians. It can moisten the lungs and stop coughs, nourish the stomach yin, generate fluids and moisten the intestines. It is also useful for clearing heat, especially in cases of irritability and insomnia caused by yin deficiency. It is often combined with other herbs to treat chronic dry coughs.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/maidong/"
+  scraped_at: "2026-02-18T03:33:56.025Z"
+  language: "en"

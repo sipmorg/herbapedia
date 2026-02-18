@@ -1,0 +1,22 @@
+# 甲硫氨酸
+# Source: https://www.vitaherbapedia.com/zh/shop/nutrients/%e7%94%b2%e7%a1%ab%e6%b0%a8%e9%85%b8/
+# Language: zh-HK
+
+id: "methionine"
+slug: "methionine"
+category: "nutrients"
+title: "甲硫氨酸"
+scientific_name: "L-Methionine"
+image: "images/methionine.jpg"
+
+functions: |
+  甲硫氨酸能幫助分解脂肪，有助阻止血油脂粒於血管道積聚。由於甲硫氨酸可以被轉換成半胱氨酸，而半胱氨酸是製造麩氨基硫的主要成分，故甲硫氨酸對肝臟排毒十分重要，能有助將有害重金屬從身體中移除，是強肝的解毒劑。甲硫氨酸中的硫能抑制游離基的侵擾，能紓緩抑鬱、關節疼痛和慢性肝臟疾病。部份研究更指出甲硫氨酸能改善記憶。
+
+簡介: |
+  肉、魚、豆、蛋、大蒜、小扁豆、洋蔥、酸奶酪和種子都含有豐富的甲硫氨酸。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/nutrients/%e7%94%b2%e7%a1%ab%e6%b0%a8%e9%85%b8/"
+  scraped_at: "2026-02-18T04:04:57.474Z"
+  language: "zh-HK"

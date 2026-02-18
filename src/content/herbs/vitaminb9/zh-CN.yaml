@@ -1,0 +1,25 @@
+# 维他命 B9 又名叶酸
+# Source: https://www.vitaherbapedia.com/cn/shop/vitamins-cn/%e7%bb%b4%e4%bb%96%e5%91%bd-b9-%e5%8f%88%e5%90%8d%e5%8f%b6%e9%85%b8/
+# Language: zh-CN
+
+id: "vitaminb9"
+slug: "vitaminb9"
+category: "vitamins"
+title: "维他命 B9 又名叶酸"
+scientific_name: "Folacin, Folic Acid, Pteroylglutamic Acid (PGA)"
+image: "images/vitaminb9.jpg"
+
+functions: |
+  维他命B9又名叶酸 协助製造红血球，缺乏维生素B9会使得血红素降低，而导致贫血 协助细胞生长，生长发育必须 有助胎儿神经管道发育，怀孕妇女需预早做好準备，尤其怀孕初期的摄取十分重要
+
+历史: |
+  叶酸名字由拉丁文字「薄层」而来，它最初被提取自菠菜叶。 叶酸於70年前被研究人员 Wills 识别，并用於预防怀孕贫血的养份。医生Wills 显示当中提炼的酵母可以改善贫血。叶酸於1930 时提取自酵母，并被认定能改善贫血的物质，於1941年开始从菠菜中提炼。
+
+简介: |
+  每日需求 每日400微克 维他命 B9的来源 肝脏、肾、鳄梨、豆子、甜菜、芹菜、鹰嘴豆、蛋、鱼、绿色多叶蔬菜、坚果、橙、大豆和全麦产品都含有丰富的叶酸。含叶酸成份的补充剂通常都是从酵母、小麦胚芽或/及合成的叶酸上中撮取。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/vitamins-cn/%e7%bb%b4%e4%bb%96%e5%91%bd-b9-%e5%8f%88%e5%90%8d%e5%8f%b6%e9%85%b8/"
+  scraped_at: "2026-02-18T03:39:12.964Z"
+  language: "zh-CN"

@@ -1,0 +1,25 @@
+# 白芍
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/%e7%99%bd%e8%8a%8d/
+# Language: en
+
+id: "replenishingblood-01"
+slug: "replenishingblood-01"
+category: "chinese-herbs"
+title: "白芍"
+scientific_name: "Paeonia lactiflora pall"
+image: "images/replenishingblood-01.jpg"
+
+history: |
+  始載於《神農本草經》，列為中品。但無赤芍、白芍之分，統稱為芍藥。白芍藥則見於《本草經集注》。
+
+introduction: |
+  毛茛科植物芍藥的根
+
+traditional_usage: |
+  白芍是補血藥，味苦、酸、甘，藥性微寒，歸肝、脾經，能養血調經、平肝止痛、斂陰止汗。常用於頭痛、眩暈、脅肋疼痛、四肢攣痛、血虛、月經不調、自汗及盜汗等。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/%e7%99%bd%e8%8a%8d/"
+  scraped_at: "2026-02-18T03:34:35.326Z"
+  language: "en"

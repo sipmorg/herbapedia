@@ -1,0 +1,21 @@
+# 碘
+# Source: https://www.vitaherbapedia.com/cn/shop/minerals-cn/%e7%a2%98-2/
+# Language: zh-CN
+
+id: "iodine"
+slug: "iodine"
+category: "minerals"
+title: "碘"
+image: "images/iodine.jpg"
+
+traditional_usage: |
+  碘在人体中的主要功能是製造含碘的甲状腺荷尔蒙。
+
+简介: |
+  在众多天然食品中，最优质的碘源自海草、海鲜及产自含丰富碘成份的土壤及碘化盐的蔬菜。平衡的碘化盐含0.01% 的钾碘化物(0.0076%)，或每克含76mcg碘。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/minerals-cn/%e7%a2%98-2/"
+  scraped_at: "2026-02-18T03:39:21.561Z"
+  language: "zh-CN"

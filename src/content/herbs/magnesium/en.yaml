@@ -1,0 +1,24 @@
+# Magnesium
+# Source: https://www.vitaherbapedia.com/en/shop/minerals-en/magnesium/
+# Language: en
+
+id: "magnesium"
+slug: "magnesium"
+category: "minerals"
+title: "Magnesium"
+image: "images/magnesium.jpg"
+
+introduction: |
+  Magnesium is present in instant coffee, cocoa powder, cottonseed flour, peanut flour, sesame seeds, soybean flour, spices, wheat bran and wheat germ.
+
+traditional_usage: |
+  A key constituent of bones and teeth. Magnesium is also an essential element for cellular metabolism, often as an activator of enzymes - including certain peptidases in protein digestion. It also relaxes nerve impulses, functioning antagonistically to calcium, which is stimulatory, and relaxes the heart muscles, preventing sudden surges in blood pressure.
+
+modern_research: |
+  Magnesium can be used to treat a range of medical conditions, including aiding recovery from heart attacks; helping to dissolve kidney stones; relieving migraines; and treating asthma and diabetes.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/minerals-en/magnesium/"
+  scraped_at: "2026-02-18T03:35:27.813Z"
+  language: "en"

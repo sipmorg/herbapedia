@@ -1,0 +1,18 @@
+# 甘油
+# Source: https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e7%94%98%e6%b2%b9-2/
+# Language: zh-CN
+
+id: "glycerin"
+slug: "glycerin"
+category: "nutrients"
+title: "甘油"
+image: "images/glycerin.jpg"
+
+functions: |
+  甘油是带有甜味、无颜色呈黏状的液体。其主要作用是填补皮肤细胞之间的空隙，帮助修补脂质从而令皮肤变得光滑，是能增强水分和润滑粗糙皮肤的一种柔软润肤霜。甘油适合敏感性皮肤人士使用，并可用作制成甘油肥皂，特别适合干性或容易受刺激的皮肤。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e7%94%98%e6%b2%b9-2/"
+  scraped_at: "2026-02-18T03:39:44.445Z"
+  language: "zh-CN"

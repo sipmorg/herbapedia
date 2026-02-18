@@ -1,0 +1,25 @@
+# Corn Silk
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/corn-silk/
+# Language: en
+
+id: "corn-silk"
+slug: "corn-silk"
+category: "chinese-herbs"
+title: "Corn Silk"
+scientific_name: "Zea Mays (LINN.)"
+image: "images/corn-silk.jpg"
+
+history: |
+  Corn Silk has long been used in North American folk medicine to treat urinary conditions including inflammation of the bladder and painful urination.
+
+introduction: |
+  Corn silk is obtained from the silky dried tassels found inside cornhusks.
+
+traditional_usage: |
+  Corn Silk is used as a remedy for conditions of the urinary passage. It is a diuretic, a demulcent, an anti-inflammatory and a general tonic. As a soothing diuretic, Corn Silk is helpful in the treatment of any irritation of the urinary system. It is used for renal problems in children and as a urinary demulcent combined with other herbs in the treatment of cystitis, urethritis, prostatitis and the like. Corn Silk may also be helpful in treating gonorrhea and a nighttime drink made from the herb has been found successful in countering bedwetting by children or older people. It has also been used as a harmless weight-reducer.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/corn-silk/"
+  scraped_at: "2026-02-18T03:33:24.422Z"
+  language: "en"

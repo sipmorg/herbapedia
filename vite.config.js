@@ -35,19 +35,26 @@ export default defineConfig({
         herbRoutes.push(`/herbs/${cat}`)
       })
 
-      // Individual herbs - will be populated from content
+      // Individual herbs - will be populated from content directories
       // This runs at build time, so we read from the content directory
       const herbsDir = path.resolve(__dirname, 'src/content/herbs')
 
       if (fs.existsSync(herbsDir)) {
-        const files = fs.readdirSync(herbsDir).filter(f => f.endsWith('.yaml') && f !== 'index.yaml')
-        files.forEach(file => {
-          const slug = file.replace('.yaml', '')
-          // We need to determine the category from the YAML content
-          // For now, add routes for all categories with this slug
-          categories.forEach(cat => {
-            herbRoutes.push(`/herbs/${cat}/${slug}`)
-          })
+        // New structure: herbs/{slug}/en.yaml
+        const dirs = fs.readdirSync(herbsDir, { withFileTypes: true })
+          .filter(dirent => dirent.isDirectory())
+          .map(dirent => dirent.name)
+
+        dirs.forEach(slug => {
+          // Read category from en.yaml
+          const enPath = path.join(herbsDir, slug, 'en.yaml')
+          if (fs.existsSync(enPath)) {
+            const content = fs.readFileSync(enPath, 'utf8')
+            const catMatch = content.match(/^category:\s*"([^"]+)"/m)
+            if (catMatch) {
+              herbRoutes.push(`/herbs/${catMatch[1]}/${slug}`)
+            }
+          }
         })
       }
 

@@ -1,0 +1,25 @@
+# 枸杞子
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e6%9e%b8%e6%9d%9e%e5%ad%90-2/
+# Language: zh-CN
+
+id: "women-03"
+slug: "women-03"
+category: "chinese-herbs"
+title: "枸杞子"
+scientific_name: "Lycium barbarum L."
+image: "images/women-03.jpg"
+
+traditional_usage: |
+  枸杞子味甘，药性平，归属肝，肾二经，能明目补肝肾。主治肝肾不足，腰酸遗精，头晕目眩，视力减退，消渴等，属于常用的食疗中药。
+
+历史: |
+  始载於《神农本草经》，列为上品
+
+简介: |
+  茄科植物枸杞或宁夏枸杞的成熟果实。枸杞子野生或栽培于海拔2000-3000米的河岸、于山坡、渠畔、耐盐、耐旱的沙质土壤中。分布于河北、内蒙古、山西、陕西、宁夏、甘肃、青海、新疆等地。7-9月清晨或傍晚采收成熟 果实，除去果柄，置席上放阴凉地方摊开晾至果皮起皱，再放到日光下晒到外皮干燥而果实柔软。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e6%9e%b8%e6%9d%9e%e5%ad%90-2/"
+  scraped_at: "2026-02-18T03:37:28.747Z"
+  language: "zh-CN"

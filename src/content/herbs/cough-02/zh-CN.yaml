@@ -1,0 +1,25 @@
+# 射干
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%b0%84%e5%b9%b2-2/
+# Language: zh-CN
+
+id: "cough-02"
+slug: "cough-02"
+category: "chinese-herbs"
+title: "射干"
+scientific_name: "Belamcanda chinensis"
+image: "images/cough-02.jpg"
+
+traditional_usage: |
+  射干是传统的清热解毒中药，性味苦寒，归肺经，由於本品善清肺经实火，所以常用於治疗肺热咳嗽、咳痰黄稠，《本草纲目》记：「射干能降火，故古方治喉痹咽痛为要药。」，常与桑白皮、桔梗等同用。
+
+历史: |
+  始载於《神农本草经》
+
+简介: |
+  鸢尾科植物射干的根茎
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%b0%84%e5%b9%b2-2/"
+  scraped_at: "2026-02-18T03:37:16.956Z"
+  language: "zh-CN"

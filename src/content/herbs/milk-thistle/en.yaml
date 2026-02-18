@@ -1,0 +1,25 @@
+# Milk Thistle
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/milk-thistle/
+# Language: en
+
+id: "milk-thistle"
+slug: "milk-thistle"
+category: "western-herbs"
+title: "Milk Thistle"
+scientific_name: "Silybum marianum (L.) Gaertn"
+image: "images/milk-thistle.jpg"
+
+history: |
+  Milk Thistle preparations have been used in European medicine for over 2000 years to treat liver and biliary tract diseases, and to cure people who have ingested poisonous mushrooms.
+
+introduction: |
+  Milk Thistle preparations consist of the dried fruits (also known as achenes) of Silybum marianum (L.) Gaertn.
+
+traditional_usage: |
+  Milk thistle improves the liver's ability to get rid of dangerous toxins and repair damage to the organ. This is because the seeds of the plant contain 1.5-3.0% flavonolignans including silybin, silydianin, and silychristin - chemicals collectively referred to as silymarin. Animal research and human clinical trials have suggested that the liver protecting properties of silymarin may include anti-fibrotic activity, helping to treat damage caused as a result of alcohol abuse or chronic active viral hepatitis. This western herb can also be used in traditional Chinese medicine to supplement liver and spleen yin, clear heat and remove toxins.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/milk-thistle/"
+  scraped_at: "2026-02-18T03:35:00.366Z"
+  language: "en"

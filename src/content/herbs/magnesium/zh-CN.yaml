@@ -1,0 +1,21 @@
+# 镁
+# Source: https://www.vitaherbapedia.com/cn/shop/minerals-cn/%e9%95%81/
+# Language: zh-CN
+
+id: "magnesium"
+slug: "magnesium"
+category: "minerals"
+title: "镁"
+image: "images/magnesium.jpg"
+
+traditional_usage: |
+  镁是建造骨头和牙齿的主要成分。镁也是细胞的新陈代谢的一个必要的元素，多用作酵素的催化剂。在消化蛋白质的过程中, 镁负责启动部份蛋白分解酵素。於神经系统中, 镁是钙的拮抗剂，负责放松神经脉衝。
+
+简介: |
+  速溶咖啡、可可粉、棉籽麵粉、花生麵粉、芝麻籽、大豆麵粉、香料、小麦穀皮和小麦胚都含有镁。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/minerals-cn/%e9%95%81/"
+  scraped_at: "2026-02-18T03:39:28.553Z"
+  language: "zh-CN"

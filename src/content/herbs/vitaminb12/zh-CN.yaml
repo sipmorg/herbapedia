@@ -1,0 +1,28 @@
+# 维他命 B12
+# Source: https://www.vitaherbapedia.com/cn/shop/vitamins-cn/%e7%bb%b4%e4%bb%96%e5%91%bd-b12/
+# Language: zh-CN
+
+id: "vitaminb12"
+slug: "vitaminb12"
+category: "vitamins"
+title: "维他命 B12"
+scientific_name: "Cyanocobalamin"
+image: "images/vitaminb12.jpg"
+
+traditional_usage: |
+  维他命 B12 帮助将食物转换成能量，包裹在神经周围作保护的神经髓鞘、红血球、负责维持健康的免疫系统也需要维他命 B12。缺乏维他命 B12 可能导致脑功能受损害。
+
+functions: |
+  协助製造红血球 保持神经系统健康 增进食慾 帮助蛋白质的新陈代谢
+
+简介: |
+  每日需求 每日2.4微克 维他命 B12的来源 可以在肝脏、蛋、鱼、贝类、乳製品和酿酒的酵母找到。因植物中没有维他命B12，素食者必须服用维他命B12
+
+缺乏症状: |
+  贫血 思考迟缓、情绪混乱、记忆力衰退 知觉减弱
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/vitamins-cn/%e7%bb%b4%e4%bb%96%e5%91%bd-b12/"
+  scraped_at: "2026-02-18T03:39:07.929Z"
+  language: "zh-CN"

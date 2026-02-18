@@ -1,0 +1,28 @@
+# Lingzhi (Reishi)
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/lingzhi-reishi/
+# Language: en
+
+id: "lingzhi"
+slug: "lingzhi"
+category: "chinese-herbs"
+title: "Lingzhi (Reishi)"
+scientific_name: "Ganoderma lucidum"
+image: "images/lingzhi.jpg"
+
+history: |
+  Lingzhi first appeared in Shui Wen and the Divine Husbandman's Classic of the Materia Medica, classified as upper class. Lingzhi has been prized in Asian medicine for around 4,000 years. It grows around the bases and stumps of deciduous trees, mostly in virgin forests high in the mountains. Its rarity and the inaccesibility of its habitat mean that most Lingzhi products on the market today are made from artificially cultivated specimens. However, Chinese doctors have long stressed the importance of harvesting the fungus in their natural habitat, so Vita Green Lingzhi is made from natural and wild mushrooms to harness the full healing effects of this powerful herb.
+
+introduction: |
+  The sporophore of Ganoderma Lucidum (Leyss. Ex Fr.) Karst. or G. japonicum (Fr.) Lloyd, family Polyporaceae.
+
+traditional_usage: |
+  Lingzhi (also known as Reishi) is a type of fungus that grows on trees: there are more than 100 different types, but only six are prized for their medicinal properties. These six are sorted into five different colours according to their healing paths. Red Lingzhi treats chest discomfort, replenishes vital energy, improves memory and helps to attain longevity. Violet Lingzhi treats deafness, benefits the joints and bones and replenishes vital energy to strengthen the body. Yellow Lingzhi treats abdominal discomfort, benefits the digestive system and calms the spirit. White Lingzhi nourishes the lungs to soothe coughs and respiratory disorders, relieves congestion of the oral and nasal cavity, and calms the spirit. Black Lingzhi tonifies the kidneys. Green Lingzhi can improve vision and tonify the liver, as well as calm the spirit and improve memory. Lingzhi is sweet and neutral in nature, making it suitable for all constitutions. Conventionally, the different types of Lingzhi can be consumed as a general tonic for health maintenance. According to the Pharmacopoeia of the People's Republic of China 2005, Lingzhi can be used to relieve conditions including dizziness, insomnia, palpitations, shortness of breath, asthmatic coughs and asthma.
+
+modern_research: |
+  Studies have shown Lingzhi increases the body’s antioxidant levels, strengthens the immune system, helps protect kidney cells and may posses anti-ageing properties such as increasing appetite and energy levels, reducing white hair and age spots, and aiding sleep.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/lingzhi-reishi/"
+  scraped_at: "2026-02-18T03:33:52.355Z"
+  language: "en"

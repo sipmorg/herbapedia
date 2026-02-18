@@ -1,0 +1,25 @@
+# Epicutin-TT
+# Source: https://www.vitaherbapedia.com/en/shop/nutrients-en/epicutin-tt/
+# Language: en
+
+id: "epicutin-tt"
+slug: "epicutin-tt"
+category: "nutrients"
+title: "Epicutin-TT"
+scientific_name: "Timed Release Formation Epicutin-TT"
+image: "images/epicutin-tt.jpg"
+
+introduction: |
+  Synthetic
+
+traditional_usage: |
+  Epicutin-TT is Tea Tree oil in a time-release formulation. Tea Tree is an important natural antiseptic that has been used traditionally to treat stings, burns, wounds and skin infections of all kinds. It is strongly antiseptic, diaphoretic and expectorant. It can stimulate the immune system, reduce histamine-induced skin inflammation and is effective against a broad range of bacterial and fungal infections. Applied externally in is useful in the treatment of thrush, acne, athlete's foot, verrucae, warts, insect bites, cold sores and nits.
+
+modern_research: |
+  Tea Tree Oil in a unique time-release format, Epicutin-TT, helps protect skin from undersirable germs 24 hours a day. It is strongly germicidal and therefore also used in dentistry, deodorants, soaps, mouthwashes etc.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/nutrients-en/epicutin-tt/"
+  scraped_at: "2026-02-18T03:35:41.125Z"
+  language: "en"

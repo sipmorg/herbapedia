@@ -1,0 +1,28 @@
+# 維他命 E
+# Source: https://www.vitaherbapedia.com/zh/shop/vitamins/%e7%b6%ad%e4%bb%96%e5%91%bd-e/
+# Language: zh-HK
+
+id: "vitamine"
+slug: "vitamine"
+category: "vitamins"
+title: "維他命 E"
+scientific_name: "d-Alpha-tocopherol, d-Beta-tocopherol, d-Gamma-tocopherol, d-Delta-tocopherol; Tocopheryl acetate, Tocopheryl succinate"
+image: "images/vitamine.jpg"
+
+traditional_usage: |
+  維他命E 是一種天然抗氧化劑，能保護身體細胞，對抗由不飽和脂肪酸形成的游離基。它是細胞呼吸不可或缺的元素，尤其是心臟和骨骼肌肉組織。天然的維他命E 比合成的更容易被吸收和更具有生物活性。Alpha-tocopherol 是生化活性最活躍的維他命E形式。
+
+functions: |
+  維持細胞正常，保持皮膚及各組織的健康 保護紅血球 抗氧化功能 加強抵抗力 提高生育能力，預防流產
+
+簡介: |
+  每日需求 每天20IU，最高400IU 維他命 E的來源 維他命E多從植物油中找到（除了椰子油），還有紫花苜蓿籽，人造牛油，堅果（尤其是杏仁，巴西堅果，榛子，花生和薄殼胡桃，向日葵籽，蘆筍，牛油果，牛肉，黑莓，牛油，雞蛋，綠色多葉的蔬菜，燕麥和海鮮。
+
+缺乏症狀: |
+  虛弱 不孕，男性睾丸萎縮不產生精子，女性胚胎與胎盤萎縮引起流產。阻礙腦垂體調節卵巢分泌雌激素等誘發更年期綜合症、卵巢早衰 無法抵抗自由基傷害，自由基不僅會引起生物膜脂質過氧化，破壞細胞膜的結構和功能，還會使蛋白質變形，酶和激素失活，免疫力下降，代謝失常，促使機體衰老。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/vitamins/%e7%b6%ad%e4%bb%96%e5%91%bd-e/"
+  scraped_at: "2026-02-18T04:04:28.716Z"
+  language: "zh-HK"

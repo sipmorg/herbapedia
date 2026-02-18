@@ -1,0 +1,24 @@
+# Chitosan
+# Source: https://www.vitaherbapedia.com/en/shop/nutrients-en/chitosan/
+# Language: en
+
+id: "chitosan"
+slug: "chitosan"
+category: "nutrients"
+title: "Chitosan"
+image: "images/chitosan.jpg"
+
+introduction: |
+  Chitosan is produced by the deacetylation of chitin, which is the structural element in the exoskeleton of crustaceans such as crabs and shrimp.
+
+traditional_usage: |
+  Chitosan is made commercially from chitin, the structural element in the exoskeleton of crustaceans, and is used as a so-called fat magnet. It has the capability of attracting fat from the digestive system and expelling it from the body so that users can lose weight without eating less.
+
+modern_research: |
+  Chitosan's properties enable it to rapidly clot blood, and it has recently gained approval in the USA for use in bandages and other haemostatic agents. One brand of chitosan-containing bandages was able to quickly stop bleeding in tests conducted by the US Marines, resulting in a 100% survival rate from otherwise lethal arterial wounds.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/nutrients-en/chitosan/"
+  scraped_at: "2026-02-18T03:35:37.544Z"
+  language: "en"

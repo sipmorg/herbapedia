@@ -1,0 +1,22 @@
+# Omega 9
+# Source: https://www.vitaherbapedia.com/en/shop/nutrients-en/omega-9/
+# Language: en
+
+id: "omega"
+slug: "omega"
+category: "nutrients"
+title: "Omega 9"
+scientific_name: "Oleic acid, Erucic acid / ω-9 fatty acids"
+image: "images/omega.jpg"
+
+introduction: |
+  Olive oil, sesame oil, avocados, cashews and macadamia nuts are all good sources.
+
+traditional_usage: |
+  Omega 9 is an unsaturated fatty acid. Despite often being described as an essential fatty acid, meaning it can only be sourced from the diet, it is in fact produced by the body in limited amounts. However, this process is dependent on the presence of omega 3 and 6 oils, which your body cannot make and needs to obtain from frood. Omega 9 helps to reduce the risk of arteriosclerosis - hardening of the arteries - as well as cardiovascular disease and strokes and is thus important for cardiovascular health.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/nutrients-en/omega-9/"
+  scraped_at: "2026-02-18T03:35:55.947Z"
+  language: "en"

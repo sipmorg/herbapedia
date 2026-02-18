@@ -1,0 +1,25 @@
+# Vitamin B6
+# Source: https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-b6/
+# Language: en
+
+id: "vitaminb6"
+slug: "vitaminb6"
+category: "vitamins"
+title: "Vitamin B6"
+scientific_name: "Pyridoxine, Pyridoxal, Pyridoxamine"
+image: "images/vitaminb6.jpg"
+
+introduction: |
+  Found in rice bran, wheat bran, sunflower seeds, avocados, bananas, corn, fish, kidney, lean meat, liver, nuts, poultry, rice (brown), soybeans and whole grains. Pyridoxine hydrochloride is the most commonly available synthetic form. Yeast (such as brewer's yeast), rice polish, and wheat germ are used as natural source supplements. As vitamin B6 is limited in many foods, supplemental B6 with synthetic pyridoxine hydrochloride may be indicated, especially for infants and during pregnancy and lactation, since processing and cooking foods may destroy up to 50 per cent of its vitamin B6 content.
+
+traditional_usage: |
+  Vitamin B6 functions as a coenzyme (pyridoxal phosphate) in the body. Part of the B group of vitamins, it is water soluble and necessary for both physical and mental health. It plays a role in the processing and metabolism of proteins, fats and carbohydrates; balances female hormones; and is necessary for a strong immune system.
+
+modern_research: |
+  Many women take vitamin B6 to ease symptoms of premenstrual syndrome, although research has not confirmed its efficacy. However, it is thought that the vitamin plays a key role in the production of the prostaglandins that relax uterine muscles, and acts as a mild diuretic, so could help alleviate cramps and bloating. Vitamin B6 may also play a role in cancer immunity and alleviate the effects of carpal tunnel syndrome.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-b6/"
+  scraped_at: "2026-02-18T03:35:16.718Z"
+  language: "en"

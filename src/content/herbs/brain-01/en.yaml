@@ -1,0 +1,28 @@
+# Changpu
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/changpu/
+# Language: en
+
+id: "brain-01"
+slug: "brain-01"
+category: "chinese-herbs"
+title: "Changpu"
+scientific_name: "Acorus Tatarinowii"
+image: "images/brain-01.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  Rhizome of Acorus tatarinowii Schott., family Araceae.
+
+traditional_usage: |
+  Changpu is an acrid, warm herb that enters the heart and stomach meridians. It opens the orifices, vaporises phlegm, transforms turbid dampness and pacifies the spirit. It can also benefit the throat, and is used to treat a hoarse voice due to laryngitis or inflamed vocal chords. Changpu removes obstructions caused by phlegm and opens the sensory orifices, sharpening cognitive functions and treating forgetfulness, tinnitus, dizziness and insomnia.
+
+modern_research: |
+  The herb has been found effective in preventing seizures and convulsions in clinical studies. Pharmacological studies have also confirmed its ability to suppress the central nervous system and enhance memory.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/changpu/"
+  scraped_at: "2026-02-18T03:33:15.626Z"
+  language: "en"

@@ -1,0 +1,28 @@
+# Baizhu
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/baizhu/
+# Language: en
+
+id: "constipation-03"
+slug: "constipation-03"
+category: "chinese-herbs"
+title: "Baizhu"
+scientific_name: "Atractytlodes macrocephala"
+image: "images/constipation-03.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica with no categorisation between Bai zhu and Cang zhu.
+
+introduction: |
+  Rhizome of Atactylodes macrocephala Koidz, family Compositae.
+
+traditional_usage: |
+  Baizhu is a bitter tasting herb that is aromatic and warm in nature. It is associated with the spleen and stomach, making it a good choice for regulating the digestive system. It is able to tonify the chi, strengthen the spleen, dry dampness and eliminate water accumulation, prevent excessive sweating and stabilise pregnancy. Because it aids digestion and absorption, it can be used in multiherb remedies where the other ingredients may overburden the digestive system.
+
+modern_research: |
+  Baizhu has been used in clinical trials to treat constipation, diarrhea, liver disorders, dizziness and excessive salivation with good results.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/baizhu/"
+  scraped_at: "2026-02-18T03:33:07.069Z"
+  language: "en"

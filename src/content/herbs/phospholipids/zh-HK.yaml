@@ -1,0 +1,21 @@
+# 磷脂質
+# Source: https://www.vitaherbapedia.com/zh/shop/nutrients/%e7%a3%b7%e8%84%82%e8%b3%aa/
+# Language: zh-HK
+
+id: "phospholipids"
+slug: "phospholipids"
+category: "nutrients"
+title: "磷脂質"
+image: "images/phospholipids.jpg"
+
+functions: |
+  磷脂質是存在於細胞薄膜之間的有機分子， 其主要角色是保持皮膚平滑和柔軟。由於容易吸引油脂和水分，可為皮膚作表面活性劑和乳化劑。磷脂質能增加皮膚水分程度，形成一部薄膜阻止水分流失，並阻止正常細胞分隔。外在環境因素（包括陽光、風吹和污染）其實會剝奪了皮膚最上層的天然磷脂質，令肌膚粗糙， 於顯微鏡下亦能看見有凹痕的表面。
+
+簡介: |
+  在蛋黃找到的卵磷脂是最普遍的磷脂質。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/nutrients/%e7%a3%b7%e8%84%82%e8%b3%aa/"
+  scraped_at: "2026-02-18T04:04:59.538Z"
+  language: "zh-HK"

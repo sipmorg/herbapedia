@@ -1,0 +1,28 @@
+# Chuanxiong
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/chuanxiong/
+# Language: en
+
+id: "headache-02"
+slug: "headache-02"
+category: "chinese-herbs"
+title: "Chuanxiong"
+scientific_name: "Ligusticum chuanxiong Hort"
+image: "images/headache-02.jpg"
+
+history: |
+  First appeared in the Divine Husbandman's Classic of the Materia Medica, classified as upper class.
+
+introduction: |
+  The rhizome of Ligusticum chuanxiong Hort., family Umbelliferae.
+
+traditional_usage: |
+  Chuanxiong, made from the roots of the Sichuan lovage plant, is a warming herb that enters the liver, gallbladder and pericardium channels. It activates chi and blood circulation, dispels wind and relieves all kinds of aches and pains. It is especially useful for treating headaches, whether caused by wind, blood stasis or a deficiency of the blood. Other common uses include treating menstrual and obstetric disorders.
+
+modern_research: |
+  Chuanxiong contains the compound ligustrazine, which has been used to treat conditions including renal failure, lung diseases with fibrosis and strokes, due to its anti-inflammatory and antioxidant properties.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/chuanxiong/"
+  scraped_at: "2026-02-18T03:33:22.547Z"
+  language: "en"

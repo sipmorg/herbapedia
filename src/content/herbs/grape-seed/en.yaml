@@ -1,0 +1,25 @@
+# Grape Seed
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/grape-seed/
+# Language: en
+
+id: "grape-seed"
+slug: "grape-seed"
+category: "western-herbs"
+title: "Grape Seed"
+scientific_name: "Vitis vinifera"
+image: "images/grape-seed.jpg"
+
+introduction: |
+  Grape seed extract is prepared from the seed of grapes.
+
+traditional_usage: |
+  Grape seed extract is a rich source of antioxidants and bioflavanoids and helps to protect cells from damage caused by oxidation and free radicals. Its antioxidant properties can also prevent blood vessels from deteriorating as the body ages and grape seed is thus thought to be an effective supplement to promote healthy circulation. It is also considered helpful in improving and preserving the elasticity of skin by stabilising collagen and elastin.
+
+modern_research: |
+  Grape seed is sometimes used in the preparation of anti-ageing skincare products due to its high levels of antioxidants and bioflavanoids.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/grape-seed/"
+  scraped_at: "2026-02-18T03:34:55.220Z"
+  language: "en"

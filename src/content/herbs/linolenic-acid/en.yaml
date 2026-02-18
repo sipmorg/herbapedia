@@ -1,0 +1,21 @@
+# Linolenic Acid
+# Source: https://www.vitaherbapedia.com/en/shop/nutrients-en/linolenic-acid/
+# Language: en
+
+id: "linolenic-acid"
+slug: "linolenic-acid"
+category: "nutrients"
+title: "Linolenic Acid"
+image: "images/linolenic-acid.jpg"
+
+introduction: |
+  Seed oils are the richest sources of linolenic acid: these include canola, soybean, walnut, flaxseed, perilla and evening primrose oils.
+
+traditional_usage: |
+  The body converts linolenic acid into longer chain fatty acids which are thought to lower blood pressure. Other positive effects include anti-inflammatory and anti-blood clotting actions, and lowering cholesterol and triglyceride levels. These fatty acids may also reduce the risks and symptoms for other disorders including diabetes, stroke, rheumatoid arthritis, asthma, inflammatory bowel disease, ulcerative colitis, some cancers and mental decline.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/nutrients-en/linolenic-acid/"
+  scraped_at: "2026-02-18T03:35:48.604Z"
+  language: "en"

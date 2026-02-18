@@ -1,0 +1,25 @@
+# 獨活
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%8d%a8%e6%b4%bb/
+# Language: zh-HK
+
+id: "e7-8d-a8-e6-b4-bb1"
+slug: "e7-8d-a8-e6-b4-bb1"
+category: "chinese-herbs"
+title: "獨活"
+scientific_name: "radix angelicae pubescentisa"
+image: "images/e7-8d-a8-e6-b4-bb1.jpg"
+
+traditional_usage: |
+  獨活屬於祛風濕藥，藥味辛、苦，藥性微溫，歸腎、膀胱經，能用於祛風除濕，通痹止痛。用於風寒濕痹，腰膝疼痛，伏風頭痛。
+
+歷史: |
+  始載於《神農本草經》
+
+簡介: |
+  重齒毛當歸根
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%8d%a8%e6%b4%bb/"
+  scraped_at: "2026-02-18T04:02:48.977Z"
+  language: "zh-HK"

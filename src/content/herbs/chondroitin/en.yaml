@@ -1,0 +1,22 @@
+# Chondroitin Sulfate
+# Source: https://www.vitaherbapedia.com/en/shop/nutrients-en/chondroitin-sulfate/
+# Language: en
+
+id: "chondroitin"
+slug: "chondroitin"
+category: "nutrients"
+title: "Chondroitin Sulfate"
+scientific_name: "Chondroitin Sulfate/ Galactosaminoglucuronoglycan Sulfate"
+image: "images/chondroitin.jpg"
+
+introduction: |
+  Extracted from cartilaginous rings of bovine trachea, pork byproducts (ears and snout), shark cartilage and whale septum cartilage.
+
+traditional_usage: |
+  Chondroitin helps maintain the elasticity and plasticity of the joint cartilage, and when taken in combination with glucosamine, can provide significant improvement in the relief of osteoarthritis. Chondroitin sulfate, as part of the extracellular matrix of cartilage, functions by drawing water into the tissues, creating a high osmotic pressure that causes swelling and expansion of the matrix. This expansion reduces pain caused by mild to moderate knee osteoarthritis, and enhances mobility. Furthermore, since oxygen and nutrients carried by blood are dissolved in the water, chondroitin plays a role in distributing these components in the tissues.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/nutrients-en/chondroitin-sulfate/"
+  scraped_at: "2026-02-18T03:35:39.330Z"
+  language: "en"

@@ -1,0 +1,28 @@
+# Fangji
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/fangji/
+# Language: en
+
+id: "water-reduction-04"
+slug: "water-reduction-04"
+category: "chinese-herbs"
+title: "Fangji"
+scientific_name: "Stephania tetrandra"
+image: "images/water-reduction-04.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica, classified as middle class.
+
+introduction: |
+  Root of Stephania tetrandra S. Moore, family Menispermaceae.
+
+traditional_usage: |
+  Fangji is bitter and very cold in nature, and enters the bladder, lung and kidney meridians to expel wind and dampness, alleviate pain and promote urination. Its diuretic properties make it useful for reducing oedema and treating the pain caused by heat and dampness
+
+modern_research: |
+  Fangji has been used in studies to treat patients suffering from hypertension, coronary artery disorders, silicosis and lung cancer with good results.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/fangji/"
+  scraped_at: "2026-02-18T03:33:35.165Z"
+  language: "en"

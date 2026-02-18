@@ -1,0 +1,25 @@
+# Beishashen
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/beishashen/
+# Language: en
+
+id: "heart-01"
+slug: "heart-01"
+category: "chinese-herbs"
+title: "Beishashen"
+scientific_name: "Glehnia littoralis"
+image: "images/heart-01.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  The root of Glehnia littoralis F. Schmidt ex Miq., family Ubelliferae.
+
+traditional_usage: |
+  A sweet herb that has a slightly cold nature, beishashen enters the lung and stomach meridians. It is used to tonify the yin, clear the lungs, nourish the stomach, generate body fluids and tonify the liver and kidney yin. It is often used to treat chronic respiratory disorders such as tuberculosis or bronchitis.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/beishashen/"
+  scraped_at: "2026-02-18T03:33:09.883Z"
+  language: "en"

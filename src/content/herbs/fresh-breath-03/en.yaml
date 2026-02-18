@@ -1,0 +1,28 @@
+# Patchouli
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/patchouli/
+# Language: en
+
+id: "fresh-breath-03"
+slug: "fresh-breath-03"
+category: "chinese-herbs"
+title: "Patchouli"
+scientific_name: "Pogostemon cablin"
+image: "images/fresh-breath-03.jpg"
+
+history: |
+  First appeared in Miscellaneous Records of Famous Physicians.
+
+introduction: |
+  The branch and leaf of Pogostemon cablin (Blanco) Benth., family Labiatae.
+
+traditional_usage: |
+  Huoxiang comes from the patchouli plant, an aromatic flowering herb that has long been used in perfumes. This remedy is warm and aromatic. It enters the spleen, stomach and lung meridians and is able to dispel dampness, release the exterior, treat fungal infections and relieve nausea and vomiting. It can treat symptoms of damp that include thick, sticky saliva, a greasy coating on the tongue, nausea and abdominal bloating.
+
+modern_research: |
+  A decoction made from the herb has been found to have antifungal, spirocheticidal and antiviral activities.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/patchouli/"
+  scraped_at: "2026-02-18T03:34:03.316Z"
+  language: "en"

@@ -1,0 +1,25 @@
+# 甘草
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%94%98%e8%8d%89-2/
+# Language: zh-CN
+
+id: "gancao"
+slug: "gancao"
+category: "chinese-herbs"
+title: "甘草"
+scientific_name: "Glycyrrhiza uralensis"
+image: "images/gancao.jpg"
+
+traditional_usage: |
+  甘草可分生用或蜜炙用，生甘草功能是清热解毒、袪痰止咳，常用於外感热邪、咽喉肿痛等情况，炙甘草味甘而药性平和，在中药中被称为「国老」，能补中益气、缓急止痛，并能调和各药药性，因此十分常用。
+
+历史: |
+  始载於《神农本草经》，列为上品
+
+简介: |
+  豆科植物甘草的乾燥根及根茎
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%94%98%e8%8d%89-2/"
+  scraped_at: "2026-02-18T03:37:44.860Z"
+  language: "zh-CN"

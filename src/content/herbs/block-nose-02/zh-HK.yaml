@@ -1,0 +1,25 @@
+# 紫蘇葉
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%b4%ab%e8%98%87%e8%91%89/
+# Language: zh-HK
+
+id: "block-nose-02"
+slug: "block-nose-02"
+category: "chinese-herbs"
+title: "紫蘇葉"
+scientific_name: "Perilla frutescens"
+image: "images/block-nose-02.jpg"
+
+traditional_usage: |
+  紫蘇是一種發散風寒的中藥，藥味辛，藥性溫，能發汗解表，應用於感受風寒、頭痛惡寒、鼻塞流涕等情況，更能行氣寬中，是行氣止嘔的良藥，適用於脾胃氣滯、胸悶嘔吐等症狀。
+
+歷史: |
+  始載於《葯性本草》
+
+簡介: |
+  唇形科植物紫蘇的葉
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%b4%ab%e8%98%87%e8%91%89/"
+  scraped_at: "2026-02-18T04:03:01.061Z"
+  language: "zh-HK"

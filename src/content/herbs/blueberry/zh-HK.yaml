@@ -1,0 +1,22 @@
+# 美洲藍莓
+# Source: https://www.vitaherbapedia.com/zh/shop/westherbs/%e7%be%8e%e6%b4%b2%e8%97%8d%e8%8e%93/
+# Language: zh-HK
+
+id: "blueberry"
+slug: "blueberry"
+category: "western-herbs"
+title: "美洲藍莓"
+scientific_name: "Vaccinium Cyanococcus L."
+image: "images/blueberry.jpg"
+
+traditional_usage: |
+  藍莓蘊含一種人體必要的養份─花青素，它有極好的抗氧化能力。花青素可以使眼睛增加水分，幫助促進眼球血液循環，減輕結膜泛紅和黑眼圈，對改善各種視力問題很有幫助。
+
+簡介: |
+  美洲藍莓土生於北美、亞洲東部和歐洲北部。它是由成熟、深紫色的藍漿果果實提取而成。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/westherbs/%e7%be%8e%e6%b4%b2%e8%97%8d%e8%8e%93/"
+  scraped_at: "2026-02-18T04:04:02.616Z"
+  language: "zh-HK"

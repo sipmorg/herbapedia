@@ -1,0 +1,25 @@
+# 白柳樹皮
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%99%bd%e6%9f%b3%e6%a8%b9%e7%9a%ae/
+# Language: zh-HK
+
+id: "white-willow-bark"
+slug: "white-willow-bark"
+category: "chinese-herbs"
+title: "白柳樹皮"
+scientific_name: "Salix Alba"
+image: "images/white-willow-bark.jpg"
+
+traditional_usage: |
+  白柳樹皮含水楊酸及水楊酸鹽類(水楊酸鹽類是結構類似以阿司匹林的複合物)，是現代經常用作替代阿司匹林的天然成份。此外，它有加速卡路里的燃燒、促進脂肪代謝的功能，是常用作輔助減肥的營養補充劑。
+
+歷史: |
+  把白柳樹樹皮作藥用已是多個世紀前的做法。古埃及人用白柳樹治療發炎。古希臘名醫希波克拉底也曾在公元前5世紀記述白柳樹作藥用的情況。
+
+簡介: |
+  白柳樹樹皮源自一種生於歐洲和亞洲的樹。因其葉子表面有一層白毛，故被命名為「白柳樹」。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%99%bd%e6%9f%b3%e6%a8%b9%e7%9a%ae/"
+  scraped_at: "2026-02-18T04:02:55.025Z"
+  language: "zh-HK"

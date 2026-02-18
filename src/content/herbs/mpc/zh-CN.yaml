@@ -1,0 +1,19 @@
+# 乳络肽合物
+# Source: https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e4%b9%b3%e7%bb%9c%e8%82%bd%e5%90%88%e7%89%a9/
+# Language: zh-CN
+
+id: "mpc"
+slug: "mpc"
+category: "nutrients"
+title: "乳络肽合物"
+scientific_name: "Milk Peptide Complex"
+image: "images/mpc.jpg"
+
+functions: |
+  乳肽络合物有助修护受损肌肤，修补真皮层(皮肤的中层)，有助皮肤抗衰老，更担当着更新细胞生长和紧致肌肤的重要角色。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e4%b9%b3%e7%bb%9c%e8%82%bd%e5%90%88%e7%89%a9/"
+  scraped_at: "2026-02-18T03:39:35.623Z"
+  language: "zh-CN"

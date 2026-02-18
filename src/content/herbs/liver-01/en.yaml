@@ -1,0 +1,28 @@
+# Yunzhi
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/yunzhi/
+# Language: en
+
+id: "liver-01"
+slug: "liver-01"
+category: "chinese-herbs"
+title: "Yunzhi"
+scientific_name: "Coriolus Versicolour, Trametes versicolor"
+image: "images/liver-01.jpg"
+
+history: |
+  Yunzhi is mainly found in the Yunnan and Guizhou areas of China, where it grows wild in deep forests. It is one of the most precious herbs in Chinese medicine and has been used for over 2,000 years, first recorded in the Classic of Herbal Medicine. However, it is only in very recent years that the Western world has shown interest in yunzhi following double-blind trials that proved a polysaccharide found in the fungus could significantly improve the health of patients undergoing cancer treatments.
+
+introduction: |
+  The sporophore or myceliumm of Polystictus versicolor (L.) Fr., family Polyporaceae.
+
+traditional_usage: |
+  Sweet and bland in taste, yunzhi (or yun zhi) is an edible fungus that nourishes the liver, enhances the immune system and replenishes the body's vital essence. Non-toxic and without side effects, it can be used to help maintain health and wellbeing during chemotherapy and radiotherapy. It deters unwelcome cell replication and alleviates the side effects of clinical treatments such as mouth ulcers, vomiting and loss of appetite.
+
+modern_research: |
+  Modern science has proved the effectiveness of yunzhi as an immune enhancer, showing that it can boost white blood cell count, strengthen the immune system, reduce nausea and discomfort associated with cancer therapies and improve feelings of health and wellbeing. Wild Yunzhi are rich in proteins, lipids, polysaccharides PSK/PSP, peptiglucans, triterpenoids, lignin, amino acids and trace elements, all of which can strengthen bodily functions.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/yunzhi/"
+  scraped_at: "2026-02-18T03:34:30.680Z"
+  language: "en"

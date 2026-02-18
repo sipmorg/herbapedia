@@ -1,0 +1,25 @@
+# Shouwuteng
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/shouwuteng/
+# Language: en
+
+id: "women-02"
+slug: "women-02"
+category: "chinese-herbs"
+title: "Shouwuteng"
+scientific_name: "Polygonum multiflorum Thunb"
+image: "images/women-02.jpg"
+
+history: |
+  First appeared in Journey to the Origin of the Classic of Materia Medica.
+
+introduction: |
+  Derived from the stems of Polygonum multiflorum Thumb., family Polygonaceae. Prepared by drying or by steaming with the juice of black soya beans.
+
+traditional_usage: |
+  Shouwuteng, a herb made from the stems of the Fleece Flower plant, has a sweet, neutral character. It enters the heart and liver meridians, and has traditionally been used as a sedative and tonic. It is useful for calming the spirit, nourishing the blood and treating general bodily weakness. It is also useful for anxiety and insomnia, especially in cases of dream-disturbed sleep.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/shouwuteng/"
+  scraped_at: "2026-02-18T03:34:14.346Z"
+  language: "en"

@@ -1,0 +1,22 @@
+# Omega 6
+# Source: https://www.vitaherbapedia.com/en/shop/nutrients-en/omega-6/
+# Language: en
+
+id: "omega-6"
+slug: "omega-6"
+category: "nutrients"
+title: "Omega 6"
+scientific_name: "Gamma-linolenic acid (GLA), Linoleic Acid (LA), Arachidonic Acid (AA) / ω-6 fatty acids"
+image: "images/omega-6.jpg"
+
+introduction: |
+  Found mostly in plant-based oils including evening primrose oil (EPO), borage oil, and blackcurrant seed oil.
+
+traditional_usage: |
+  Omega 6 is an essential unsaturated fatty acid, which means it cannot be made by our bodies and must be sourced from food. Most omega-6 fatty acids in the diet come from vegetable oils in the form of linoleic acid, which is converted to gamma-linolenic acid in the body and then further broken down to arachidonic acid. Clinical trials have shown that essential fatty acids protect against conditions including heart disease; cancer; autoimmune diseases including rheumatoid arthritis and multiple sclerosis; and skin diseases, including acne, atopic eczema and psoriasis. They may also protect against strokes.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/nutrients-en/omega-6/"
+  scraped_at: "2026-02-18T03:35:55.070Z"
+  language: "en"

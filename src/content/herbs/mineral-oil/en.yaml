@@ -1,0 +1,21 @@
+# Mineral oil
+# Source: https://www.vitaherbapedia.com/en/shop/nutrients-en/mineral-oil/
+# Language: en
+
+id: "mineral-oil"
+slug: "mineral-oil"
+category: "nutrients"
+title: "Mineral oil"
+image: "images/mineral-oil.jpg"
+
+introduction: |
+  Mineral oil is a clear, odourless, non-toxic oil derived from petroleum.
+
+traditional_usage: |
+  Mineral oil or liquid petrolatum is a colourless by-product from the distillation of petroleum with excellent emollient effects. It has a wide range of uses, being the main ingredient in baby oil, petroleum jelly and many lotions and cosmetics, especially lipstick. It is also an effective make-up remover.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/nutrients-en/mineral-oil/"
+  scraped_at: "2026-02-18T03:35:52.277Z"
+  language: "en"

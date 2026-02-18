@@ -1,0 +1,22 @@
+# Jojoba Seed Oil
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/jojoba-seed-oil/
+# Language: en
+
+id: "jojoba-seed-oil"
+slug: "jojoba-seed-oil"
+category: "western-herbs"
+title: "Jojoba Seed Oil"
+scientific_name: "Simmondsia chinensis"
+image: "images/jojoba-seed-oil.jpg"
+
+introduction: |
+  Derived from the seeds of Simmondsia chinensis.
+
+traditional_usage: |
+  Jojoba oil comes from the seeds of Simmondsia chinensis, a shrub native to the southern states of the USA and northern Mexico. As the chemical composition of the oil is similar to the skin's own natural oils, it can easily penetrate and moisturise the epidermis, making it an important cosmetic ingredient. Rich in Vitamin E, it is a well known medicinal oil with fungicidal properties and is also used for treating eye and throat infections and all types of skin disorders.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/jojoba-seed-oil/"
+  scraped_at: "2026-02-18T03:34:57.344Z"
+  language: "en"

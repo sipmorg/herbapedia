@@ -1,0 +1,25 @@
+# Indian Mulberry Root
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/indian-mulberry-root/
+# Language: en
+
+id: "bajitian"
+slug: "bajitian"
+category: "chinese-herbs"
+title: "Indian Mulberry Root"
+scientific_name: "Morindae Officinalis"
+image: "images/bajitian.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica, classified as upper class.
+
+introduction: |
+  The fleshy root of Morinda officinalis How, family Rubiaceae.
+
+traditional_usage: |
+  Bajitian is a sweet, warming herb associated with the kidney and liver channels. The plant is harvested during spring or winter, and the herb is prepared by drying the roots, then steaming them and slicing the softer outer parts. Its main use is for reinforcing kidney yang and invigorating the body, strengthening sinews and bones, and treating painful obstruction syndrome in which the flow of chi and blood is blocked.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/indian-mulberry-root/"
+  scraped_at: "2026-02-18T03:33:44.495Z"
+  language: "en"

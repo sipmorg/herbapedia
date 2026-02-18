@@ -1,0 +1,24 @@
+# Thyme oil
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/thyme-oil/
+# Language: en
+
+id: "flu-03"
+slug: "flu-03"
+category: "western-herbs"
+title: "Thyme oil"
+image: "images/flu-03.jpg"
+
+history: |
+  Thyme oil has a long history of use and was valued for its medicinal properties by the Greeks, Egyptians and Romans. Its name comes from the Greek word "thymos", meaning perfume, since thyme oil was used as incense in temples. It was also one of the substances used by Egyptians in the embalming process.
+
+introduction: |
+  Extracted by steam distillation from the flowering tops and leaves of the plant Thymus Vulgaris.
+
+traditional_usage: |
+  An amber coloured liquid with a strong herbal smell, the volatile oil of Thymus has long been used to treat respiratory problems including coughs and chest congestion. It also exerts a calming influence on smooth muscle and has been found to contain flavonoids that give the herb antioxidant properties.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/thyme-oil/"
+  scraped_at: "2026-02-18T03:35:08.450Z"
+  language: "en"

@@ -1,0 +1,25 @@
+# 红莓
+# Source: https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e7%ba%a2%e8%8e%93/
+# Language: zh-CN
+
+id: "cranberry"
+slug: "cranberry"
+category: "western-herbs"
+title: "红莓"
+scientific_name: "Vaccinium Macrocarpon"
+image: "images/cranberry.jpg"
+
+traditional_usage: |
+  红莓可以减少尿管道感染的机会，因此减少服用抗生素疗程，长期服用抗生素可能会令身体产生抗药性，甚至更严重的副作用，例如念珠阴道问题。透过阻碍有害微生物依附尿管道，红莓可防止有害微生物于尿管道繁殖。
+
+历史: |
+  土生土长的美国人以糊状的红莓来治理伤口和血液中毒，美国水手和殖民以红莓预防坏血病。他们也利用红莓和其叶子于不同的治理范畴上如：血液紊乱、胃部疾病、肝脏问题、发烧、腺肿胀和腮腺炎。
+
+简介: |
+  红莓土生于北美洲。当今世界上近乎98%的供应皆来自美国北部及加拿大的天然和人造沼泽中培育。红莓精华是成熟红莓的撮取物。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e7%ba%a2%e8%8e%93/"
+  scraped_at: "2026-02-18T03:38:47.380Z"
+  language: "zh-CN"

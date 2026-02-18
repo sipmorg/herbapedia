@@ -1,0 +1,21 @@
+# Choline
+# Source: https://www.vitaherbapedia.com/en/shop/nutrients-en/choline/
+# Language: en
+
+id: "choline"
+slug: "choline"
+category: "nutrients"
+title: "Choline"
+image: "images/choline.jpg"
+
+introduction: |
+  Food sources include egg yolk, eggs, liver, soya beans, cabbage, wheat bran, rice bran and whole grains. Supplemental sources may be derived from yeast, wheat germ, soya beans, lecithin, egg yolk lecithin, synthetic choline and choline derivatives.
+
+traditional_usage: |
+  Choline, in the form choline bitartrate, is important for liver health and the prevention of cholesterol build-up. As part of the neurotransmitter acetyl choline, it helps to transmit nerve impulses. It also serves as a methyl donor and is essential for the phospholipid phosphatidylcholine, which forms cell membranes.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/nutrients-en/choline/"
+  scraped_at: "2026-02-18T03:35:38.412Z"
+  language: "en"

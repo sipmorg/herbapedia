@@ -1,0 +1,22 @@
+# 大豆
+# Source: https://www.vitaherbapedia.com/zh/shop/westherbs/%e5%a4%a7%e8%b1%86/
+# Language: zh-HK
+
+id: "soy"
+slug: "soy"
+category: "western-herbs"
+title: "大豆"
+scientific_name: "Glycine max"
+image: "images/soy.jpg"
+
+traditional_usage: |
+  大豆中豐富的異黃酮素是一種由植物提取的非類固醇化合物，是具有與雌激素功能相似的植物雌激素，異黃酮素可減少患上與體內分泌有關的頑疾，如乳及前列腺頑疾等。根據研究顯示，異黃酮素有助避免心臟問題。大豆異黃酮素的輕微雌激素活動可紓緩女仕更年期不適及有助更年期女士平衡體內分泌。另外，大豆異黃酮素更可預防骨質脆弱及免疫力問題。
+
+簡介: |
+  撮取自大豆，一種原產於東亞的豆類。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/westherbs/%e5%a4%a7%e8%b1%86/"
+  scraped_at: "2026-02-18T04:03:52.269Z"
+  language: "zh-HK"

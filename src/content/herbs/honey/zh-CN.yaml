@@ -1,0 +1,25 @@
+# 蜂蜜
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%9c%82%e8%9c%9c-2/
+# Language: zh-CN
+
+id: "honey"
+slug: "honey"
+category: "chinese-herbs"
+title: "蜂蜜"
+scientific_name: "Mel"
+image: "images/honey.jpg"
+
+traditional_usage: |
+  蜂蜜味甘，药性平，归肺、脾、大肠三经。功效是补中缓急，润燥、解毒。主治中虚脘腹疼痛，肺虚燥咳，肠燥便秘。蜂蜜是平和的补虚药，广泛应用于食疗中。
+
+历史: |
+  始载於《神农本草经》，列为上品
+
+简介: |
+  蜜蜂科昆虫中华蜜蜂或意大利蜂所酿成的蜜
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%9c%82%e8%9c%9c-2/"
+  scraped_at: "2026-02-18T03:38:07.131Z"
+  language: "zh-CN"

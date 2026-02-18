@@ -1,0 +1,28 @@
+# 維他命 B1 又名硫安素
+# Source: https://www.vitaherbapedia.com/zh/shop/vitamins/%e7%b6%ad%e4%bb%96%e5%91%bd-b1-%e5%8f%88%e5%90%8d%e7%a1%ab%e5%ae%89%e7%b4%a0/
+# Language: zh-HK
+
+id: "vitaminb1"
+slug: "vitaminb1"
+category: "vitamins"
+title: "維他命 B1 又名硫安素"
+scientific_name: "Thiamin"
+image: "images/vitaminb1.jpg"
+
+traditional_usage: |
+  維他命 B1 又名硫安素，是世上第一隻獲識別的維他命B。硫安素能促進食慾，將碳水化合物轉換成能量，避免肌肉無力、全身倦怠、疲勞，以及維持健康腦部和神經系統。
+
+functions: |
+  幫助碳水化合物和蛋白質的新陳代謝，令身體從食物中獲得能量幫助神經系統、心臟、肌肉，消化系統正常運作促進成長及發育
+
+簡介: |
+  每日需求 男仕: 每日1.4毫克，女仕:每日1.3毫克 維他命 B1的來源 維他命B1在各式各樣的動物和植物產品中都可找到，但份量卻不多。不同的來源包括瘦豬肉、向日葵籽、花生、小麥穀皮、腎、堅果、全麥麵粉、含豐富營養的白米以及用加添營養的麵粉製成的白麵包。
+
+缺乏症狀: |
+  腳氣病精神欠佳、失眠、嘔吐神經系統毛病、抑鬱兒童生長受阻
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/vitamins/%e7%b6%ad%e4%bb%96%e5%91%bd-b1-%e5%8f%88%e5%90%8d%e7%a1%ab%e5%ae%89%e7%b4%a0/"
+  scraped_at: "2026-02-18T04:04:20.217Z"
+  language: "zh-HK"

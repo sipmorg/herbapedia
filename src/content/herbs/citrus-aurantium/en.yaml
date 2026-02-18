@@ -1,0 +1,22 @@
+# Bitter Orange
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/bitter-orange/
+# Language: en
+
+id: "citrus-aurantium"
+slug: "citrus-aurantium"
+category: "western-herbs"
+title: "Bitter Orange"
+scientific_name: "Citrus Aurantium L."
+image: "images/citrus-aurantium.jpg"
+
+introduction: |
+  It is native to southeastern Asia. Natives of the South Sea Islands, especially Fiji, Samoa, and Guam, believe the tree to have been brought to their shores in prehistoric times.
+
+traditional_usage: |
+  Extract of bitter orange is an aid to fat loss and an appetite suppressant. It contains synephrine which is a stimulant, similar to caffeine and ephedrine, and is thought to have similar effects in terms of providing an energy boost, suppressing appetite and increasing metabolic rate and caloric expenditure. In Chinese medicine, the herb is also used to treat constipation, bloating and diarrhea caused by stagnant chi in the middle jiao (gastrointestinal organs). The fruits are harvested in summer when they are still green for maximum effectiveness.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/bitter-orange/"
+  scraped_at: "2026-02-18T03:34:44.228Z"
+  language: "en"

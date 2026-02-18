@@ -1,0 +1,21 @@
+# 铜
+# Source: https://www.vitaherbapedia.com/cn/shop/minerals-cn/%e9%93%9c/
+# Language: zh-CN
+
+id: "copper"
+slug: "copper"
+category: "minerals"
+title: "铜"
+image: "images/copper.jpg"
+
+traditional_usage: |
+  铜能促进肠道吸收铁质，帮助释放储藏於肝脏和网状内皮系统内的铁质。铜也是构成红血球中血红蛋白的重要成份。
+
+简介: |
+  可在黑胡椒、 赤糖糊、巴西坚果、可可粉、肝脏和生蠔之中找到。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/minerals-cn/%e9%93%9c/"
+  scraped_at: "2026-02-18T03:39:25.543Z"
+  language: "zh-CN"

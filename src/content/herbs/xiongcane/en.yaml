@@ -1,0 +1,25 @@
+# Xiongcane
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/xiongcane/
+# Language: en
+
+id: "xiongcane"
+slug: "xiongcane"
+category: "chinese-herbs"
+title: "Xiongcane"
+scientific_name: "Bombyx mori L."
+image: "images/xiongcane.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  Obtained Bombyx mori L. larvae, the dried body of the silkworm larva that has died from white muscardine disease.
+
+traditional_usage: |
+  Xiongcane, a salty, acrid medicine that is neutral in nature, enters the liver, lung and stomach meridians. It is useful for tonifying kidney yang, aiding recuperation, expelling wind heat and extinguishing wind.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/xiongcane/"
+  scraped_at: "2026-02-18T03:34:28.732Z"
+  language: "en"

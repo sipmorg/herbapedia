@@ -1,0 +1,28 @@
+# Peilan
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/peilan/
+# Language: en
+
+id: "fresh-breath-01"
+slug: "fresh-breath-01"
+category: "chinese-herbs"
+title: "Peilan"
+scientific_name: "Eupatorium fortunei"
+image: "images/fresh-breath-01.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  From the branches and leaves of Eupatorium fortunei Turcz., family Compositae.
+
+traditional_usage: |
+  Peilan is a type of orchid with neutral, bitter properties that aromatically transforms dampness and expels summer heat. It enters the spleen and stomach meridians, and is useful for patients suffering from bad breath, thick saliva or a lasting sweet, greasy taste in the mouth as a result of damp-heat in the spleen caused by eating too much fatty food.
+
+modern_research: |
+  The decoction of peilan has antibiotic effect against certain microorganisms.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/peilan/"
+  scraped_at: "2026-02-18T03:34:04.196Z"
+  language: "en"

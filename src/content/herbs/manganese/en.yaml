@@ -1,0 +1,24 @@
+# Manganese
+# Source: https://www.vitaherbapedia.com/en/shop/minerals-en/manganese/
+# Language: en
+
+id: "manganese"
+slug: "manganese"
+category: "minerals"
+title: "Manganese"
+image: "images/manganese.jpg"
+
+introduction: |
+  Present in brown rice, rice bran and polish, walnuts, wheat bran and wheat germ.
+
+traditional_usage: |
+  Manganese is an essential trace nutrient that is used by the body for several functions. These include the formation of bone and the growth of other connective tissues; blood clotting; insulin action; cholesterol synthesis; and activating enzymes in the metabolism of carbohydrates, fats, proteins and nucleic acids.
+
+modern_research: |
+  Manganese has been found to improve thyroid function in certain patients, since the thyroid is dependent on both iodine and magnesium.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/minerals-en/manganese/"
+  scraped_at: "2026-02-18T03:35:28.839Z"
+  language: "en"

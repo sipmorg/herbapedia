@@ -1,0 +1,31 @@
+# 維他命A  又名胡蘿蔔素
+# Source: https://www.vitaherbapedia.com/zh/shop/vitamins/%e7%b6%ad%e4%bb%96%e5%91%bda-%e5%8f%88%e5%90%8d%e8%83%a1%e8%98%bf%e8%94%94%e7%b4%a0/
+# Language: zh-HK
+
+id: "vitamina"
+slug: "vitamina"
+category: "vitamins"
+title: "維他命A  又名胡蘿蔔素"
+scientific_name: "Beta-carotene, Retinol"
+image: "images/vitamina.jpg"
+
+traditional_usage: |
+  維他命 A 幫助眼睛於暗弱光線下保持正常視力, 和降低夜盲症 (xerophthalmia) 的發生。維他命 A 能促進牙齒、骨骼正常生長。製造蛋白質、肝醣、防止甲狀腺腫瘤的形成的甲狀腺素都需要維他命 A。
+
+functions: |
+  免疫系統皮膚健康細胞生長抗氧化維他命A能保護雙眼視網膜功能，防止雙眼乾澀及保護眼睛晚上看得更清楚
+
+簡介: |
+  每日需求 男仕 - 每日800微克RE，女仕 - 每日700微克RE RE為Retinol Equivalent, 指”視黃醇當量” 以維他命A醋酸酯來說，3.33IU就相當於1微克RE，β胡蘿蔔素則是10IU相當於1微克RE 維他命 A的來源 肝、胡蘿蔔、深綠色多葉蔬菜、黃色的水果例如南瓜和桃、部份海鮮例如鮭魚和螃蟹、乳製品和蛋都含有維他命A。
+
+缺乏症狀: |
+  夜盲症，眼睛乾澀皮膚乾燥腸胃不適妨礙生長，免疫功能受損骨骼及牙齒健康受損
+
+過量服用的後果: |
+  有指若孕婦攝取過量維他命A，可能增加畸胎風險如果孕婦同時服用含維他命A綜合維他命、魚肝油等才可能會有過量風險研究指出服用維他命A量每天超過10,000IU始開始有風險但嬰兒生長也需要較多維他命A幫助胎兒皮膚表皮生長、黏膜組織與牙齒、骨骼發育因此適當補充是絕對安全而且需要的
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/vitamins/%e7%b6%ad%e4%bb%96%e5%91%bda-%e5%8f%88%e5%90%8d%e8%83%a1%e8%98%bf%e8%94%94%e7%b4%a0/"
+  scraped_at: "2026-02-18T04:04:30.644Z"
+  language: "zh-HK"

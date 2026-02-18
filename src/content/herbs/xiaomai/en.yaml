@@ -1,0 +1,25 @@
+# Wheat
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/wheat/
+# Language: en
+
+id: "xiaomai"
+slug: "xiaomai"
+category: "chinese-herbs"
+title: "Wheat"
+scientific_name: "Triticum aestivum"
+image: "images/xiaomai.jpg"
+
+history: |
+  First appeared in Treasury of Words on the Materia Medica.
+
+introduction: |
+  Derived from the thin caryopsis of Triticum aestivum L., family Gramineae.
+
+traditional_usage: |
+  Made from wheat that has been soaked in water and dried, xiaomai is sweet and cool in nature, entering the heart channels. It nourishes the heart and calms the spirit, relieving symptoms of irritability and unhappiness. It can also be used to treat painful urination caused by heat accumulation in the bladder.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/wheat/"
+  scraped_at: "2026-02-18T03:34:21.538Z"
+  language: "en"

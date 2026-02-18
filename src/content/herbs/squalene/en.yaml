@@ -1,0 +1,21 @@
+# Squalene
+# Source: https://www.vitaherbapedia.com/en/shop/nutrients-en/squalene/
+# Language: en
+
+id: "squalene"
+slug: "squalene"
+category: "nutrients"
+title: "Squalene"
+image: "images/squalene.jpg"
+
+introduction: |
+  Squalene is a lipid found in large quantities in shark liver oil and in smaller amounts in olive oil, wheat germ oil, rice bran oil and yeast.
+
+traditional_usage: |
+  Squalene is a naturally occurring oil that is relatively resistant to free radicals and may therefore protect the skin's surface from oxidative damage caused by exposure to sunlight and other sources. It has good moisturising properties, quickly penetrating the skin without leaving a greasy feeling.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/nutrients-en/squalene/"
+  scraped_at: "2026-02-18T03:36:00.756Z"
+  language: "en"

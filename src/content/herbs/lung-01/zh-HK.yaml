@@ -1,0 +1,25 @@
+# 麥冬
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e9%ba%a5%e5%86%ac/
+# Language: zh-HK
+
+id: "lung-01"
+slug: "lung-01"
+category: "chinese-herbs"
+title: "麥冬"
+scientific_name: "Ophiopogon japonicus"
+image: "images/lung-01.jpg"
+
+traditional_usage: |
+  麥冬是百合科草本植物，藥用部份是塊根，採挖後經去心曬乾生用，藥味甘、微苦，藥性微寒，歸心、肺、胃經，具有養陰潤肺、益胃生津、清心除煩，常用於肺陰不足而有燥熱的乾咳、黃痰，常配天冬使用，亦可治陰虛的口渴咽乾、心煩不眠等。
+
+歷史: |
+  始載於《神農本草經》
+
+簡介: |
+  百合科植物麥冬的塊根
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e9%ba%a5%e5%86%ac/"
+  scraped_at: "2026-02-18T04:03:37.831Z"
+  language: "zh-HK"

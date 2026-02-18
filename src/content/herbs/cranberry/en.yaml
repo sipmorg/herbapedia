@@ -1,0 +1,25 @@
+# Cranberry
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/cranberry/
+# Language: en
+
+id: "cranberry"
+slug: "cranberry"
+category: "western-herbs"
+title: "Cranberry"
+scientific_name: "Vaccinium Macrocarpon"
+image: "images/cranberry.jpg"
+
+history: |
+  Indigenous Americans used cranberries in poultices for treating wounds and blood poisoning. American sailors and colonists used cranberries to prevent scurvy, similar to the use of citrus by the British. They also used cranberries and their leaves for various conditions including blood disorders, stomach ailments, liver problems, fever, swollen glands, and mumps.
+
+introduction: |
+  Cranberry is a native fruit of North America. Nowadays, almost 98% of the world's supply is cultivated in natural and artificial bogs in the northern United States and Canada. Cranberry extract is prepared from its ripe fruit.
+
+traditional_usage: |
+  Cranberry can reduce the occurrence of urinary tract infections, therefore lessening the need for repeated antibiotic use and associated side effects, such as vulvovaginal candidiasis. It is believed that cranberry works by inhibiting the adherence of harmful microorganisms to the lining of the bladder and urethra, thus preventing colonisation of these sites. In Chinese medicine, cranberry is considered to be an astringent and a tonic, affecting the kidney, bladder and liver meridians to supplement kidney chi and strengthen the liver and kidneys.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/cranberry/"
+  scraped_at: "2026-02-18T03:34:47.763Z"
+  language: "en"

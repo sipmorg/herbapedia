@@ -1,0 +1,22 @@
+# Vitamin B12
+# Source: https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-b12/
+# Language: en
+
+id: "vitaminb12"
+slug: "vitaminb12"
+category: "vitamins"
+title: "Vitamin B12"
+scientific_name: "Cyanocobalamin"
+image: "images/vitaminb12.jpg"
+
+introduction: |
+  Found in liver, eggs, fish, shellfish, dairy products and brewer's yeast.
+
+traditional_usage: |
+  Another member of the B vitamin group, Cyanocoblamin, or vitamin B12, helps convert food into energy. It is needed to produce the myelin sheaths that coat nerve cells; to form red blood cells; and for a healthy immune system. The B vitamins also help to maintain healthy hair. People with a deficiency of vitamin B12 may experience impaired mental functions.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-b12/"
+  scraped_at: "2026-02-18T03:35:12.654Z"
+  language: "en"

@@ -1,0 +1,22 @@
+# 桃仁
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e6%a1%83%e4%bb%81/
+# Language: zh-HK
+
+id: "taoren-or-peach-kernel"
+slug: "taoren-or-peach-kernel"
+category: "chinese-herbs"
+title: "桃仁"
+scientific_name: "Prunus persica (L.) Batsch"
+image: "images/taoren-or-peach-kernel.jpg"
+
+traditional_usage: |
+  桃仁是中國傳統的草藥，提取自成熟桃子內的果核，傳統用作解決血行停滯等問題如：包括月經紊亂、腹痛、外傷口、脅腹痛和腸膿腫。桃仁同時能潤腸和疏通腸道，有助紓緩排便問題。
+
+簡介: |
+  桃仁是法國Prumus persica(L.) Batsch 或 P davidiana 的種子。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e6%a1%83%e4%bb%81/"
+  scraped_at: "2026-02-18T04:02:34.846Z"
+  language: "zh-HK"

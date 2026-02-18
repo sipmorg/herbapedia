@@ -1,0 +1,22 @@
+# Soy
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/soy/
+# Language: en
+
+id: "soy"
+slug: "soy"
+category: "western-herbs"
+title: "Soy"
+scientific_name: "Glycine max"
+image: "images/soy.jpg"
+
+introduction: |
+  Derived from soya beans, a species of legume native to East Asia.
+
+traditional_usage: |
+  Soy is a rich source of isoflavones, which are phytoestrogens - plant-derived compounds that possess oestrogen-like biological properties. Isoflavones may reduce the risk of hormone-dependent cancers, such as breast and prostate cancer, as well as other cancers. Studies show they may also protect against heart disease. The mild oestrogen activity of soy isoflavones may also ease menopause symptoms for some women, and may help regulate hormone levels in premenopausal women. Soy isoflavones could also play a beneficial role in preventing osteoporosis and autoimmune conditions.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/soy/"
+  scraped_at: "2026-02-18T03:35:05.402Z"
+  language: "en"

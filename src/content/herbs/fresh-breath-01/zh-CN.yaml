@@ -1,0 +1,25 @@
+# 佩兰叶 又名佩兰
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e4%bd%a9%e5%85%b0%e5%8f%b6-%e5%8f%88%e5%90%8d%e4%bd%a9%e5%85%b0/
+# Language: zh-CN
+
+id: "fresh-breath-01"
+slug: "fresh-breath-01"
+category: "chinese-herbs"
+title: "佩兰叶 又名佩兰"
+scientific_name: "Eupatorium fortunei"
+image: "images/fresh-breath-01.jpg"
+
+traditional_usage: |
+  佩兰药味辛，药性平和，归脾、胃、肺经，具化湿、解暑的功效，常用于湿滞中焦引发的不适，例如口中甜腻、口臭、多涎等，常与藿香、荷叶等同用。
+
+历史: |
+  始载於《神农本草经》
+
+简介: |
+  菊科植物佩兰（兰草）的地上部份
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e4%bd%a9%e5%85%b0%e5%8f%b6-%e5%8f%88%e5%90%8d%e4%bd%a9%e5%85%b0/"
+  scraped_at: "2026-02-18T03:37:04.553Z"
+  language: "zh-CN"

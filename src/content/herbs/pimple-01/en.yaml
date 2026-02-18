@@ -1,0 +1,28 @@
+# Kushen
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/kushen/
+# Language: en
+
+id: "pimple-01"
+slug: "pimple-01"
+category: "chinese-herbs"
+title: "Kushen"
+scientific_name: "Sophora flavescens"
+image: "images/pimple-01.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica, classified as middle class.
+
+introduction: |
+  From the root of Sophora flavescens Ait., family Leguminosae.
+
+traditional_usage: |
+  Kushen is a cold, bitter herb made from the roots of the sophora plant that enters the heart, liver, stomach, large intestine and bladder meridians. It is used to clear heat, dispel wind and dampness, kill parasites and promote urination. It has long been used to treat chronic skin problems including itching and eczema.
+
+modern_research: |
+  Kushen shows promise in laboratory tests as a treatment for heart arrhythmia, high cholesterol, asthma, and as an antibiotic.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/kushen/"
+  scraped_at: "2026-02-18T03:33:50.332Z"
+  language: "en"

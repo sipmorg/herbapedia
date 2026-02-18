@@ -1,0 +1,22 @@
+# Sage oil
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/sage-oil/
+# Language: en
+
+id: "sage-oil"
+slug: "sage-oil"
+category: "western-herbs"
+title: "Sage oil"
+scientific_name: "Salvia officinalis (LINN.)"
+image: "images/sage-oil.jpg"
+
+introduction: |
+  Sage oil is extracted from the dried leaves from the culinary herb sage, Salvia officinalis, by steam distillation.
+
+traditional_usage: |
+  Sage oil has multiple uses. It is effective for stimulating the digestion and encouraging appetite; for treating the pain of rheumatism; as a tonic for the liver, kidneys and urinary tract; and due its hormonal regulatory effect, helps regulate menstrual problems and treat female sterility. Sage oil also stimulates the lymphatic system and thereby boosts glandular functions. As a topical remedy it can treat conditions including dermatitis, atonic wounds, sores, ulcers, as well as insect bites and help to reduce large pores. Emotionally, it helps people deal with grief and depression and quickens the senses.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/sage-oil/"
+  scraped_at: "2026-02-18T03:35:04.368Z"
+  language: "en"

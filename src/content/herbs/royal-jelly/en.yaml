@@ -1,0 +1,21 @@
+# Royal Jelly
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/royal-jelly/
+# Language: en
+
+id: "royal-jelly"
+slug: "royal-jelly"
+category: "western-herbs"
+title: "Royal Jelly"
+image: "images/royal-jelly.jpg"
+
+introduction: |
+  Royal jelly is a secretion produced by honey bees to feed their larvae.
+
+traditional_usage: |
+  Royal jelly is a secretion made by honey bees and is collected from commercial hives. One healthy hive takes up to six months to produce around 500 grams of royal jelly. It is a naturally rich source of minerals, B-complex vitamins, protein and essential amino acids with antioxidant and anti-fatigue effects. It is a popular tonic and is often added to skin creams. It is also sometimes used to treat allergies; however, anyone allergic to honey or bee stings should not consume royal jelly.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/royal-jelly/"
+  scraped_at: "2026-02-18T03:35:03.233Z"
+  language: "en"

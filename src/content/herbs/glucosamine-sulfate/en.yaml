@@ -1,0 +1,22 @@
+# Glucosamine Sulfate
+# Source: https://www.vitaherbapedia.com/en/shop/nutrients-en/glucosamine-sulfate/
+# Language: en
+
+id: "glucosamine-sulfate"
+slug: "glucosamine-sulfate"
+category: "nutrients"
+title: "Glucosamine Sulfate"
+scientific_name: "Glucosamine Sulfate"
+image: "images/glucosamine-sulfate.jpg"
+
+introduction: |
+  Supplemental sources of glucosamine sulfate are derived from chitin, the hard outer shells of shrimp, lobsters and crabs.
+
+traditional_usage: |
+  Glucosamine stimulates the production of glycosaminoglycans, the key structural component of cartilage, the protective cushion around our joints. It also helps cartilage to incorporate sulphur, an element that is necessary for its production and repair, making it useful for people suffering wear and tear to their joints either through exercise or old age. Additionally it can also be used to treat and delay the progression of osteoarthritis.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/nutrients-en/glucosamine-sulfate/"
+  scraped_at: "2026-02-18T03:35:43.072Z"
+  language: "en"

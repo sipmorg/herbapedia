@@ -1,0 +1,22 @@
+# 雲芝
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e9%9b%b2%e8%8a%9d/
+# Language: zh-HK
+
+id: "liver-01"
+slug: "liver-01"
+category: "chinese-herbs"
+title: "雲芝"
+scientific_name: "Coriolus Versicolour, Trametes versicolor"
+image: "images/liver-01.jpg"
+
+traditional_usage: |
+  雲芝即多孔菌科植物彩絨革蓋菌，其味甘、淡，性微寒，歸肝、脾、肺經。傳統認為能健脾利濕、止咳平喘，近代多用於抗腫瘤，適用於消化道、肺、乳腺、子宮頸等部位的不良細胞引起之頑疾。亦可用於護肝以及改善呼吸系統慢性毛病。
+
+簡介: |
+  彩絨革蓋菌
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e9%9b%b2%e8%8a%9d/"
+  scraped_at: "2026-02-18T04:03:34.021Z"
+  language: "zh-HK"

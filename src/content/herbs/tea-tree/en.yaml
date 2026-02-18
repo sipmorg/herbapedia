@@ -1,0 +1,28 @@
+# Tea Tree oil
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/tea-tree-oil/
+# Language: en
+
+id: "tea-tree"
+slug: "tea-tree"
+category: "western-herbs"
+title: "Tea Tree oil"
+scientific_name: "Melaleuca alternifolia"
+image: "images/tea-tree.jpg"
+
+history: |
+  Tea Tree oil was originally used by indigenous eastern Australians, who inhaled the vapour from crushed Melaleuca leaves to treat coughs and colds, as well applying them topically to wounds. The oil was not extracted for commercial use until the 1920s.
+
+introduction: |
+  Tea tree oil is obtained by steam distillation from the leaves of Melaleuca alternifolia.
+
+traditional_usage: |
+  Tea Tree oil comes from the leaves of Melaleuca alternifolia, a species native to the northeast coast of New South Wales in Australia. It is considered one of the most important natural antiseptics, and can be used to treat stings, burns, wounds and skin infections of all kinds. Tea Tree oil is strongly antiseptic, diaphoretic and expectorant. It can stimulate the immune system, reduce histamine-induced skin inflammation and is effective against a broad range of bacterial and fungal infections. It is used externally in the treatment of thrush, acne, athlete's foot, verrucae, warts, insect bites, cold sores and nits.
+
+modern_research: |
+  It is strongly germicidal and therefore frequently used in dentistry, deodorants, soaps, mouthwashes etc.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/tea-tree-oil/"
+  scraped_at: "2026-02-18T03:35:07.441Z"
+  language: "en"

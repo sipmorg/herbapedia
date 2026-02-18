@@ -1,0 +1,28 @@
+# Lianqiao
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/lianqiao/
+# Language: en
+
+id: "lianqiao"
+slug: "lianqiao"
+category: "chinese-herbs"
+title: "Lianqiao"
+scientific_name: "Forsythia suspensa"
+image: "images/lianqiao.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica, classified as lower class.
+
+introduction: |
+  Fruit of Forsythi suspensa (Thunb.) Vahl., family Oleaceae.
+
+traditional_usage: |
+  Lianqiao is a bitter and cool herb that enters the lung, heart and gallbladder meridians. It clears heat and toxins and promotes urination. It ability to dispel externally contracted wind-heat and feverish symptoms make it a useful treatment for illnesses such as flu and sore throats.
+
+modern_research: |
+  Lianqiao has antibiotic, anti-inflammatory, anti-pyretic and diuretic properties.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/lianqiao/"
+  scraped_at: "2026-02-18T03:33:51.364Z"
+  language: "en"

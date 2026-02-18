@@ -1,0 +1,25 @@
+# 板藍根
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e6%9d%bf%e8%97%8d%e6%a0%b9/
+# Language: zh-HK
+
+id: "daqingye"
+slug: "daqingye"
+category: "chinese-herbs"
+title: "板藍根"
+scientific_name: "Isatis tinctoria L."
+image: "images/daqingye.jpg"
+
+traditional_usage: |
+  板藍根是清熱藥，味苦，藥性寒，歸心、肺、胃經，能清熱解毒，涼血利咽，主治溫熱病出現發熱、頭痛、咽痛等症狀。
+
+歷史: |
+  始載於《神農本草經》，列為上品
+
+簡介: |
+  十字花科植物菘藍的根
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e6%9d%bf%e8%97%8d%e6%a0%b9/"
+  scraped_at: "2026-02-18T04:02:30.683Z"
+  language: "zh-HK"

@@ -1,0 +1,25 @@
+# 茯苓
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%8c%af%e8%8b%93-2/
+# Language: zh-CN
+
+id: "brain-02"
+slug: "brain-02"
+category: "chinese-herbs"
+title: "茯苓"
+scientific_name: "Poria cocos"
+image: "images/brain-02.jpg"
+
+traditional_usage: |
+  茯苓在中药中属於利水消肿药，药味甘淡，药性平和，归心、脾、肾经，能利水渗湿、健脾安神，用於水肿、脾胃虚弱、心悸失眠。茯苓是寄生於松科植物赤松或马尾松的多孔菌科真菌的菌核，而中心抱有松根者称为「茯神」，其安神功能较佳。
+
+历史: |
+  始载於《神农本草经》，列为上品
+
+简介: |
+  多孔菌科真菌茯苓的菌核，多寄生於松科植物赤松或马尾松等树根上
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%8c%af%e8%8b%93-2/"
+  scraped_at: "2026-02-18T03:37:59.143Z"
+  language: "zh-CN"

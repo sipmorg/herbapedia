@@ -1,0 +1,25 @@
+# Blueberry
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/blueberry/
+# Language: en
+
+id: "blueberry"
+slug: "blueberry"
+category: "western-herbs"
+title: "Blueberry"
+scientific_name: "Vaccinium Cyanococcus L."
+image: "images/blueberry.jpg"
+
+introduction: |
+  Blueberries are native to North America, eastern Asia and Northern Europe. The preparation is made from the ripe, dark purple fruit of Vaccinium Cyanococcus L.
+
+traditional_usage: |
+  Blueberries are one of nature's most abundant source of antioxidants, including the potent substance anthocyanin. Anthocyanin, which comes from the Greek words for plant and blue, gives the berries their dark blue colour. Anthocyanins have been shown in tests to specifically target destructive free radicals that affect age-related mental deterioration and eye problems such as macular degeneration, night blindness and vision complications from diabetes. Anthocyanins also have other benefits for the vision, as they can moisturise the eyes, help improve blood circulation, relieve conjunctival redness and treat dark circles around the eyes.
+
+modern_research: |
+  Blueberries have also been found to contain resveratrol, a potential anti-cancer agent.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/blueberry/"
+  scraped_at: "2026-02-18T03:34:45.097Z"
+  language: "en"

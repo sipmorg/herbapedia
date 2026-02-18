@@ -1,0 +1,28 @@
+# Lotus leaf
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/lotus-leaf/
+# Language: en
+
+id: "fat-02"
+slug: "fat-02"
+category: "chinese-herbs"
+title: "Lotus leaf"
+scientific_name: "Nelumbo nucifera"
+image: "images/fat-02.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  From the leaf of Nelumbo nucifera Gaertn, family Nymphaeceae.
+
+traditional_usage: |
+  Lotus leaves are bitter and neutral in character. They enter the heart, liver and spleen meridians to drain dampness and clear summer heat. It can stop bleeding and is also traditionally taken as a daily supplement for obesity to drain dampness and break down fats. Lotus leaves are collected in the summer and autumn months and the stalks removed before being prepared for medicinal use.
+
+modern_research: |
+  Its extract and decoction has a hypotensive effect on animals and is a vasodilator. An active component of the herb, nuciferine, exerts antispasmodic effects on smooth muscles.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/lotus-leaf/"
+  scraped_at: "2026-02-18T03:33:55.143Z"
+  language: "en"

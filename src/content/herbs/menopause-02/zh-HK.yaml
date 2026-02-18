@@ -1,0 +1,25 @@
+# 山茱萸
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%b1%b1%e8%8c%b1%e8%90%b8/
+# Language: zh-HK
+
+id: "menopause-02"
+slug: "menopause-02"
+category: "chinese-herbs"
+title: "山茱萸"
+scientific_name: "Corus officinalis"
+image: "images/menopause-02.jpg"
+
+traditional_usage: |
+  山茱萸味道酸澀，藥性微溫，歸肝、腎經，能補益肝腎，收斂固澀，用於治療肝腎虧虛導致的頭暈目眩、潮熱冒汗、腰膝酸軟、性功能下降、小便不利等，亦用於消渴病。
+
+歷史: |
+  始載於《神農本草經》
+
+簡介: |
+  山茱萸科植物山茱萸的成熟果肉
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%b1%b1%e8%8c%b1%e8%90%b8/"
+  scraped_at: "2026-02-18T04:02:24.913Z"
+  language: "zh-HK"

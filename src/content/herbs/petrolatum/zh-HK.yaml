@@ -1,0 +1,21 @@
+# 礦油 又名凡士林
+# Source: https://www.vitaherbapedia.com/zh/shop/nutrients/%e7%a4%a6%e6%b2%b9-%e5%8f%88%e5%90%8d%e5%87%a1%e5%a3%ab%e6%9e%97/
+# Language: zh-HK
+
+id: "petrolatum"
+slug: "petrolatum"
+category: "nutrients"
+title: "礦油 又名凡士林"
+image: "images/petrolatum.jpg"
+
+functions: |
+  礦脂或凡士林油是清澈的礦物油，能局部對爆裂的嘴唇作特別護理， 它更是一般化妝品和皮膚護理產品的主要成份，有效修補受破壞的皮膚表層。它可於皮膚外層形成防水的保護網， 避免皮膚受感染及保持皮膚在保護下變得柔軟。
+
+簡介: |
+  它是介乎透明至微黃色的碳氫化合物，源於石油。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/nutrients/%e7%a4%a6%e6%b2%b9-%e5%8f%88%e5%90%8d%e5%87%a1%e5%a3%ab%e6%9e%97/"
+  scraped_at: "2026-02-18T04:05:00.562Z"
+  language: "zh-HK"

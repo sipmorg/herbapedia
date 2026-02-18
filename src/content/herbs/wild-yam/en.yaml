@@ -1,0 +1,22 @@
+# Konjac jelly
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/konjac-jelly/
+# Language: en
+
+id: "wild-yam"
+slug: "wild-yam"
+category: "western-herbs"
+title: "Konjac jelly"
+scientific_name: "Amorphophallus konjac"
+image: "images/wild-yam.jpg"
+
+introduction: |
+  The corm of the plant Amorphophallus Konjac, family Araceae.
+
+traditional_usage: |
+  Konjac comes from a type of yam that is native to tropical Asian regions from Indonesia to Japan. The large, starchy corm of the plant can be used to make flour and jelly. Since konjac has almost no calories but is very high in fibre, it can be used to decrease the appetite and promote a slim figure.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/konjac-jelly/"
+  scraped_at: "2026-02-18T03:34:58.426Z"
+  language: "en"

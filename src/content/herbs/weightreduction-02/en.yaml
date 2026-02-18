@@ -1,0 +1,25 @@
+# Zexie
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/zexie/
+# Language: en
+
+id: "weightreduction-02"
+slug: "weightreduction-02"
+category: "chinese-herbs"
+title: "Zexie"
+scientific_name: "Alisma orientalis"
+image: "images/weightreduction-02.jpg"
+
+history: |
+  First appeared in the Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  The stem tuber of Alisma orientale (Sam.) Juzep., family Alismataceae.
+
+traditional_usage: |
+  Zexie is made from the tuberous stems of water plantain. A sweet, bland herb that is cold in nature, it enters the kidney and bladder meridians to promote urination, drain dampness, reduce oedema and clear deficiency fire from the kidneys. It is useful for treating urinary disorders and vertigo, dizziness and tinnitus caused by excessive phlegm.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/zexie/"
+  scraped_at: "2026-02-18T03:34:31.627Z"
+  language: "en"

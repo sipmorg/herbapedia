@@ -1,0 +1,25 @@
+# Dragon bone
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/dragon-bone/
+# Language: en
+
+id: "longgu"
+slug: "longgu"
+category: "chinese-herbs"
+title: "Dragon bone"
+scientific_name: "Draconis os"
+image: "images/longgu.jpg"
+
+history: |
+  First appeared in the Divine Husbandman's Classic of the Materia Medica, classified as upper class.
+
+introduction: |
+  The fossil of the skeletons of ancient large mammals.
+
+traditional_usage: |
+  Known as dragon bones, longgu is in fact obtained from the fossils of prehistoric animals such as deer and rhinoceros found in China's central and northeast provinces. A sweet, acrid herb that is cool in nature, it enters the heart and liver meridians. Longu helps to calm the liver, anchor rising yang, prevent the leakage of fluids and relieve symptoms of sadness. It benefits people with feelings of unhappiness, insomnia, dizziness and other associated symptoms.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/dragon-bone/"
+  scraped_at: "2026-02-18T03:33:30.367Z"
+  language: "en"

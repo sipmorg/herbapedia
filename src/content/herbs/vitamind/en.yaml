@@ -1,0 +1,22 @@
+# Vitamin D; Calciferol, Cholecalciferol, Ergocalciferol
+# Source: https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-d-calciferol-cholecalciferol-ergocalciferol/
+# Language: en
+
+id: "vitamind"
+slug: "vitamind"
+category: "vitamins"
+title: "Vitamin D; Calciferol, Cholecalciferol, Ergocalciferol"
+scientific_name: "1,25 dihydroxycholecalciferol"
+image: "images/vitamind.jpg"
+
+introduction: |
+  Found in fortified foods such as dairy products, cheese, margarine and cereals; also found naturally in fish, oysters, cod liver oil, salmon, tuna fish and sardines. Exposure to sunlight or a sunlamp causes the body to convert vitamin D precursor into active vitamin D.
+
+traditional_usage: |
+  Vitamin D is essential for many bodily processes. It increases calcium absorption from the small intestine; promotes growth and mineralisation of bones and strong teeth; increases absorption of phosphorus through the intestinal wall and increases resorption of phosphates from the kidney tubules; maintains normal level of citrate in the blood; and protects against the loss of amino acids through the kidneys. A deficiency of vitamin D can cause rickets as well as malformed bones and teeth and has been linked to conditions including bone pain and diabetes.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-d-calciferol-cholecalciferol-ergocalciferol/"
+  scraped_at: "2026-02-18T03:35:20.444Z"
+  language: "en"

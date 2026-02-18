@@ -1,0 +1,25 @@
+# 鹿角膠
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e9%b9%bf%e8%a7%92%e8%86%a0/
+# Language: zh-HK
+
+id: "deer-horn-gelatine"
+slug: "deer-horn-gelatine"
+category: "chinese-herbs"
+title: "鹿角膠"
+scientific_name: "Colla Cornus Cervi"
+image: "images/deer-horn-gelatine.jpg"
+
+traditional_usage: |
+  將鹿角經水煎熬濃縮而成的固體膠就是鹿角膠，其藥性甘、鹹，溫。歸於肝、腎經，能溫補肝腎、益精血，用於腎陽虛弱、精血不足，常用以調理虛寒體質，需要烊化服用，或加入中成藥中使用。
+
+歷史: |
+  始載於《神農本草經》，列為中品
+
+簡介: |
+  鹿科動物梅花或馬鹿的尚未角化的幼角
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e9%b9%bf%e8%a7%92%e8%86%a0/"
+  scraped_at: "2026-02-18T04:03:36.903Z"
+  language: "zh-HK"

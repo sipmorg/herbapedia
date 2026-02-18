@@ -1,0 +1,25 @@
+# Shegan
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/shegan/
+# Language: en
+
+id: "cough-02"
+slug: "cough-02"
+category: "chinese-herbs"
+title: "Shegan"
+scientific_name: "Belamcanda chinensis"
+image: "images/cough-02.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  Derived from the rhizome of Belamcanda chinensis (L.) DC., family Iridaceae.
+
+traditional_usage: |
+  Shegan, the root of the Blackberry Lily, has cold, bitter properties. It is used to clear heat and toxicity from the body, and since it enters the lung meridian is a useful treatment for expelling phlegm and benefiting the throat.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/shegan/"
+  scraped_at: "2026-02-18T03:34:09.660Z"
+  language: "en"

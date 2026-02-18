@@ -1,0 +1,28 @@
+# Green Tea
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/green-tea/
+# Language: en
+
+id: "green-tea-extract"
+slug: "green-tea-extract"
+category: "western-herbs"
+title: "Green Tea"
+scientific_name: "Camellia Sinensis"
+image: "images/green-tea-extract.jpg"
+
+history: |
+  In China green tea has been used for centuries to treat poor digestion, headaches, prevent fatigue and sharpen the mind. Tea plants themselves are indigenous to rainy Asian forests and are cultivated widely across China, Sri Lanka, India, Japan, Indonesia and the African continent.
+
+introduction: |
+  Green tea consists of the rapidly dried, freshly picked leaves and leaf buds of Camellia sinensis, a plant of the Theaceae family.
+
+traditional_usage: |
+  Green tea is renowned for its antioxidant properties, general health-enhancing effects and ability to help relieve mental and physical fatigue. It is also high in bioflavanoids, which help to fight free radicals. The traditional method is to steep the leaves in hot water to make a refreshing drink: green tea extract contains the leaves in a powdered form that has been standardised to guarantee a high dose of the active ingredients.
+
+modern_research: |
+  In recent times, green tea extract has used to fight cancer, treat blood clotting problems, lower cholesterol levels, regulate blood sugar and facilitate weight loss. Many of these claims have yet to be scientifically verified, however there is some evidence suggesting regular green tea drinkers may have lower chances of heart disease and developing certain types of cancer.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/green-tea/"
+  scraped_at: "2026-02-18T03:34:56.378Z"
+  language: "en"

@@ -1,0 +1,22 @@
+# Vitamin P, Bioflavonoids
+# Source: https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-p-bioflavonoids/
+# Language: en
+
+id: "vitaminp"
+slug: "vitaminp"
+category: "vitamins"
+title: "Vitamin P, Bioflavonoids"
+scientific_name: "Bioflavonoids"
+image: "images/vitaminp.jpg"
+
+introduction: |
+  Bioflavonoids are found in the white material just beneath citrus peel, as well as in peppers, grapes, pine bark, onions, garlic, blue and red berries, green tea and buckwheat.
+
+traditional_usage: |
+  Bioflavonoids enhance the action of vitamin C, a key antioxidant, and possibly prolong the effectiveness of it as well. For this reason they should be taken together. Bioflavonoids are used in the treatment of sports injuries as they help to relieve pain. They can also lessen the symptoms of prolonged bleeding, a low serum calcium and oral herpes. It is thought that bioflavonoids may be active in preserving the structures of capillaries, have an antibacterial effect and promote circulation. They may also be indicated in the production of bile, lowering blood cholesterol levels and in the prevention and treatment of cataracts.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-p-bioflavonoids/"
+  scraped_at: "2026-02-18T03:35:22.391Z"
+  language: "en"

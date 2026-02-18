@@ -1,0 +1,18 @@
+# ARL 抗皺因子
+# Source: https://www.vitaherbapedia.com/zh/shop/nutrients/arl-%e6%8a%97%e7%9a%ba%e5%9b%a0%e5%ad%90/
+# Language: zh-HK
+
+id: "factor-arl"
+slug: "factor-arl"
+category: "nutrients"
+title: "ARL 抗皺因子"
+image: "images/factor-arl.jpg"
+
+traditional_usage: |
+  ARL 抗皺因子能於游離基滲入肌膚底層並且導致皺紋之前擊破游離基。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/nutrients/arl-%e6%8a%97%e7%9a%ba%e5%9b%a0%e5%ad%90/"
+  scraped_at: "2026-02-18T04:04:44.998Z"
+  language: "zh-HK"

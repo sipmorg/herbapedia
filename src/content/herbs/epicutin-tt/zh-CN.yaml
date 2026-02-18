@@ -1,0 +1,22 @@
+# 缓释功能
+# Source: https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e7%bc%93%e9%87%8a%e5%8a%9f%e8%83%bd/
+# Language: zh-CN
+
+id: "epicutin-tt"
+slug: "epicutin-tt"
+category: "nutrients"
+title: "缓释功能"
+scientific_name: "Timed Release Formation Epicutin-TT"
+image: "images/epicutin-tt.jpg"
+
+traditional_usage: |
+  茶树油独有缓释功能Epicutin-TT，能帮助保护皮肤24小时免受细菌感染。由于具强烈的杀菌效果，常用于牙科、防臭剂、除嗅剂和嗽口水等。
+
+functions: |
+  茶树油被认定是其中一个最重要的天然防腐剂，多用来治理刺螫、烧伤、创伤和皮肤感染。茶树油具强力的抗菌、发汗剂和袪痰作用。它能增强免疫系统，减少组织胺劝诱的皮肤发炎和大部份由细菌和真菌引起的感染。茶树油亦广泛应用于外涂， 包括口疮、痘痘、脚湿气、疣、蚊叮虫咬和疼痛发炎等。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e7%bc%93%e9%87%8a%e5%8a%9f%e8%83%bd/"
+  scraped_at: "2026-02-18T03:39:51.325Z"
+  language: "zh-CN"

@@ -1,0 +1,21 @@
+# 鋅
+# Source: https://www.vitaherbapedia.com/zh/shop/minerals/%e9%8b%85/
+# Language: zh-HK
+
+id: "zinc"
+slug: "zinc"
+category: "minerals"
+title: "鋅"
+image: "images/zinc.jpg"
+
+traditional_usage: |
+  鋅是維持皮膚、骨骼及毛髮健康所必須的微量元素，亦是負責消化和呼吸功能所需的酵素的重要成份。其他功能包括促進紅血球的二氧化碳傳送、加強骨骼內的鈣存量、強化骨質、促進核酸及蛋白質的合成和代謝，鋅更有助維持生殖系統健康、促進傷口癒合、維持胰島素保持正常水平及維持味覺功能。
+
+簡介: |
+  食物來源包括牛肉、肝臟、牡蠣、香料和小麥穀皮。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/minerals/%e9%8b%85/"
+  scraped_at: "2026-02-18T04:04:37.729Z"
+  language: "zh-HK"

@@ -1,0 +1,21 @@
+# 天然角磷质
+# Source: https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e5%a4%a9%e7%84%b6%e8%a7%92%e7%a3%b7%e8%b4%a8/
+# Language: zh-CN
+
+id: "ceramides"
+slug: "ceramides"
+category: "nutrients"
+title: "天然角磷质"
+image: "images/ceramides.jpg"
+
+functions: |
+  天然角磷质是活跃于皮肤表皮的活性分子，能为皮肤形成一个防护网，能有效避免皮肤水份流失及阻隔污染物，因此亦被认为是抗衰老和其他美容护理产品的珍贵成分份。
+
+简介: |
+  天然角磷质由 sphingosine 和脂肪酸组成。它集中于环绕细胞之间的薄膜之中。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e5%a4%a9%e7%84%b6%e8%a7%92%e7%a3%b7%e8%b4%a8/"
+  scraped_at: "2026-02-18T03:39:38.510Z"
+  language: "zh-CN"

@@ -1,0 +1,22 @@
+# 赤靈芝孢子
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e8%b5%a4%e9%9d%88%e8%8a%9d%e5%ad%a2%e5%ad%90/
+# Language: zh-HK
+
+id: "lingzhi-spores"
+slug: "lingzhi-spores"
+category: "chinese-herbs"
+title: "赤靈芝孢子"
+scientific_name: "Ganoderma lucidum"
+image: "images/lingzhi-spores.jpg"
+
+traditional_usage: |
+  靈芝孢子被兩層外壁包著，未經破壁時，其精華不易為人體吸收，而經破壁的孢子，其精華及有效物質便可充份發揮作用。主要用於虛勞羸弱，食慾不振，心悸怔仲，失眠健忘以及咳痰喘息，久嗽不止。現還用於促進心腦血管系統健康，以及改善神經衰弱、慢性呼吸系統毛病等。
+
+簡介: |
+  多孔菌科真菌赤靈芝的孢子
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e8%b5%a4%e9%9d%88%e8%8a%9d%e5%ad%a2%e5%ad%90/"
+  scraped_at: "2026-02-18T04:03:19.469Z"
+  language: "zh-HK"

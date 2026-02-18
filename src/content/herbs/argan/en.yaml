@@ -1,0 +1,25 @@
+# Argan oil
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/argan-oil/
+# Language: en
+
+id: "argan"
+slug: "argan"
+category: "western-herbs"
+title: "Argan oil"
+scientific_name: "Argania Spinosa"
+image: "images/argan.jpg"
+
+introduction: |
+  Derived from the fruit of the Argan tree, which grows in the Moroccan dessert surviving the harshest of dry weather conditions.
+
+traditional_usage: |
+  With its unique profile of fatty acids, tocopherols (Vitamin E), squalene, sterols and phenolic compounds, Argan oil has traditionally been used as a treatment for skin diseases. It it also has valuable cancer chemopreventive effects and plays a beneficial role in the prevention of cardiovascular problems.
+
+modern_research: |
+  Containing 80% non-saturated fatty acids rich in linoelic acid and tocopherols (Vitamin E), Argan Oil can re-establish the hydrolipid equilibrium, nourish even the driest skins and regenerate vital cell activity.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/argan-oil/"
+  scraped_at: "2026-02-18T03:34:41.326Z"
+  language: "en"

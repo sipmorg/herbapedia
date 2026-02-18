@@ -1,0 +1,25 @@
+# 大黄
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%a4%a7%e9%bb%84/
+# Language: zh-CN
+
+id: "dahuang"
+slug: "dahuang"
+category: "chinese-herbs"
+title: "大黄"
+scientific_name: "Rheum palmatum L."
+image: "images/dahuang.jpg"
+
+traditional_usage: |
+  大黄为蓼科多年生草本植物，是十分常用的攻下药，其药味苦而药性寒凉，归脾、胃、大肠、肝、心经，能通便泻下、清热解毒，传统常用於阳明腑实證，例如热结便秘、胃肠积滞，以及其他热毒症状。
+
+历史: |
+  始载於《神农本草经》，列为下品
+
+简介: |
+  蓼科植物大黄的根及根茎
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e5%a4%a7%e9%bb%84/"
+  scraped_at: "2026-02-18T03:37:13.209Z"
+  language: "zh-CN"

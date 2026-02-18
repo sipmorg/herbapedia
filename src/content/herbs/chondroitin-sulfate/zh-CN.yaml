@@ -1,0 +1,22 @@
+# 软骨素
+# Source: https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e8%bd%af%e9%aa%a8%e7%b4%a0/
+# Language: zh-CN
+
+id: "chondroitin-sulfate"
+slug: "chondroitin-sulfate"
+category: "nutrients"
+title: "软骨素"
+scientific_name: "Chondroitin Sulfate/ Galactosaminoglucuronoglycan Sulfate"
+image: "images/chondroitin-sulfate.jpg"
+
+traditional_usage: |
+  软骨素有助保持关节间软骨的弹性和柔软性，当软骨素配合葡萄糖胺一同使用，能够大大纾缓骨性关节问题。软骨素能把水份引入软骨细胞内并重点锁紧，当水份足够，软骨细胞便会更加饱满和厚实，从而强化软骨避震功能，纾缓轻至中度膝盖的骨性关节问题，让关节活动自如。而软骨素把水份引入软骨细胞同时亦把氧气和营养送进软骨细胞，让软骨细胞获得足够养份。
+
+简介: |
+  从牛气管软骨环、猪肉副产品（耳朵和猪嘴）、鲨鱼软骨和鲸鱼隔膜软骨中抽取。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e8%bd%af%e9%aa%a8%e7%b4%a0/"
+  scraped_at: "2026-02-18T03:39:59.071Z"
+  language: "zh-CN"

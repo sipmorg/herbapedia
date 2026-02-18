@@ -1,0 +1,28 @@
+# Tianma
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/tianma/
+# Language: en
+
+id: "headache-01"
+slug: "headache-01"
+category: "chinese-herbs"
+title: "Tianma"
+scientific_name: "Gastrodia elatae"
+image: "images/headache-01.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  The tuber of Gastrodia elata Bl. (Orchidaceae) symbiosis with Armillaria mellea (Vahl ex. Fr.) Quel. (Fungi).
+
+traditional_usage: |
+  Tianma is made from Gastrodia elatae, an unusual type of orchid that grows on a fungus. It is a sweet tasting, neutral herb that enters the liver meridian. It is used to expel wind, to stop spasms and tremors, pacify the liver, anchor the yang and relieve pain. It can be used to treat symptoms of rising liver yang such as headache, vertigo, dizziness and hypertension.
+
+modern_research: |
+  Tianma has clinically proven sedative, anti-convulsant and cardiovascular properties. It has been used with good results to treat patients with headaches and nerve pain.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/tianma/"
+  scraped_at: "2026-02-18T03:34:18.875Z"
+  language: "en"

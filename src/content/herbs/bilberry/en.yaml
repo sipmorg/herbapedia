@@ -1,0 +1,25 @@
+# Bilberry
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/bilberry/
+# Language: en
+
+id: "bilberry"
+slug: "bilberry"
+category: "western-herbs"
+title: "Bilberry"
+scientific_name: "Vaccinium myrtillus L."
+image: "images/bilberry.jpg"
+
+history: |
+  Bilberry has been used in European medicine for nearly a thousand years, primarily to treat gastric disorders and diarrhea. The fruit contains tannins, substances that act as both an anti-inflammatory and an astringent (constricting and tightening tissues), which is thought to be the reason for their ability to soothe stomach problems. The leaves of the bilberry plant were also traditionally used to treat diabetes.
+
+introduction: |
+  Bilberry preparation consist of the whole, dried, ripe, black or bluish-black fruit of Vaccinium myrtillus L.
+
+traditional_usage: |
+  Bilberries are the fruits of a low-growing bush native to the temperate and sub-arctic regions of Northern Europe. They contain more antioxidants than any other type of berry, as well as being packed with vitamin C. The blue colour of bilberries comes from the pigment anthocyanin, which has been linked to the treatment of several diseases including circulatory disorders of the retina; vein and circulatory disorders including varicose veins; inadequate vein strength; and fragile capillaries.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/bilberry/"
+  scraped_at: "2026-02-18T03:34:43.269Z"
+  language: "en"

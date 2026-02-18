@@ -1,0 +1,25 @@
+# Chuanxinlian
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/chuanxinlian/
+# Language: en
+
+id: "alleviating-heat"
+slug: "alleviating-heat"
+category: "chinese-herbs"
+title: "Chuanxinlian"
+scientific_name: "Andrographis paniculata"
+image: "images/alleviating-heat.jpg"
+
+history: |
+  First appeared in Handbook of Commonly used Traditional Chinese Herbs by Guangzhou People's Liberation Army Medical Brigade.
+
+introduction: |
+  Herb of Andrographis paniculata (Burm. F.) Nees, family Acanthaceae.
+
+traditional_usage: |
+  Chuanxinlian is a bitter herb that is cold in nature. It affects the lung, stomach, large intestine and small intestine meridians, clearing heat and toxins and helping to dissipate dampness. It is useful for treating cases of diarrhoea and dysentry due to damp-heat.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/chuanxinlian/"
+  scraped_at: "2026-02-18T03:33:21.646Z"
+  language: "en"

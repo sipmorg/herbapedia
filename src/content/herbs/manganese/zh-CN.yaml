@@ -1,0 +1,21 @@
+# 锰
+# Source: https://www.vitaherbapedia.com/cn/shop/minerals-cn/%e9%94%b0/
+# Language: zh-CN
+
+id: "manganese"
+slug: "manganese"
+category: "minerals"
+title: "锰"
+image: "images/manganese.jpg"
+
+traditional_usage: |
+  锰是身体必须的微量元素。锰能维繫骨骼及结缔组织的发展，协助及维持正常血液凝固，製造胆固醇，以及启动在碳水化合物、脂肪、蛋白质和核酸的新陈代谢中需要的酵素。
+
+简介: |
+  存在於糙米，米穀皮，胡桃，小麦穀皮和小麦胚。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/minerals-cn/%e9%94%b0/"
+  scraped_at: "2026-02-18T03:39:27.569Z"
+  language: "zh-CN"

@@ -1,0 +1,28 @@
+# Milk Vetch
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/milk-vetch/
+# Language: en
+
+id: "replenishingchi-02"
+slug: "replenishingchi-02"
+category: "chinese-herbs"
+title: "Milk Vetch"
+scientific_name: "Astragalus membranaceus"
+image: "images/replenishingchi-02.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  Dried Root of Astragalus membranaceus (Fisch. ) Bunge, family Leguminosae.
+
+traditional_usage: |
+  Huangqi is a warm, sweet tasting herb that enters the lung and spleen meridians. Its main use is to tonify the chi and raise the yang, making it a useful treatment for extreme fatigue due to spleen deficiency; prolapsed organs; lung and blood deficiencies; chi collapse caused by heavy blood loss and chi deficiency caused by clinical cancer therapies. It also regulates water circulation, reduces oedema, relieves numbness or pain and promotes the healing of ulcers and sores. Huangqi replenishes lung chi, which means it can increase the respiratory tract's resistance to pathogens or allergens.
+
+modern_research: |
+  Astragalus had been found to have numerous pharmacological effects in laboratory studies, including decreasing the blood pressure, raising the metabolism, sedative and analgesic effects and acting as an antibiotic in the presence of certain bacteria.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/milk-vetch/"
+  scraped_at: "2026-02-18T03:33:56.904Z"
+  language: "en"

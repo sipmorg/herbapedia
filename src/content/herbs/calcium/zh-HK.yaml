@@ -1,0 +1,21 @@
+# 鈣
+# Source: https://www.vitaherbapedia.com/zh/shop/minerals/%e9%88%a3/
+# Language: zh-HK
+
+id: "calcium"
+slug: "calcium"
+category: "minerals"
+title: "鈣"
+image: "images/calcium.jpg"
+
+traditional_usage: |
+  鈣是建造骨頭和牙齒、保持骨質密度的重要營養素。鈣的其他功能包括促進血液凝固、肌肉 (尤其是心臟) 的收縮和放鬆，管理和傳遞腦訊息、維持細胞之間的滲透性、酵素的活化，以及控制荷爾蒙分泌等。
+
+簡介: |
+  可在奶酪、小麥和大豆麵粉、奶和奶製品、豆奶和大豆產品中找到。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/minerals/%e9%88%a3/"
+  scraped_at: "2026-02-18T04:04:34.922Z"
+  language: "zh-HK"

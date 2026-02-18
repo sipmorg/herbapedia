@@ -1,0 +1,28 @@
+# Rhodiola
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/rhodiola/
+# Language: en
+
+id: "anti-fatique-02"
+slug: "anti-fatique-02"
+category: "chinese-herbs"
+title: "Rhodiola"
+scientific_name: "Rhodiola Sacra"
+image: "images/anti-fatique-02.jpg"
+
+history: |
+  First appeared in Xi Bu Yi Dian.
+
+introduction: |
+  Herb of Rhodiola Sacra, family crassulaceae.
+
+traditional_usage: |
+  This preparation is made from the roots of Rhodiola, a plant that grows high in the mountains of Tibet. Neutral in nature, it helps to tonify and promote circulation. Rhodiola replenishes energy and promotes the oxygen-carrying capacity of the blood, making it useful for treating fatigue and preventing high altitude sickness.
+
+modern_research: |
+  Used for the prevention of acute mountain sickness.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/rhodiola/"
+  scraped_at: "2026-02-18T03:34:06.002Z"
+  language: "en"

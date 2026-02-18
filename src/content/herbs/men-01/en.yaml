@@ -1,0 +1,28 @@
+# Horny Goat Weed
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/horny-goat-weed/
+# Language: en
+
+id: "men-01"
+slug: "men-01"
+category: "chinese-herbs"
+title: "Horny Goat Weed"
+scientific_name: "Epimedium brevicornum"
+image: "images/men-01.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  From the branches and leaves of Epimedium sagittatum ( Sieb. Et Zucc.) maxim, or E. brevicornum Maxim., family Berberidaceae.
+
+traditional_usage: |
+  Acrid, sweet and warm in nature, Yinyanghuo enters the kidney and liver meridians. It is used to tonify the kidneys and fortifiy the yang, increase libido and expel wind-damp-cold. It can treat symptoms of kidney yang deficiency - including impotence, lack of desire, weakness of the lower back and knees and infertility - as well as resolve blockages in the free flow of yang and chi caused by wind-damp-cold. The herb is prepared from the leaves and twigs of Epimedium, or Horny Goat Weed, which are gathered in spring and autumn, sun-dried, and cut into small pieces.
+
+modern_research: |
+  Yinyanghuo has been used in studies to treat conditions including coronary artery disease, neutropenia, bronchitis and neurasthenia with good success rates.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/horny-goat-weed/"
+  scraped_at: "2026-02-18T03:33:43.534Z"
+  language: "en"

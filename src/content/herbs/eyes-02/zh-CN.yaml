@@ -1,0 +1,25 @@
+# 苍朮
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%8b%8d%e6%9c%ae/
+# Language: zh-CN
+
+id: "eyes-02"
+slug: "eyes-02"
+category: "chinese-herbs"
+title: "苍朮"
+scientific_name: "Atractylodes lancea (Thunb.) DC., Atractylodes chinensis (DC. ) Koidz."
+image: "images/eyes-02.jpg"
+
+traditional_usage: |
+  苍朮属於芳香化湿药，药味辛而苦，药性温，归於脾、胃经，能有效燥湿健脾、袪风湿，对风寒挟湿的表證具发汗解表的作用，又能明目，能改善眼涩、视力下降等问题。
+
+历史: |
+  始载於《神农本草经》，但无白朮、苍朮之分，统称为"朮"。
+
+简介: |
+  菊科植物茅苍朮的根茎
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%8b%8d%e6%9c%ae/"
+  scraped_at: "2026-02-18T03:37:58.199Z"
+  language: "zh-CN"

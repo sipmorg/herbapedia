@@ -1,0 +1,25 @@
+# Orobanches
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/orobanches/
+# Language: en
+
+id: "orobanches"
+slug: "orobanches"
+category: "chinese-herbs"
+title: "Orobanches"
+scientific_name: "Orobanche coerulescens"
+image: "images/orobanches.jpg"
+
+history: |
+  Herba Orobanches is a precious plant that grows wild on the high peaks of Changbai Mountain, an ancient, sacred region on the border between China and North Korea. The plant was discovered by indigenous inhabitants. who prize it for its rejuvenating properties.
+
+introduction: |
+  The stem of Dendrobium nobile Lindl., or several species in the same genus, family Orchidaceae.
+
+traditional_usage: |
+  Herba Orobanches is a sweet, bland, cooling herb that has an effect on the kidney and stomach meridians. It is used to tonify the kidneys and yang, nourish the intestines, brighten the eyes and strengthen the back, tendons and bones. It is especially prized for endowing vigour and vitality related to kidney health: improving vision, stiffness in the back and joints, improving the body's immune response, aiding detoxification and fighting the signs of ageing.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/orobanches/"
+  scraped_at: "2026-02-18T03:34:02.325Z"
+  language: "en"

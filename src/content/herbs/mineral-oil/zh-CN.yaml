@@ -1,0 +1,21 @@
+# 精华油
+# Source: https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e7%b2%be%e5%8d%8e%e6%b2%b9/
+# Language: zh-CN
+
+id: "mineral-oil"
+slug: "mineral-oil"
+category: "nutrients"
+title: "精华油"
+image: "images/mineral-oil.jpg"
+
+traditional_usage: |
+  精华油是婴儿油、凡士林、其他润肤霜和化妆品的主要成份， 特别是用作唇膏。精华油更能有效卸妆。
+
+简介: |
+  精华油是清晰、透明和无毒性的油份，由石油衍生出来，具有理想的润肤功效。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e7%b2%be%e5%8d%8e%e6%b2%b9/"
+  scraped_at: "2026-02-18T03:39:50.405Z"
+  language: "zh-CN"

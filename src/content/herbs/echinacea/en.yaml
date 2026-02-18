@@ -1,0 +1,25 @@
+# Echinacea
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/echinacea/
+# Language: en
+
+id: "echinacea"
+slug: "echinacea"
+category: "western-herbs"
+title: "Echinacea"
+scientific_name: "Echinacea purpurea (L.) Moench, Echinacea angustfolia DC"
+image: "images/echinacea.jpg"
+
+history: |
+  Echinacea was the medicinal plant most widely used by native Americans. Ethnobotanist M.R. Gilmore noted, "Echinacea seems to have been used as a remedy for more ailments than any other plant." These ailments included toothache, enlarged glands (mumps), sore throat, snakebites, coughs, burns and as an analgesic. It first became popular in Europe in the 1930s.
+
+introduction: |
+  Echinacea preparations consist of any one or more of the plant parts from three Echinacea species, including the fresh, above-ground parts, the fresh or dried root of E.purpurea (L.) Moench, and the fresh or dried root of E.pallida (Nutt.) Nutt., and/or E.angustifolia D.C.
+
+traditional_usage: |
+  Echinacea is a North American herb that is taken to reduce the severity and duration of colds and upper respiratory tract infections. Its pharmacological effects are immunomodulatory, immunostimulant and antimycotic, while it increases phagocytosis and serum leukocytes. In Chinese medicine it is classed as a bitter, acrid, cooling herb that affects the lung, liver and bladder meridians to clear heat, remove toxins and dispel wind.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/echinacea/"
+  scraped_at: "2026-02-18T03:34:49.537Z"
+  language: "en"

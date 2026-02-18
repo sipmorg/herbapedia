@@ -1,0 +1,22 @@
+# 欧洲蓝莓
+# Source: https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e6%ac%a7%e6%b4%b2%e8%93%9d%e8%8e%93/
+# Language: zh-CN
+
+id: "bilberry"
+slug: "bilberry"
+category: "western-herbs"
+title: "欧洲蓝莓"
+scientific_name: "Vaccinium myrtillus L."
+image: "images/bilberry.jpg"
+
+traditional_usage: |
+  欧洲蓝莓对于改善一连串的视觉问题均有良效，如：视网膜血液循环不顺、静脉曲张，以及虚弱的血管和毛细血管。
+
+简介: |
+  欧洲蓝莓以完整、风干、成熟、黑色或黑蓝色的欧洲越橘果实配制。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e6%ac%a7%e6%b4%b2%e8%93%9d%e8%8e%93/"
+  scraped_at: "2026-02-18T03:38:41.598Z"
+  language: "zh-CN"

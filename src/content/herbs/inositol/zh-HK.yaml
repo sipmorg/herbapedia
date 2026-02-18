@@ -1,0 +1,22 @@
+# 肌醇
+# Source: https://www.vitaherbapedia.com/zh/shop/nutrients/%e8%82%8c%e9%86%87/
+# Language: zh-HK
+
+id: "inositol"
+slug: "inositol"
+category: "nutrients"
+title: "肌醇"
+scientific_name: "Myoinositol"
+image: "images/inositol.jpg"
+
+functions: |
+  肌醇是合成卵磷質的主要成分，身體有很多正常功能都靠它與維他命B雜 - 膽鹼同時運作維持。肌醇是製造細胞薄膜的基本成分， 它對保持神經傳遞，腦部和肌肉的運作十分重要。肌醇對於舒緩肝臟問題、抑鬱、驚恐和糖尿亦有助效。肌醇也有助分解脂肪，幫助控制血液膽固醇水平，防止頭髮變得稀薄。
+
+簡介: |
+  肌醇可從植物和動物中找到。在植物中的肌醇稱為植酸，它可與其他物質結合，從而減低其吸收能力。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/nutrients/%e8%82%8c%e9%86%87/"
+  scraped_at: "2026-02-18T04:05:03.543Z"
+  language: "zh-HK"

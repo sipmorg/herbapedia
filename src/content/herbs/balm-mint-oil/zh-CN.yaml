@@ -1,0 +1,22 @@
+# 薄荷脑精油
+# Source: https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e8%96%84%e8%8d%b7%e8%84%91%e7%b2%be%e6%b2%b9-2/
+# Language: zh-CN
+
+id: "balm-mint-oil"
+slug: "balm-mint-oil"
+category: "western-herbs"
+title: "薄荷脑精油"
+scientific_name: "Melissa officinalis L."
+image: "images/balm-mint-oil.jpg"
+
+traditional_usage: |
+  薄荷脑具镇静剂的功效， 因此为镇静神经和帮助减轻沮丧的情绪，包括激动的情绪和恐慌等。薄荷脑亦有助减低高血压， 并有助调节月经的周期， 因此减轻周期性的疼痛。薄荷脑同时能对抗真菌引起的疾病。
+
+简介: |
+  薄荷脑精油取自新鲜的地中海薄荷脑的顶部、叶子和茎，并由蒸气蒸馏的方法所提炼。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e8%96%84%e8%8d%b7%e8%84%91%e7%b2%be%e6%b2%b9-2/"
+  scraped_at: "2026-02-18T03:38:56.264Z"
+  language: "zh-CN"

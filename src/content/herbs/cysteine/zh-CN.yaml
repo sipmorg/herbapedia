@@ -1,0 +1,22 @@
+# L-半胱氨酸
+# Source: https://www.vitaherbapedia.com/cn/shop/nutrients-cn/l-%e5%8d%8a%e8%83%b1%e6%b0%a8%e9%85%b8-2/
+# Language: zh-CN
+
+id: "cysteine"
+slug: "cysteine"
+category: "nutrients"
+title: "L-半胱氨酸"
+scientific_name: "L-Cysteine"
+image: "images/cysteine.jpg"
+
+functions: |
+  半胱氨酸是制造麸氨基硫的主要成分，在很多生理机能中担当着重要角色。所有人体组织里的麸氨基硫都由半胱氨酸、谷氨酸及甘氨酸所构成，当中以肝脏和眼睛含有最多麸氨基硫。半胱氨酸的存在，让麸氨基硫成为有效的抗氧化剂，从而保护脂肪组织免受游离基的破坏。半胱氨酸也能将肺内黏液中的蛋白质分解。因此，半胱氨酸能纾缓支气管和其他呼吸管道问题。
+
+简介: |
+  身体从基本氨基酸─蛋氨酸合成半胱氨酸。半胱氨酸可在高蛋白质食物中找到，包括软酪、白乾酪、酸乳酪、猪肉、香肠肉、鸡、火鸡、，鸭、午餐肉、小麦胚、格兰诺拉麦片和燕麦片。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/nutrients-cn/l-%e5%8d%8a%e8%83%b1%e6%b0%a8%e9%85%b8-2/"
+  scraped_at: "2026-02-18T03:39:34.527Z"
+  language: "zh-CN"

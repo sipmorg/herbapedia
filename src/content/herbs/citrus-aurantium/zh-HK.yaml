@@ -1,0 +1,22 @@
+# 香檸檬
+# Source: https://www.vitaherbapedia.com/zh/shop/westherbs/%e9%a6%99%e6%aa%b8%e6%aa%ac/
+# Language: zh-HK
+
+id: "citrus-aurantium"
+slug: "citrus-aurantium"
+category: "western-herbs"
+title: "香檸檬"
+scientific_name: "Citrus Aurantium L."
+image: "images/citrus-aurantium.jpg"
+
+traditional_usage: |
+  香檸檬精華是一種有助減少身體脂肪和抑制食慾的營養補充劑，含刺激物 synephrine，功用跟咖啡因和麻黃素很相似，能夠抑制食慾，增加新陳代謝率和熱量的消耗。
+
+簡介: |
+  土生於東南亞。南太平洋諸島的特產，在斐濟，薩摩亞群島和關島等地更尤其普遍，相信於史前時期開始萌生於這些地方的海岸。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/westherbs/%e9%a6%99%e6%aa%b8%e6%aa%ac/"
+  scraped_at: "2026-02-18T04:04:16.589Z"
+  language: "zh-HK"

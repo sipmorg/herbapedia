@@ -1,0 +1,22 @@
+# 鼠尾草精油
+# Source: https://www.vitaherbapedia.com/zh/shop/westherbs/%e9%bc%a0%e5%b0%be%e8%8d%89%e7%b2%be%e6%b2%b9/
+# Language: zh-HK
+
+id: "sage-oil"
+slug: "sage-oil"
+category: "western-herbs"
+title: "鼠尾草精油"
+scientific_name: "Salvia officinalis (LINN.)"
+image: "images/sage-oil.jpg"
+
+traditional_usage: |
+  鼠尾草精油有多種用途。它有助於加強消化能力和改善胃口， 並舒緩關節痛楚。 它更能補助肝臟、腎臟和泌尿道；它能調節荷爾蒙分泌，故能幫助調節月經和治理不育；它能刺激淋巴系統，提昇腺功能。此外，鼠尾草精油亦局部應用於皮膚炎、傷口、疼痛發炎瘡，潰瘍腐爛處，以及一般蟲咬和幫助收縮脹大的毛孔。在情緒治療上，鼠尾草精油有助於改善悲傷和沮喪的情緒，並加快回復知覺。
+
+簡介: |
+  鼠尾草精油以蒸氣蒸餾的方式提煉自鼠尾草屬植物的枯葉
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/westherbs/%e9%bc%a0%e5%b0%be%e8%8d%89%e7%b2%be%e6%b2%b9/"
+  scraped_at: "2026-02-18T04:04:17.554Z"
+  language: "zh-HK"

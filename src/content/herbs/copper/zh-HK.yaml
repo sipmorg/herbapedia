@@ -1,0 +1,21 @@
+# 銅
+# Source: https://www.vitaherbapedia.com/zh/shop/minerals/%e9%8a%85/
+# Language: zh-HK
+
+id: "copper"
+slug: "copper"
+category: "minerals"
+title: "銅"
+image: "images/copper.jpg"
+
+traditional_usage: |
+  銅能促進腸道吸收鐵質，幫助釋放儲藏於肝臟和網狀內皮系統內的鐵質。銅也是構成紅血球中血紅蛋白的重要成份。
+
+簡介: |
+  可在黑胡椒、 赤糖糊、巴西堅果、可可粉、肝臟和生蠔之中找到。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/minerals/%e9%8a%85/"
+  scraped_at: "2026-02-18T04:04:36.806Z"
+  language: "zh-HK"

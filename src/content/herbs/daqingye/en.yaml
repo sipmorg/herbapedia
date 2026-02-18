@@ -1,0 +1,28 @@
+# Woad or Glastum
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/woad-or-glastum/
+# Language: en
+
+id: "daqingye"
+slug: "daqingye"
+category: "chinese-herbs"
+title: "Woad or Glastum"
+scientific_name: "Isatis tinctoria"
+image: "images/daqingye.jpg"
+
+history: |
+  First appeared in the Tang Materia Medica. Woad is an ancient plant native to central and western Asia and Russia, but widely cultivated across Europe. Europeans prized it for its blue dye, which has been used to colour clothes and make paint. The first archaeological finds of woad seeds date to the Neolithic period and were discovered in caves in France
+
+introduction: |
+  From the leaf of Isatis tinctoria L., family Cruciferae or Baphhicacanthus cusia (nees) Berm., family Acanthaceae.
+
+traditional_usage: |
+  Daqingye comes from the leaves of the woad plant, which are harvested in summer. A bitter, cold herb that affects the heart, lung and stomach meridians, it is primarily used for clearing heat, eliminating toxins and cooling the blood. It is used to treat symptoms accompanied by fever, such as the early stages of flu, measles, mumps, meningitis and scarlet fever.
+
+modern_research: |
+  Woad has potential as a treatment to prevent cancer, since it contains more than 20 times the amount of glucobrassicin, an anticancer agent, than is found in broccoli. Young leaves when damaged can produce more glucobrassicin, up to 65 times as much. The plant also has antibiotic and anti-inflammatory properties. It has been used with good results to treat upper respiratory tract infections, measles and pneumonia in clinical studies. It also contains indirubin, which has a positive inhibiting effect against cancer cells in mice.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/woad-or-glastum/"
+  scraped_at: "2026-02-18T03:34:25.918Z"
+  language: "en"

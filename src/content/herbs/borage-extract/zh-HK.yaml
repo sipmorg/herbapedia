@@ -1,0 +1,19 @@
+# 琉璃苣精華
+# Source: https://www.vitaherbapedia.com/zh/shop/westherbs/%e7%90%89%e7%92%83%e8%8b%a3%e7%b2%be%e8%8f%af/
+# Language: zh-HK
+
+id: "borage-extract"
+slug: "borage-extract"
+category: "western-herbs"
+title: "琉璃苣精華"
+scientific_name: "Borago officinalis L."
+image: "images/borage-extract.jpg"
+
+traditional_usage: |
+  琉璃苣可當作小便暢通劑、止痛劑和潤膚劑。在法國, 琉璃苣經常被用作治療發燒和肺病。外塗方面, 琉璃苣濕敷於膨脹的發炎傷口上。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/westherbs/%e7%90%89%e7%92%83%e8%8b%a3%e7%b2%be%e8%8f%af/"
+  scraped_at: "2026-02-18T04:03:56.042Z"
+  language: "zh-HK"

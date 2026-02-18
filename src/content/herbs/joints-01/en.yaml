@@ -1,0 +1,28 @@
+# Black Sesame Seed
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/black-sesame-seed/
+# Language: en
+
+id: "joints-01"
+slug: "joints-01"
+category: "chinese-herbs"
+title: "Black Sesame Seed"
+scientific_name: "Sesami Nigram"
+image: "images/joints-01.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  From the ripe seeds of Sesamum Indiucum L.
+
+traditional_usage: |
+  A sweet tasting herb that is neutral in nature, jushengzi is derived from black sesame seeds. It enters the liver and kidney meridians and has many uses including tonifiying the kidney essence (jing) and blood, moistening dryness and lubricating the intestines. According to traditional Chinese medicine, the health of ligaments and bones are related to the liver and kidney respectively, so this herb is also used to strengthen the joints.
+
+modern_research: |
+  It possesses anti-ageing and antiadrenergic activities, and can be used for the treatment of hyperglycemia.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/black-sesame-seed/"
+  scraped_at: "2026-02-18T03:33:11.656Z"
+  language: "en"

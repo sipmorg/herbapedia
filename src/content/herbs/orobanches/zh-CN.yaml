@@ -1,0 +1,25 @@
+# 不老草
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e4%b8%8d%e8%80%81%e8%8d%89-2/
+# Language: zh-CN
+
+id: "orobanches"
+slug: "orobanches"
+category: "chinese-herbs"
+title: "不老草"
+scientific_name: "Orobanche coerulescens"
+image: "images/orobanches.jpg"
+
+traditional_usage: |
+  不老草味甘，药性温，归肾经，能补肾壮阳、润肠通便，主治肾阳虚衰所致的腰膝冷痛，亦用于肠燥便秘，对老年习惯性便秘尤佳。
+
+历史: |
+  长白山区朝鲜族民间药，东北叁宝之一。
+
+简介: |
+  不老草又名草苁蓉，为列当科植物草苁蓉全草，分布于黑龙江、吉林等省份，是长白山珍稀药用植物。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e4%b8%8d%e8%80%81%e8%8d%89-2/"
+  scraped_at: "2026-02-18T03:36:59.060Z"
+  language: "zh-CN"

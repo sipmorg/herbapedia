@@ -1,0 +1,28 @@
+# Fuling
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/fuling/
+# Language: en
+
+id: "brain-02"
+slug: "brain-02"
+category: "chinese-herbs"
+title: "Fuling"
+scientific_name: "Poria cocos"
+image: "images/brain-02.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica, classified as upper class.
+
+introduction: |
+  The sclerotium of Poria cocos (Schw.) Wolf, family Polyporaceae.
+
+traditional_usage: |
+  Fuling, or poria, is a type of fungus that is thinly sliced or diced into blocks. Sweet, bland and neutral in nature, it enters the heart, spleen and kidney meridians. Its primary use is to drain dampness and promote urination, making it a useful treatment for oedema. It also calms the spirit, resolving conditions including insomnia and palpitations.
+
+modern_research: |
+  Found to have diuretic, sedative and anti-tumour effects. The decoction of the herb is an immune enhancer.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/fuling/"
+  scraped_at: "2026-02-18T03:33:37.124Z"
+  language: "en"

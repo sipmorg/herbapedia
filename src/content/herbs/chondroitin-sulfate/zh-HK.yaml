@@ -1,0 +1,22 @@
+# 軟骨素
+# Source: https://www.vitaherbapedia.com/zh/shop/nutrients/%e8%bb%9f%e9%aa%a8%e7%b4%a0/
+# Language: zh-HK
+
+id: "chondroitin-sulfate"
+slug: "chondroitin-sulfate"
+category: "nutrients"
+title: "軟骨素"
+scientific_name: "Chondroitin Sulfate/ Galactosaminoglucuronoglycan Sulfate"
+image: "images/chondroitin-sulfate.jpg"
+
+traditional_usage: |
+  軟骨素有助保持關節間軟骨的彈性和柔軟性，當軟骨素配合葡萄糖胺一同使用，能夠大大紓緩骨性關節問題。軟骨素能把水份引入軟骨細胞內並重點鎖緊，當水份足夠，軟骨細胞便會更加飽滿和厚實，從而強化軟骨避震功能，紓緩輕至中度膝蓋的骨性關節問題，讓關節活動自如。而軟骨素把水份引入軟骨細胞同時亦把氧氣和營養送進軟骨細胞，讓軟骨細胞獲得足夠養份。
+
+簡介: |
+  從牛氣管軟骨環、豬肉副產品（耳朵和豬嘴）、鯊魚軟骨和鯨魚隔膜軟骨中抽取。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/nutrients/%e8%bb%9f%e9%aa%a8%e7%b4%a0/"
+  scraped_at: "2026-02-18T04:05:10.394Z"
+  language: "zh-HK"

@@ -1,0 +1,28 @@
+# Chinese Angelica or Dong Quai
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/chinese-angelica-or-dong-quai/
+# Language: en
+
+id: "women-01"
+slug: "women-01"
+category: "chinese-herbs"
+title: "Chinese Angelica or Dong Quai"
+scientific_name: "Angelica sinensis"
+image: "images/women-01.jpg"
+
+history: |
+  Danggui first appeared in Divine Husbandman's Classic of the Materia Medica, classified as middle class.In the late 1800s, an extract of the herb sold as Eumenol became popular in Europe as a treatment for gynecological complaints. Recently, interest in danggui has resurged in the West due to its proposed weak oestrogen-like properties.
+
+introduction: |
+  Root of Angelica sinensis (Oliv.) Diels, family Umbelliferae.
+
+traditional_usage: |
+  Warm in nature, danggui enters the heart, liver and spleen meridians. It is most useful for enriching and nourishing the blood, activating blood circulation and addressing weaknesses of the heart. Other uses include stopping coughs, treating shortness of breath, moistening the intestines and unblocking the bowels. Danggui treats all types of blood deficiencies and menstrual disorders such as an irregular cycle, painful periods and premenstrual syndrome.
+
+modern_research: |
+  Chinese angelica is one of the few good non-animal sources of Vitamin B12, making it an alternative supplement for vegetarians. It has analgesic, anti-inflammatory, antispasmodic and sedative effects. The plant's phytochemicals consist of coumarins, phytosterols, polysaccharides, ferulate, and flavonoids. It has been used in clinical studies to treat conditions including coughing, pain, liver disease, insomnia and skin disorders with good results.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/chinese-angelica-or-dong-quai/"
+  scraped_at: "2026-02-18T03:33:16.747Z"
+  language: "en"

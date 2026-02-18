@@ -1,0 +1,25 @@
+# Rosemary oil
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/rosemary-oil/
+# Language: en
+
+id: "rosemary"
+slug: "rosemary"
+category: "western-herbs"
+title: "Rosemary oil"
+scientific_name: "Rosmarinus Officinalis"
+image: "images/rosemary.jpg"
+
+history: |
+  The Egyptians, Hebrews, Greeks and Romans considered rosemary to be sacred, and even in the Middle Ages it was used to ward off evil spirits and for protection against the plague. It has also long been associated with improving the memory.
+
+introduction: |
+  Extracted from the fresh flowering tops of the plant Rosmarinus Officinalis by steam distillation.
+
+traditional_usage: |
+  Rosemary oil has a strong, refreshing herbal smell and is valued for its ability to fight mental fatigue and help with headaches. It also has an antiseptic and astringent effect. When applied topically in a lotion it is most beneficial for improving blood circulation and decongesting the skin, helping to ease puffiness and swelling and treating conditions such as acne, dermatitis and eczema. It is also beneficial for respiratory problems.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/rosemary-oil/"
+  scraped_at: "2026-02-18T03:35:02.302Z"
+  language: "en"

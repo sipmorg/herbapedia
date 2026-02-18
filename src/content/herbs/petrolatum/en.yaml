@@ -1,0 +1,21 @@
+# Petrolatum
+# Source: https://www.vitaherbapedia.com/en/shop/nutrients-en/petrolatum/
+# Language: en
+
+id: "petrolatum"
+slug: "petrolatum"
+category: "nutrients"
+title: "Petrolatum"
+image: "images/petrolatum.jpg"
+
+introduction: |
+  This colourless to yellowish-white hydrocarbon mixture is derived from petroleum.
+
+traditional_usage: |
+  Petrolatum or petroleum jelly is a clear mineral oil jelly best known as a topical treatment for chapped lips and a key ingredient in cosmetics and skin-care products. Topical application of petrolatum can help the skin's outer layer recover from damage. While petroleum jelly itself has no therapeutic properties, it forms a waterproof barrier over the skin, preventing infection and keeping the skin beneath supple by preventing water evaporation.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/nutrients-en/petrolatum/"
+  scraped_at: "2026-02-18T03:35:57.846Z"
+  language: "en"

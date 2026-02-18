@@ -1,0 +1,25 @@
+# Zhusun
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/zhusun/
+# Language: en
+
+id: "zhusun"
+slug: "zhusun"
+category: "chinese-herbs"
+title: "Zhusun"
+scientific_name: "Dictyophora indusiata (Vent. Ex Pers.) Fischer"
+image: "images/zhusun.jpg"
+
+history: |
+  First appeared in Grand Materia Medica.
+
+introduction: |
+  Fungi of Dictyophora indusiata Fischer, family phallaceae.
+
+traditional_usage: |
+  Zhusun is a precious edible fungi that is sweet and cold in nature. It is used to regulate the flow of chi, tonify the spleen and stimulate the appetite. It can also help stimulate peristalsis of the bowels and is a rich source of fibre, thus relieving constipation and removing accumulated toxins and waste products.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/zhusun/"
+  scraped_at: "2026-02-18T03:34:33.569Z"
+  language: "en"

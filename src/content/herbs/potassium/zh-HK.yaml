@@ -1,0 +1,21 @@
+# 鉀
+# Source: https://www.vitaherbapedia.com/zh/shop/minerals/%e9%89%80/
+# Language: zh-HK
+
+id: "potassium"
+slug: "potassium"
+category: "minerals"
+title: "鉀"
+image: "images/potassium.jpg"
+
+traditional_usage: |
+  鉀對身體的許多功能都十分重要，包括控制細胞之間的養份傳送和放鬆平滑肌(包括心肌肉)，釋放胰島素時磷酸化作用需要的酵素也需要鉀。
+
+簡介: |
+  來源包括乾果、糖蜜、馬鈴薯麵粉、米穀皮、海草、大豆麵粉、香料、向日葵籽和小麥穀皮。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/minerals/%e9%89%80/"
+  scraped_at: "2026-02-18T04:04:35.887Z"
+  language: "zh-HK"

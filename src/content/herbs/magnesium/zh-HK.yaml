@@ -1,0 +1,21 @@
+# 鎂
+# Source: https://www.vitaherbapedia.com/zh/shop/minerals/%e9%8e%82/
+# Language: zh-HK
+
+id: "magnesium"
+slug: "magnesium"
+category: "minerals"
+title: "鎂"
+image: "images/magnesium.jpg"
+
+traditional_usage: |
+  鎂是建造骨頭和牙齒的主要成分。鎂也是細胞的新陳代謝的一個必要的元素，多用作酵素的催化劑。在消化蛋白質的過程中, 鎂負責啟動部份蛋白分解酵素。於神經系統中, 鎂是鈣的拮抗劑，負責放鬆神經脈衝。
+
+簡介: |
+  速溶咖啡、可可粉、棉籽麵粉、花生麵粉、芝麻籽、大豆麵粉、香料、小麥穀皮和小麥胚都含有鎂。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/minerals/%e9%8e%82/"
+  scraped_at: "2026-02-18T04:04:39.558Z"
+  language: "zh-HK"

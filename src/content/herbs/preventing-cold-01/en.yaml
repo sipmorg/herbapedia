@@ -1,0 +1,25 @@
+# Fangfeng
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/fangfeng/
+# Language: en
+
+id: "preventing-cold-01"
+slug: "preventing-cold-01"
+category: "chinese-herbs"
+title: "Fangfeng"
+scientific_name: "Saposhnikovia divaricata"
+image: "images/preventing-cold-01.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  The root of Saposhnikovia divaricata (Turez.) Schischk., family Umbelliferae.
+
+traditional_usage: |
+  Fangfeng is an acrid, sweet and slightly warm herb that enters the bladder, liver and spleen meridians. It releases the exterior, expels wind and dampness, alleviates pain and stops tremors. It is also useful for itchy skin conditions caused by wind such as rashes, eczma, boils and rubella and acne on the upper body. In patients suffering from a disharmony between the liver and spleen, fangfeng can treat diarrhea, bleeding and abdominal pain.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/fangfeng/"
+  scraped_at: "2026-02-18T03:33:34.259Z"
+  language: "en"

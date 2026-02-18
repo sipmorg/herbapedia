@@ -1,0 +1,25 @@
+# Duhuo
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/duhuo/
+# Language: en
+
+id: "duhuo"
+slug: "duhuo"
+category: "chinese-herbs"
+title: "Duhuo"
+scientific_name: "radix angelicae pubescentisa"
+image: "images/duhuo.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  Doubleteeth Pubescent Angelica Root.
+
+traditional_usage: |
+  Du Huo is an acrid, bitter, slightly warm herb that enters the kidney, bladder meridians. It has been considered helpful and is prescribed to relieve pain especially chronic or acute pain in the lower back, mild headaches and toothache primarily when these symptoms are sensitive to weather.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/duhuo/"
+  scraped_at: "2026-02-18T03:33:31.386Z"
+  language: "en"

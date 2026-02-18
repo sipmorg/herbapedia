@@ -1,0 +1,25 @@
+# 生地黄、乾地黄  又名地黄
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%94%9f%e5%9c%b0%e9%bb%84%e3%80%81%e4%b9%be%e5%9c%b0%e9%bb%84-%e5%8f%88%e5%90%8d%e5%9c%b0%e9%bb%84/
+# Language: zh-CN
+
+id: "replenishingblood-02"
+slug: "replenishingblood-02"
+category: "chinese-herbs"
+title: "生地黄、乾地黄  又名地黄"
+scientific_name: "Rehmannia glutinosa"
+image: "images/replenishingblood-02.jpg"
+
+traditional_usage: |
+  生地黄是玄参科草本植物地黄的根，全国大部分地区均有栽培，药味甘、苦，能清热凉血、养阴生津，可鲜用或乾燥切片生用，鲜用者称为鲜生地，药性大寒，清热力较强，乾燥者称为乾地黄，药性寒，具有一定滋阴能力，生地常用於清热凉血，治疗如口乾舌绛、口腔溃疡、夜热早凉、肠燥便秘等等。
+
+历史: |
+  始载於《神农本草经》
+
+简介: |
+  玄参科植物地黄的根，经乾燥处理称为乾地黄
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%94%9f%e5%9c%b0%e9%bb%84%e3%80%81%e4%b9%be%e5%9c%b0%e9%bb%84-%e5%8f%88%e5%90%8d%e5%9c%b0%e9%bb%84/"
+  scraped_at: "2026-02-18T03:37:45.830Z"
+  language: "zh-CN"

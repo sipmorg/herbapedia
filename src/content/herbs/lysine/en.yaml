@@ -1,0 +1,22 @@
+# Lysine
+# Source: https://www.vitaherbapedia.com/en/shop/nutrients-en/lysine/
+# Language: en
+
+id: "lysine"
+slug: "lysine"
+category: "nutrients"
+title: "Lysine"
+scientific_name: "L-Lysine"
+image: "images/lysine.jpg"
+
+introduction: |
+  Good sources of lysine are foods rich in protein including meat, cheese (particularly parmesan), certain fish (such as cod and sardines), nuts and eggs. It is also plentiful in pulses.
+
+traditional_usage: |
+  Lysine is an essential amino acid that cannot be synthesized by the human body, so must be sourced from the diet. It is necessary for optimal growth in childhood, particularly in brain development, as it is a building block for protein production. L-Lysine also aids in calcium absorption and production of hormones, enzymes and antibodies.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/nutrients-en/lysine/"
+  scraped_at: "2026-02-18T03:35:49.491Z"
+  language: "en"

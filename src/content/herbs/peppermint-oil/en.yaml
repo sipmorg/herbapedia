@@ -1,0 +1,25 @@
+# Peppermint oil
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/peppermint-oil/
+# Language: en
+
+id: "peppermint-oil"
+slug: "peppermint-oil"
+category: "western-herbs"
+title: "Peppermint oil"
+scientific_name: "Mentha peperita"
+image: "images/peppermint-oil.jpg"
+
+history: |
+  Peppermint has been cultivated from ancient times in China and Japan. It was also known as a medicinal herb to the Egyptians and ancient Greeks.
+
+introduction: |
+  Extracted from the Peppermint plant by steam distillation.
+
+traditional_usage: |
+  This pleasant, menthol smelling oil is used to treat a variety of conditions, from stimulating the digestive system to relieving mental fatigue. Peppermint is also used to treat puerperal fever and abdominal pains. It inhibits the growth of certain bacteria, and can help soothe and relax muscles when inhaled or applied to the skin.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/peppermint-oil/"
+  scraped_at: "2026-02-18T03:35:01.297Z"
+  language: "en"

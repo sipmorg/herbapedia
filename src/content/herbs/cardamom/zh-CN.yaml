@@ -1,0 +1,25 @@
+# 砂仁
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%a0%82%e4%bb%81-2/
+# Language: zh-CN
+
+id: "cardamom"
+slug: "cardamom"
+category: "chinese-herbs"
+title: "砂仁"
+scientific_name: "Amomum villosum"
+image: "images/cardamom.jpg"
+
+traditional_usage: |
+  砂仁是一种芳香化湿的中药，味辛性温，归脾、胃经，功效是化湿行气、温中止呕止泻、安胎，用于湿困脾胃或气滞所致的呕吐、腹泻、食欲不振等，因能安胎，亦常用于改善妊娠呕吐的情况。
+
+历史: |
+  始载於《本草原始》
+
+简介: |
+  姜科植物阳春砂的乾燥成熟果实
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%a0%82%e4%bb%81-2/"
+  scraped_at: "2026-02-18T03:37:50.643Z"
+  language: "zh-CN"

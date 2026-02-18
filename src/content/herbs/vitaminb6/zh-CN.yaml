@@ -1,0 +1,28 @@
+# 维他命 B6 又名抗皮炎素
+# Source: https://www.vitaherbapedia.com/cn/shop/vitamins-cn/%e7%bb%b4%e4%bb%96%e5%91%bd-b6-%e5%8f%88%e5%90%8d%e6%8a%97%e7%9a%ae%e7%82%8e%e7%b4%a0/
+# Language: zh-CN
+
+id: "vitaminb6"
+slug: "vitaminb6"
+category: "vitamins"
+title: "维他命 B6 又名抗皮炎素"
+scientific_name: "Pyridoxine, Pyridoxal, Pyridoxamine"
+image: "images/vitaminb6.jpg"
+
+traditional_usage: |
+  维他命B6在身体中发挥辅酵素(哆醛磷酸盐)的作用。部分维他命B杂是水溶性的，是身心健康的必要元素。维他命B6有助蛋白质、脂肪及碳水化合物的处理和生陈代谢，能平衡女性荷尔蒙，是维持强健免疫系统不可缺少的重要元素。
+
+functions: |
+  帮助蛋白质的新陈代谢 协助製造红血球、荷尔蒙、酵素、抗体 协助神经系统的传导功能
+
+简介: |
+  每日需求 每日1.3毫克 维他命 B6的来源 可以在米穀皮、小麦穀皮、向日葵籽、鳄梨、香蕉、玉米、鱼、肾、瘦肉、肝脏、坚果、家禽、糙米、大豆和全麦食品中找到。盐酸吡哆辛是最普遍的存在合成形式。酵母(例如酿酒的酵母)、光米和小麦肧都可用作天然的补充剂。由於维生素 B6在食品中为数不多，补充的维他命B6及合成盐酸吡哆辛变得不可或缺，当中对婴儿及怀孕及授乳期的妇女为甚，因为在处理及烹煮食物过程中，可以破坏维他命B6量达50%。
+
+缺乏症状: |
+  贫血 神经紧张、失眠、抑鬱 肌肉痉挛
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/vitamins-cn/%e7%bb%b4%e4%bb%96%e5%91%bd-b6-%e5%8f%88%e5%90%8d%e6%8a%97%e7%9a%ae%e7%82%8e%e7%b4%a0/"
+  scraped_at: "2026-02-18T03:39:11.074Z"
+  language: "zh-CN"

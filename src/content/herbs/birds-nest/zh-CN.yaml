@@ -1,0 +1,25 @@
+# 燕窝
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%87%95%e7%aa%9d/
+# Language: zh-CN
+
+id: "birds-nest"
+slug: "birds-nest"
+category: "chinese-herbs"
+title: "燕窝"
+scientific_name: "Swiftlet's Nest"
+image: "images/birds-nest.jpg"
+
+traditional_usage: |
+  燕窝属传统补虚食品，据《本草纲目》记载，燕窝「入肺主气、入肾滋水、入胃补脾、补而不燥」，「大养肺阴，化痰止嗽，补而能清，为调理虚劳之圣药」，燕窝味甘而药性平和，归肺、胃、肾经，能润肺止咳、补胃润燥，常用于肺虚久咳等不适、以及养颜润肤等。
+
+历史: |
+  始载於《本草从新》
+
+简介: |
+  雨燕科动物金丝燕及多种同属燕类唾液或唾液与绒羽等混合凝结所筑成的巢窝，主产地为印度尼西亚、泰国、缅甸、中国海南岛等。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%87%95%e7%aa%9d/"
+  scraped_at: "2026-02-18T03:37:39.209Z"
+  language: "zh-CN"

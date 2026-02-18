@@ -1,0 +1,21 @@
+# 亞麻油酸
+# Source: https://www.vitaherbapedia.com/zh/shop/nutrients/%e4%ba%9e%e9%ba%bb%e6%b2%b9%e9%85%b8/
+# Language: zh-HK
+
+id: "linolenic-acid"
+slug: "linolenic-acid"
+category: "nutrients"
+title: "亞麻油酸"
+image: "images/linolenic-acid.jpg"
+
+functions: |
+  身體將亞麻油酸轉換成能幫助控制血壓的多元不飽和脂肪酸。亞麻油酸同時能壓抑發炎細胞，防止管道堵塞，降低膽固醇和甘油三酸脂水平。這些脂肪酸也有助減少包括血糖、腦血管道堵塞、關節、消化系統、部份頑疾與腦力衰退等問題。
+
+簡介: |
+  亞麻籽油含豐富亞麻油酸，來源包括菜籽油、大豆、胡桃、亞麻籽、紫蘇和月見草油。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/nutrients/%e4%ba%9e%e9%ba%bb%e6%b2%b9%e9%85%b8/"
+  scraped_at: "2026-02-18T04:04:47.938Z"
+  language: "zh-HK"

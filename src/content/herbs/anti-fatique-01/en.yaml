@@ -1,0 +1,28 @@
+# Dangshen
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/dangshen/
+# Language: en
+
+id: "anti-fatique-01"
+slug: "anti-fatique-01"
+category: "chinese-herbs"
+title: "Dangshen"
+scientific_name: "Codonopsis pilosula (Franch.) Nannf."
+image: "images/anti-fatique-01.jpg"
+
+history: |
+  First appeared in Thoroughly Revised Materia Medica.
+
+introduction: |
+  The root of Codonopsis pilosula (Franch.) Nannf., and other several species of the same genus, family campanulaceae.
+
+traditional_usage: |
+  Dangshen comes from a climbing plant native to northeast China. It is a sweet, neural herb associated with the lung and spleen meridians. Its applications include tonifying the chi, strengthening the middle jiao, tonifying the lungs, nourishing blood, restoring the constitution and expelling pathogens. It is commonly used to treat chi deficiency, which is characterised by symptoms such as fatigue, lack of appetite, weakness and diarrhea.
+
+modern_research: |
+  Dangshen is an adaptogenic, meaning it has both stimulating and inhibiting effects on the central nervous system. It is also able to treat and prevent peptic ulcers, stimulate the immune system and temporarily lower blood pressure.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/dangshen/"
+  scraped_at: "2026-02-18T03:33:25.343Z"
+  language: "en"

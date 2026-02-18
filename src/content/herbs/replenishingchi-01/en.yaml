@@ -1,0 +1,28 @@
+# Shengma
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/shengma/
+# Language: en
+
+id: "replenishingchi-01"
+slug: "replenishingchi-01"
+category: "chinese-herbs"
+title: "Shengma"
+scientific_name: "Cimicifuga heracleifolia Kom."
+image: "images/replenishingchi-01.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica, classified as upper class.
+
+introduction: |
+  Rhizome of Cimicifuga heracleifolia Kom., C. dahurica (Turcz.) Maxim. and C. foetida L., family Ranunculaceae.
+
+traditional_usage: |
+  Shengma is acrid, sweet and cooling, affecting the lung, spleen, stomach and large intestine meridians. It is used to release the exterior, clear heat and to raise the yang chi. It helps drive out heat toxins, addressing symptoms such as swollen, painful gums and mouth, oral ulcers and toothache. It can also treat problems associated with yang or chi deficiency such as prolapsed organs, shortness of breath, fatigue and bleeding.
+
+modern_research: |
+  The pharmacological effects of shengma include antiobiotic, cardiovascular and antipyretic properties.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/shengma/"
+  scraped_at: "2026-02-18T03:34:10.657Z"
+  language: "en"

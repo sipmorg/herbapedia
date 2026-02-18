@@ -1,0 +1,25 @@
+# Capigen®
+# Source: https://www.vitaherbapedia.com/en/shop/nutrients-en/capigen/
+# Language: en
+
+id: "capigen"
+slug: "capigen"
+category: "nutrients"
+title: "Capigen®"
+scientific_name: "Capigen®"
+image: "images/capigen.jpg"
+
+history: |
+  A key ingredient in hair regenerating treatments including Vita Hair Tonic.
+
+introduction: |
+  Patented formula derived from natural sources.
+
+traditional_usage: |
+  A new hair care substance from SEDERMA, Capigen® is based on an association of three active ingredients intended to slow hair loss and soothe the scalp while stimulating and regulating excessive sebaceous secretion, a frequent factor in hair loss. The three ingredients work synergistically to improve scalp and hair health. They include homotaurine, which increases blood flow to the scalp, supplies it with vital trace metal ions and regulates oily secretions; a bacterial filtrate; and a substance known as sulfomucopolysaccharide extract, which plays an essential role in hair follicle hygiene.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/nutrients-en/capigen/"
+  scraped_at: "2026-02-18T03:35:35.722Z"
+  language: "en"

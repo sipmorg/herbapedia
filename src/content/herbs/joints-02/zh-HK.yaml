@@ -1,0 +1,25 @@
+# 薏苡仁
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e8%96%8f%e8%8b%a1%e4%bb%81/
+# Language: zh-HK
+
+id: "joints-02"
+slug: "joints-02"
+category: "chinese-herbs"
+title: "薏苡仁"
+scientific_name: "Coix lacryma-jobi"
+image: "images/joints-02.jpg"
+
+traditional_usage: |
+  薏苡仁市面上可分生用（生薏仁）和炒用（熟薏仁）兩種，藥味甘、淡，生者藥性微寒而熟者藥性平和，歸於脾、胃、肺經，有利水滲濕，能健脾、除痺、清熱排膿，常用於脾虛造成的浮腫、小便不利、泄瀉等，以及濕痺關節不適。
+
+歷史: |
+  始載於《神農本草經》
+
+簡介: |
+  禾本科一年生草植物薏的成熟種仁
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e8%96%8f%e8%8b%a1%e4%bb%81/"
+  scraped_at: "2026-02-18T04:03:14.177Z"
+  language: "zh-HK"

@@ -1,0 +1,25 @@
+# 五味子
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e4%ba%94%e5%91%b3%e5%ad%90/
+# Language: zh-HK
+
+id: "men-02"
+slug: "men-02"
+category: "chinese-herbs"
+title: "五味子"
+scientific_name: "Schisandra chinensis"
+image: "images/men-02.jpg"
+
+traditional_usage: |
+  五味子是常用的收斂藥，味酸而甘， 藥性微溫， 歸肺、心、腎經，能斂肺滋腎、生津斂汗、澀精止瀉、寧心安神，常用症狀包括津傷口渴、自汗、盜汗、滑精、心悸、失眠、多夢、肺虛久咳等。
+
+歷史: |
+  始載於《神農本草經》
+
+簡介: |
+  木蘭科植物五味子的成熟果實
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e4%ba%94%e5%91%b3%e5%ad%90/"
+  scraped_at: "2026-02-18T04:02:08.120Z"
+  language: "zh-HK"

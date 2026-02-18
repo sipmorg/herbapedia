@@ -13,8 +13,8 @@
         <header class="herb-detail__header">
           <div class="herb-detail__image-wrapper">
             <img
-              v-if="herb.image"
-              :src="herb.image"
+              v-if="herb.resolvedImage"
+              :src="herb.resolvedImage"
               :alt="herb.title"
               class="herb-detail__image"
             />
@@ -37,9 +37,14 @@
         </header>
 
         <div class="herb-detail__content">
-          <section v-if="herb.description" class="herb-detail__section">
-            <h2>Description</h2>
-            <p>{{ herb.description }}</p>
+          <section v-if="herb.history" class="herb-detail__section">
+            <h2>History</h2>
+            <p>{{ herb.history }}</p>
+          </section>
+
+          <section v-if="herb.introduction" class="herb-detail__section">
+            <h2>Introduction</h2>
+            <p>{{ herb.introduction }}</p>
           </section>
 
           <section v-if="herb.botanical_source" class="herb-detail__section">
@@ -47,9 +52,29 @@
             <p>{{ herb.botanical_source }}</p>
           </section>
 
+          <section v-if="herb.traditional_usage" class="herb-detail__section">
+            <h2>Traditional Usage</h2>
+            <p>{{ herb.traditional_usage }}</p>
+          </section>
+
           <section v-if="herb.modern_research" class="herb-detail__section">
             <h2>Modern Research</h2>
             <p>{{ herb.modern_research }}</p>
+          </section>
+
+          <section v-if="herb.functions" class="herb-detail__section">
+            <h2>Functions</h2>
+            <p>{{ herb.functions }}</p>
+          </section>
+
+          <section v-if="herb.importance" class="herb-detail__section">
+            <h2>Importance</h2>
+            <p>{{ herb.importance }}</p>
+          </section>
+
+          <section v-if="herb.food_sources" class="herb-detail__section">
+            <h2>Food Sources</h2>
+            <p>{{ herb.food_sources }}</p>
           </section>
 
           <aside class="herb-detail__disclaimer">
@@ -91,13 +116,27 @@ const categoryTitles = {
 
 const categoryTitle = computed(() => categoryTitles[route.params.category] || route.params.category)
 
-// Import all herb data
-const herbsModules = import.meta.glob('/src/content/herbs/*.yaml', { eager: true })
+// Import all herb data (new structure: herbs/{slug}/en.yaml)
+const herbsModules = import.meta.glob('/src/content/herbs/*/en.yaml', { eager: true })
+
+// Import all images
+const imageModules = import.meta.glob('/src/content/herbs/*/images/*.jpg', { eager: true, as: 'url' })
 
 const herb = computed(() => {
-  const path = `/src/content/herbs/${slug.value}.yaml`
+  // Find the module matching the slug
+  const path = `/src/content/herbs/${slug.value}/en.yaml`
   const module = herbsModules[path]
-  return module?.default || module || null
+  const data = module?.default || module || null
+
+  if (data) {
+    // Resolve image URL
+    const imagePath = `/src/content/herbs/${slug.value}/images/${slug.value}.jpg`
+    if (imageModules[imagePath]) {
+      data.resolvedImage = imageModules[imagePath]
+    }
+  }
+
+  return data
 })
 </script>
 

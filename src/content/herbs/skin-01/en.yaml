@@ -1,0 +1,25 @@
+# Tusizi
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/tusizi/
+# Language: en
+
+id: "skin-01"
+slug: "skin-01"
+category: "chinese-herbs"
+title: "Tusizi"
+scientific_name: "Cuscuta chinensis Lam"
+image: "images/skin-01.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica, classified as upper class.
+
+introduction: |
+  The seeds of Cuscuta chinensis Lam., family conyolvulaceae.
+
+traditional_usage: |
+  Tusizi is a sweet herb that is neutral in nature, entering the kidney and liver meridians. It is used to tonify kidney yin and yang, consolidate kidney essence (jing) and reserve urine and stop diarrhea. It can also nourish the liver, the organ responsible for eye health, and thus improves blurred vision and dry eyes. Since tusizi improves kidney health, it can be taken to improve conditions stemming from poorly nourished kidneys, such as weak or greying hair and premature ageing.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/tusizi/"
+  scraped_at: "2026-02-18T03:34:20.664Z"
+  language: "en"

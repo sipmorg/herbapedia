@@ -1,0 +1,25 @@
+# Evening Primrose Oil
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/evening-primrose-oil/
+# Language: en
+
+id: "evening-primrose-oil"
+slug: "evening-primrose-oil"
+category: "western-herbs"
+title: "Evening Primrose Oil"
+scientific_name: "Oenothera biennis L."
+image: "images/evening-primrose-oil.jpg"
+
+history: |
+  Evening Primrose is a plant native to North America. Traditionally, it was used externally to treat skin diseases and internally to treat breathing problems and arthritis. It was one of the first medicinal plants brought back to Europe by settlers in the 16th century.
+
+introduction: |
+  Evening primrose oil preparation consist of a clear, golden yellow oil extracted by cold expression, or solvent extraction, from the seeds of Evening Primrose (Oenothera biennis L.).
+
+traditional_usage: |
+  Evening Primrose Oil is relatively high in essential fatty acids, particularly gamma-linolenic acid. Clinical studies have focused on the oil's use in treating problems associated with essential fatty acid deficiency including atopic eczema, premenstrual syndrome, inflammation and diabetic peripheral neuropathy.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/evening-primrose-oil/"
+  scraped_at: "2026-02-18T03:34:51.413Z"
+  language: "en"

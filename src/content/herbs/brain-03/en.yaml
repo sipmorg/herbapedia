@@ -1,0 +1,28 @@
+# Yuanzhi
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/yuanzhi/
+# Language: en
+
+id: "brain-03"
+slug: "brain-03"
+category: "chinese-herbs"
+title: "Yuanzhi"
+scientific_name: "Polygala tenuifolia"
+image: "images/brain-03.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica
+
+introduction: |
+  The dried root of Polygala tenufolia, willd.,family polygalaceae.
+
+traditional_usage: |
+  Yuanzhi is a bitter, acrid herb that is slightly warm in nature, and enters the heart and lung meridians. It is known to calm the spirit and quiet the heart, making it a useful treatment for conditions such as insomnia, palpitations, anxiety, disorientation and restlessness. It is prepared from the roots of the perenial herb Polygala tenuifolia, which mainly grows around Shanxi and Henan. It is harvested during the autumn months, cleaned and dried in the sun.
+
+modern_research: |
+  Yuanzhi has an effect on some cancer cell lines - an aqueous extract of the herb was found to have an inhibitory effect on HL-60 cancer cells, indicating its potential use for patients with breast cancer. Active ingredients include onjisaponin A, B, C, D, E, F,G, tenuidine, polygalitol, xanthones and trimethoxycinnamic acid.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/yuanzhi/"
+  scraped_at: "2026-02-18T03:34:29.655Z"
+  language: "en"

@@ -1,0 +1,25 @@
+# 黨蔘
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e9%bb%a8%e8%94%98/
+# Language: zh-HK
+
+id: "anti-fatique-01"
+slug: "anti-fatique-01"
+category: "chinese-herbs"
+title: "黨蔘"
+scientific_name: "Codonopsis pilosula (Franch.) Nannf."
+image: "images/anti-fatique-01.jpg"
+
+traditional_usage: |
+  黨蔘是常用的補氣藥，藥味甘，藥性平和，歸肺、脾經，能補中益氣、補肺生津。常用於中氣不足引起的慢性疲勞綜合症、腸胃欠佳、四肢乏力等等。
+
+歷史: |
+  載於《本草從新》
+
+簡介: |
+  桔梗科植物黨蔘的乾燥根，主要產於山西、陜西、甘肅、四川等省份，其中以山西上黨出產者最有名，故稱為黨蔘。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e9%bb%a8%e8%94%98/"
+  scraped_at: "2026-02-18T04:03:41.918Z"
+  language: "zh-HK"

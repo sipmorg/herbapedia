@@ -1,0 +1,25 @@
+# 菟丝子
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%8f%9f%e4%b8%9d%e5%ad%90/
+# Language: zh-CN
+
+id: "skin-01"
+slug: "skin-01"
+category: "chinese-herbs"
+title: "菟丝子"
+scientific_name: "Cuscuta chinensis Lam"
+image: "images/skin-01.jpg"
+
+traditional_usage: |
+  菟丝子是一味温和的补阳药，其味甘而性温，归肝、肾、脾经，能补肾固精、养肝明目、补脾止泻、安胎。主治由肝肾不足引起的腰痛、尿频、白带过多、视力下降、胎动不安等等，此外，还能治肾虚消渴，酒浸外用对白癜风亦有一定疗效。
+
+历史: |
+  始载於《神农本草经》，列为上品
+
+简介: |
+  旋花科植物菟丝子的成熟种子
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%8f%9f%e4%b8%9d%e5%ad%90/"
+  scraped_at: "2026-02-18T03:38:03.009Z"
+  language: "zh-CN"

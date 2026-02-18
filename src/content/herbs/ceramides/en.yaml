@@ -1,0 +1,21 @@
+# Ceramides
+# Source: https://www.vitaherbapedia.com/en/shop/nutrients-en/ceramides/
+# Language: en
+
+id: "ceramides"
+slug: "ceramides"
+category: "nutrients"
+title: "Ceramides"
+image: "images/ceramides.jpg"
+
+introduction: |
+  Ceramides are composed of sphingosine and a fatty acid. They are found in high concentrations within the membranes surrounding cells.
+
+traditional_usage: |
+  Ceramides are bioactive molecules in the skin's epidermis. They form a barrier, protecting against water loss and blocking pollutants, and thus play a key role in keeping skin young and healthy looking. However, with age and environmental exposure, ceramides may be lost, resulting in dryness, fine lines and a rough complexion. Ceramides are a key ingredient in anti-aging and other high-tech beauty creams.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/nutrients-en/ceramides/"
+  scraped_at: "2026-02-18T03:35:36.657Z"
+  language: "en"

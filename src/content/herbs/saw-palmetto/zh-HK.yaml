@@ -1,0 +1,25 @@
+# 鋸櫚
+# Source: https://www.vitaherbapedia.com/zh/shop/nutrients/%e9%8b%b8%e6%ab%9a/
+# Language: zh-HK
+
+id: "saw-palmetto"
+slug: "saw-palmetto"
+category: "nutrients"
+title: "鋸櫚"
+scientific_name: "Serenoa Serrulata"
+image: "images/saw-palmetto.jpg"
+
+traditional_usage: |
+  鋸櫚能促進男士排水，減少排水時出現的痛楚，有助紓緩晚上如廁頻密等問題。服用鋸櫚不會引起西藥可能引起的副作用。鋸櫚有助降低在前列組織內 DHT的水平，紓緩前列變大症狀。
+
+歷史: |
+  鋸櫚果首先被美國人使用作利尿劑和誘發性慾的補藥，以及紓緩胃痛和腹瀉。
+
+簡介: |
+  鋸櫚是一棵體形矮小的棕櫚樹，土生於北美洲東南部，特別是佛羅里達。鋸櫚精華是從其莓果抽取而來。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/nutrients/%e9%8b%b8%e6%ab%9a/"
+  scraped_at: "2026-02-18T04:05:11.364Z"
+  language: "zh-HK"

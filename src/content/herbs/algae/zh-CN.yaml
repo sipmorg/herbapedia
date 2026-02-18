@@ -1,0 +1,22 @@
+# 深海海藻
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e6%b7%b1%e6%b5%b7%e6%b5%b7%e8%97%bb-2/
+# Language: zh-CN
+
+id: "algae"
+slug: "algae"
+category: "chinese-herbs"
+title: "深海海藻"
+scientific_name: "Sargassum fusiforme (Harv.) Setch."
+image: "images/algae.jpg"
+
+traditional_usage: |
+  深海海藻传统上用作治疗与疝气紊乱相关的疼痛。深海海藻亦有助清热和减少 喉咙分泌物，畅通小便和减湿气。
+
+简介: |
+  深海海藻采集自名为Sargassum pallidum(Turn.) C.Ag 及 Sargassum fusiforme (Harv.) Setch. 的海草。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e6%b7%b1%e6%b5%b7%e6%b5%b7%e8%97%bb-2/"
+  scraped_at: "2026-02-18T03:37:35.309Z"
+  language: "zh-CN"

@@ -1,0 +1,25 @@
+# 肉蓯蓉
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e8%82%89%e8%93%af%e8%93%89/
+# Language: zh-HK
+
+id: "roucongrong"
+slug: "roucongrong"
+category: "chinese-herbs"
+title: "肉蓯蓉"
+scientific_name: "Cistanche deserticola Y. C. Ma"
+image: "images/roucongrong.jpg"
+
+traditional_usage: |
+  肉蓯蓉味甘、鹹，藥性溫，歸屬腎、大腸經，能補腎陽、益精血、潤腸通便，主治腎陽不足引起的不適，例如性功能下降、腰膝酸軟、筋骨無力、耳聲嘈雜、虛風眩暈等，亦可改善腸燥便秘，常與巴戟天、杜仲等同用。
+
+歷史: |
+  始載於《神農本草經》，列為上品
+
+簡介: |
+  列當科植物肉蓯蓉的帶鱗片肉質莖，主產於內蒙、甘肅、新彊、青海等地，又稱淡大云或列當。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e8%82%89%e8%93%af%e8%93%89/"
+  scraped_at: "2026-02-18T04:03:03.108Z"
+  language: "zh-HK"

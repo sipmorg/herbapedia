@@ -1,0 +1,25 @@
+# 乳薊果
+# Source: https://www.vitaherbapedia.com/zh/shop/westherbs/%e4%b9%b3%e8%96%8a%e6%9e%9c/
+# Language: zh-HK
+
+id: "milk-thistle"
+slug: "milk-thistle"
+category: "western-herbs"
+title: "乳薊果"
+scientific_name: "Silybum marianum (L.) Gaertn"
+image: "images/milk-thistle.jpg"
+
+traditional_usage: |
+  乳薊果的種子含1.5-3.0%的黃酮木脂素類 (flavonolignans)，包括水飛薊賓 (silybin)、水飛薊寧 (silydianin)和水飛薊亭 (silychristin)，現在統稱為水飛薊(silymarin)。動物研究和人類臨床研究顯示silymarin能保護肝臟，包括阻礙肝臟纖維化，有助解決由於酗酒或長期受病毒影響的肝臟問題。
+
+歷史: |
+  乳薊果於歐洲國家用作醫藥用途已超過2000 年，主要是大益肝臟和膽等健康。
+
+簡介: |
+  乳薊果從水飛薊乾果(也稱為瘦果)配製而成。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/westherbs/%e4%b9%b3%e8%96%8a%e6%9e%9c/"
+  scraped_at: "2026-02-18T04:03:49.292Z"
+  language: "zh-HK"

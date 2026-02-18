@@ -1,0 +1,25 @@
+# 黃耆
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e9%bb%83%e8%80%86/
+# Language: zh-HK
+
+id: "replenishingchi-02"
+slug: "replenishingchi-02"
+category: "chinese-herbs"
+title: "黃耆"
+scientific_name: "Astragalus membranaceus"
+image: "images/replenishingchi-02.jpg"
+
+traditional_usage: |
+  黃蓍是常用的補氣藥之一，性味甘而微溫，歸屬脾、肺經，能補氣升陽、益氣固表、利水消腫、托瘡生肌等，常用於治療因氣虛而引起的症狀，如：倦怠無力、食欲不振、容易腹瀉、器官下垂、自汗、浮腫、小便不利、面色萎黃等。
+
+歷史: |
+  始載於《神農本草經》
+
+簡介: |
+  豆科植物黃蓍的根
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e9%bb%83%e8%80%86/"
+  scraped_at: "2026-02-18T04:03:38.837Z"
+  language: "zh-HK"

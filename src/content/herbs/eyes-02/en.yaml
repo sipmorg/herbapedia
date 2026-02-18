@@ -1,0 +1,28 @@
+# Cangzhu
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/cangzhu/
+# Language: en
+
+id: "eyes-02"
+slug: "eyes-02"
+category: "chinese-herbs"
+title: "Cangzhu"
+scientific_name: "Atractylodes lancea (Thunb.) DC., Atractylodes chinensis (DC. ) Koidz."
+image: "images/eyes-02.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica with no categorisation between Bai zhu and Cang zhu.
+
+introduction: |
+  From the rhizome of Atractylodes lancea (Thunb.) DC. or A. chinensis (DC. ) Koidz., family Compositae.
+
+traditional_usage: |
+  Cangzhu is an acrid, warm, aromatic herb that strongly dries dampness and strengthens the spleen. It enters the stomach and spleen meridians and can induce perspiration, dispel wind-dampness and benefit the eyes in cases of night blindness, cataracts and glaucoma.
+
+modern_research: |
+  Cangzhu has been found to have hepatoprotective, antidiabetic, antibiotic, cardiovascular, gastrointestinal and genitourinary benefits in pharmacological studies.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/cangzhu/"
+  scraped_at: "2026-02-18T03:33:13.574Z"
+  language: "en"

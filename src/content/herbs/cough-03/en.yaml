@@ -1,0 +1,28 @@
+# White Mulberry Leaf
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/white-mulberry-leaf/
+# Language: en
+
+id: "cough-03"
+slug: "cough-03"
+category: "chinese-herbs"
+title: "White Mulberry Leaf"
+scientific_name: "Morus alba"
+image: "images/cough-03.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  From the root epidemis of Morus alba L., family Moraceae.
+
+traditional_usage: |
+  Morus alba, also known as white mulberry leaf, is bitter, sweet and cold in nature and enters the lung meridian. It expels fire in the lungs to enhance smooth, easy breathing and stop coughs. It is also used for reducing oedema.
+
+modern_research: |
+  Sangbaipi shows diuretic, antibiotic and analgesic effects in studies. It also stimulated digestion and raised blood pressure in experiments on animals.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/white-mulberry-leaf/"
+  scraped_at: "2026-02-18T03:34:22.411Z"
+  language: "en"

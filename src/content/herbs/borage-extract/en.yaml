@@ -1,0 +1,25 @@
+# Borage Extract
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/borage-extract/
+# Language: en
+
+id: "borage-extract"
+slug: "borage-extract"
+category: "western-herbs"
+title: "Borage Extract"
+scientific_name: "Borago officinalis L."
+image: "images/borage-extract.jpg"
+
+introduction: |
+  Borago officinalis L.
+
+traditional_usage: |
+  Borage, also known as starflower, is grown across Europe, north Africa and Iran. It is used as a diuretic, a demulcent and emollient as well as being prized for its culinary uses. Borage is also sometimes used to alleviate and heal colds, bronchitis, and respiratory infections because of its anti-inflammatory and balsamic properties. In France it is used to treat fevers and pulmonary complaints. Externally, it is useful as a poultice for inflammatory swellings.
+
+modern_research: |
+  Oil extracted from borage seeds, sold as starflower oil and available in capsule form, contains high levels of gamma linolenic acid and may regulate the metabolism and the hormonal system. It is considered by many naturopathic practitioners to be a good remedy for premenstrual and menopause symptoms.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/borage-extract/"
+  scraped_at: "2026-02-18T03:34:45.974Z"
+  language: "en"

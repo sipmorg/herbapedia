@@ -1,0 +1,25 @@
+# Lingzhi Spores
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/lingzhi-spores/
+# Language: en
+
+id: "lingzhi-spores"
+slug: "lingzhi-spores"
+category: "chinese-herbs"
+title: "Lingzhi Spores"
+scientific_name: "Ganoderma lucidum"
+image: "images/lingzhi-spores.jpg"
+
+introduction: |
+  The spore of Ganoderma Lucidum (Leyss. Ex Fr.) Karst. Or G. japonicum (Fr.) Lloyd, family Polyporaceae.
+
+traditional_usage: |
+  Lingzhi is reputed to have many medicinal properties: it nourishes the heart and blood; pacifies the spirit; tonifies the chi; relieves coughing symptoms and supports weak digestion. Sweet and neutral in nature, it is suitable for all constitutions and has conventionally been consumed as a general tonic for health maintenance. Its specific applications include deficiency fatigue and insomnia, etc. The spores of the mushroom have particularly strong therapeutic effects as compared to the fruiting body; however, the outer casing of the spores is tough and indigestible, so must be cracked using advanced nanotechnology before coating them immediately to prevent oxidation and preserve the active chemicals.
+
+modern_research: |
+  University studies have confirmed lingzhi is able to boost the body's antioxidant levels, deter the growth of unwelcome cell lines, strengthen the immune system, protect kidney cells and has anti-ageing effects; increasing appetite and energy levels, improving sleep and reducing white hair and age spots.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/lingzhi-spores/"
+  scraped_at: "2026-02-18T03:33:53.405Z"
+  language: "en"

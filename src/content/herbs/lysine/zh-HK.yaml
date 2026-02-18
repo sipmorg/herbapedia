@@ -1,0 +1,22 @@
+# 賴氨酸
+# Source: https://www.vitaherbapedia.com/zh/shop/nutrients/%e8%b3%b4%e6%b0%a8%e9%85%b8/
+# Language: zh-HK
+
+id: "lysine"
+slug: "lysine"
+category: "nutrients"
+title: "賴氨酸"
+scientific_name: "L-Lysine"
+image: "images/lysine.jpg"
+
+traditional_usage: |
+  賴氨酸是人體不能自行製造的必需氨基酸， 故身體必須由膳食中吸取。賴氨酸對於小孩的健康成長，尤其是大腦發育十分重要。
+
+簡介: |
+  賴氨酸可在具豐富蛋白質的食物中找到，包括肉、奶酪(尤其是巴馬乾酪)、某些魚(例如：鱈魚和沙丁魚)、堅果和蛋。豆類植物也含豐富賴氨酸。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/nutrients/%e8%b3%b4%e6%b0%a8%e9%85%b8/"
+  scraped_at: "2026-02-18T04:05:09.472Z"
+  language: "zh-HK"

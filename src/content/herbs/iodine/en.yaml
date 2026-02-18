@@ -1,0 +1,21 @@
+# Iodine
+# Source: https://www.vitaherbapedia.com/en/shop/minerals-en/iodine/
+# Language: en
+
+id: "iodine"
+slug: "iodine"
+category: "minerals"
+title: "Iodine"
+image: "images/iodine.jpg"
+
+introduction: |
+  Among natural foods the best sources of iodine are kelp, seafoods and vegetables grown in iodine-rich soils and iodized salt. Stabilised iodized salt contains 0.01% potassium iodide (0.0076%), or 76 mcg of iodine per gram.
+
+traditional_usage: |
+  The main function of iodine in the human body is the making of iodine-containing thyroid hormones. It is also vital to hair growth. Since the main dietary source of iodine is from seafood and kelp, iodine deficiency tends to affect people living in inland areas causing hypothyroidism, distinguished by fatigue, an enlarged thyroid gland, depression and mental problems.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/minerals-en/iodine/"
+  scraped_at: "2026-02-18T03:35:25.813Z"
+  language: "en"

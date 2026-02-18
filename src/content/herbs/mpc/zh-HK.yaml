@@ -1,0 +1,19 @@
+# 乳絡肽合物
+# Source: https://www.vitaherbapedia.com/zh/shop/nutrients/%e4%b9%b3%e7%b5%a1%e8%82%bd%e5%90%88%e7%89%a9/
+# Language: zh-HK
+
+id: "mpc"
+slug: "mpc"
+category: "nutrients"
+title: "乳絡肽合物"
+scientific_name: "Milk Peptide Complex"
+image: "images/mpc.jpg"
+
+functions: |
+  乳肽絡合物有助修護受損肌膚，修補真皮層(皮膚的中層)，有助皮膚抗衰老，更擔當著更新細胞生長和緊緻肌膚的重要角色。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/nutrients/%e4%b9%b3%e7%b5%a1%e8%82%bd%e5%90%88%e7%89%a9/"
+  scraped_at: "2026-02-18T04:04:46.944Z"
+  language: "zh-HK"

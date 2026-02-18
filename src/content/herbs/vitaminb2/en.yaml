@@ -1,0 +1,22 @@
+# Vitamin B2
+# Source: https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-b2/
+# Language: en
+
+id: "vitaminb2"
+slug: "vitaminb2"
+category: "vitamins"
+title: "Vitamin B2"
+scientific_name: "Riboflavin, Lactoflavin"
+image: "images/vitaminb2.jpg"
+
+introduction: |
+  Found in organ meats such as liver, kidney and heart; also in milk, almonds, cheese, eggs, lean meat, raw mushrooms, beer and wheat bran.
+
+traditional_usage: |
+  Riboflavin aids in the production of enzymes necessary for the conversion of fats, proteins and carbohydrates into energy. It is needed for red blood cell formation and for the production of antibodies and neurotransmitters. Riboflavin also promotes healthy hair, skin, nails, and vision and is essential for the other B vitamins to function properly. Since riboflavin is water soluble, it is lost in sweat and urine and must be replaced daily from dietary sources.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-b2/"
+  scraped_at: "2026-02-18T03:35:13.679Z"
+  language: "en"

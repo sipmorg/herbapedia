@@ -1,0 +1,28 @@
+# St. John&#039;s Wort
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/st-johns-wort/
+# Language: en
+
+id: "st-johns-wort"
+slug: "st-johns-wort"
+category: "western-herbs"
+title: "St. John&#039;s Wort"
+scientific_name: "Hypericum perforatum L."
+image: "images/st-johns-wort.jpg"
+
+history: |
+  The Greek physician Hippocrates was one of the first to document the therapeutic uses of St. John's Wort over 2,000 years ago. It is thought to have been used to treat mental disorders in Europe since the 15th century, as recorded by Swiss physician Paracelsus.
+
+introduction: |
+  St. John's Wort preparations consist of dried above-ground parts of the plant, such as flowers and stems, gathered during the flowering season.
+
+traditional_usage: |
+  St John's Wort contains a combination of bioactive ingredients, including hypericin, that appear to boost levels of chemicals in the brain that affect mood, making it an effective antidepressant for cases of mild to moderate depression. As a relaxant, it may also improve concentration powers, memory and receptivity without causing drowsiness. People taking St John's Wort should be aware that it can affect the efficacy of the contraceptive pill and make the skin more susceptible to sun sensitivity, and should not be taken if you have already been prescribed antidepressant medication.
+
+modern_research: |
+  St John's Wort is becoming popular as a natural alternative to antidepressants such as Prozac, since it is less likely to cause unwanted side effects such as dizziness or a dry mouth. It may also be an effective treatment for conditions including obsessive compulsive disorder and mood swings associated with premenstrual syndrome. In laboratory studies the active ingredient in St John's Wort, hypericin, has been found to have anti-viral properties against some diseases, and is being investigated for its role in the treatment of HIV. Studies have also shown that St. John's Wort oil is antibacterial, and helps prevent infections and speed wound healing.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/st-johns-wort/"
+  scraped_at: "2026-02-18T03:35:06.412Z"
+  language: "en"

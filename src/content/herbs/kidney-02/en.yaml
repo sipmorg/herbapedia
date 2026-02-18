@@ -1,0 +1,25 @@
+# Dandelion
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/dandelion/
+# Language: en
+
+id: "kidney-02"
+slug: "kidney-02"
+category: "western-herbs"
+title: "Dandelion"
+scientific_name: "Taraxacum Officinale"
+image: "images/kidney-02.jpg"
+
+history: |
+  Dandelion leaves and roots have been used for centuries to treat liver, gall bladder, kidney, and joint problems. In some countries, dandelion is considered a blood purifier and is used for ailments such as eczema and cancer. Dandelion has also been used to treat poor digestion, water retention and diseases of the liver such as hepatitis. The first mention of the dandelion as a medicine was in the works of Arabian physicians of the tenth and eleventh centuries. Thirteenth-century Welsh medicine also lauds its properties.
+
+introduction: |
+  The dried roots of the plant are most widely used in medicine.
+
+traditional_usage: |
+  The bitter compounds in the leaves and root of the dandelion plant help to stimulate digestion and have a mild laxative effect. They also increase bile production in the gall bladder and bile flow from the liver, making dandelion a useful tonic for people with sluggish liver function due to alcohol abuse or a poor diet. The increase in bile flow can also help improve the body's metabolism of fat (including cholesterol). In Chinese medicine terms, dandelion is considered to be a bitter, cool herb that enters the liver, stomach and bladder meridians to clear heat and drain dampness.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/dandelion/"
+  scraped_at: "2026-02-18T03:34:48.646Z"
+  language: "en"

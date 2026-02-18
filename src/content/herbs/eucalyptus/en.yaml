@@ -1,0 +1,25 @@
+# Eucalyptus oil
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/eucalyptus-oil/
+# Language: en
+
+id: "eucalyptus"
+slug: "eucalyptus"
+category: "western-herbs"
+title: "Eucalyptus oil"
+scientific_name: "Eucalyptus globulus"
+image: "images/eucalyptus.jpg"
+
+history: |
+  Derived from the native Australian Blue-gum tree, its antiseptic qualities meant the fresh leaves were used by aborigines to treat wounds. The extracted oil has been popular in Europe for over 200 years.
+
+introduction: |
+  Produced by distillation of the leaves and twigs of the Eucalyptus tree.
+
+traditional_usage: |
+  Eucalyptus oil is most frequently used to relieve respiratory problems. Externally, its antiseptic and deodorant qualities make it suitable for use on purulent wounds and ulcers. Diluted, it can be applied to cold sores or used as a massage oil or antiseptic gargle. It can also be inhaled to aid clear thinking and concentration.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/eucalyptus-oil/"
+  scraped_at: "2026-02-18T03:34:50.544Z"
+  language: "en"

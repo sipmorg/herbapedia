@@ -1,0 +1,25 @@
+# Roucongrong
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/roucongrong/
+# Language: en
+
+id: "roucongrong"
+slug: "roucongrong"
+category: "chinese-herbs"
+title: "Roucongrong"
+scientific_name: "Cistanche deserticola Y. C. Ma"
+image: "images/roucongrong.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica, classified as upper class.
+
+introduction: |
+  The fleshy stem of Cistache deserticola Y.C. Ma, family Orobanchaceae.
+
+traditional_usage: |
+  Roucongrong is sweet and salty in taste with warming properties. It enters the large intestines and kidneys. Its uses include tonifying the kidneys and strengthening the yang, moistening the large intestines and treating constipation. As a kidney tonic, Roucongrong addresses associated symptoms such as weakness in the joints, soreness in the back and knees, tinnitus, dizziness, loss of hearing and forgetfulness. It is also able to improve hair health, since in Chinese medicine the kidneys are associated with nourishing the hair.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/roucongrong/"
+  scraped_at: "2026-02-18T03:34:06.893Z"
+  language: "en"

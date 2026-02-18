@@ -1,0 +1,25 @@
+# 野生灵芝
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e9%87%8e%e7%94%9f%e7%81%b5%e8%8a%9d/
+# Language: zh-CN
+
+id: "lingzhi"
+slug: "lingzhi"
+category: "chinese-herbs"
+title: "野生灵芝"
+scientific_name: "Ganoderma lucidum"
+image: "images/lingzhi.jpg"
+
+traditional_usage: |
+  味甘、微苦，药性平和，主要功能是补中益气，养心安神，用于虚劳羸弱、食欲不振、心悸怔仲、失眠健忘以及咳痰喘息，久嗽不止。现还用于促进心脑血管系统健康，以及改善神经衰弱、慢性呼吸系统毛病等。
+
+历史: |
+  首载于《说文》，《神农本草经》列为上品，认为「久食，轻身不老，延年神仙」，记载有赤芝、黑芝、青芝、白芝、黄芝、紫芝六种。
+
+简介: |
+  多孔菌科真菌赤灵芝的全株，主要分布在中国河北、山东、四川、云南、广西等地。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e9%87%8e%e7%94%9f%e7%81%b5%e8%8a%9d/"
+  scraped_at: "2026-02-18T03:38:16.544Z"
+  language: "zh-CN"

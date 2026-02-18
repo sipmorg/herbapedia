@@ -1,0 +1,25 @@
+# Vitamin C
+# Source: https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-c/
+# Language: en
+
+id: "vitaminc"
+slug: "vitaminc"
+category: "vitamins"
+title: "Vitamin C"
+scientific_name: "Ascorbic acid, ascorbyl palmitate"
+image: "images/vitaminc.jpg"
+
+introduction: |
+  Vitamin C is found naturally in fruits (especially citrus fruits) and leafy vegetables. Good sources include acerola cherries, rose hips, citrus fruits or juice, guavas, peppers, blackcurrants, parsley, mustard greens, green leafy vegetables, cantaloupe, papaya, strawberries, and tomatoes. Vitamin C is the most unstable of all vitamins and is quickly destroyed by heat, light and exposure to air.
+
+traditional_usage: |
+  Vitamin C is essential for the formation and maintenance of collagen, the substance that binds body cells together; for the metabolism of the amino acids tyrosine and tryptophan; the absorption and movement of iron; the metabolism of fats and lipids; cholesterol control; sound teeth and bones; strong capillary walls and healthy blood vessels; and the metabolism of folic acid. It is also a powerful antioxidant, neutralising free radicals and helping ward of symptoms associated with oxidation, from wrinkles to illnesses including cancer. Ascorbyl palmitate is a fat-soluble Vitamin C ester that exerts antioxidant activity characteristic of vitamin C on lipids throughout the body, and is the most widely used fat-soluble derivative of vitamin C in skin care. It has been found to protect cell membranes of human red blood cells and alpha-tocopherol (Vitamin E, a known antioxidant) from oxidative damage by neutralising free radicals, resulting in reducing the depth of wrinkles. Unlike vitamin C, it can be stored by the body.
+
+modern_research: |
+  Vitamin C, in the form ascorbyl palmitate, is sometimes used as an antioxidant food additive to preserve the shelf-life of goods as well as being a popular ingredient in skin care.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-c/"
+  scraped_at: "2026-02-18T03:35:19.490Z"
+  language: "en"

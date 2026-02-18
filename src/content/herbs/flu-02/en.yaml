@@ -1,0 +1,25 @@
+# Chinese Bellflower
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/chinese-bellflower/
+# Language: en
+
+id: "flu-02"
+slug: "flu-02"
+category: "chinese-herbs"
+title: "Chinese Bellflower"
+scientific_name: "Platycodon grandiflorum"
+image: "images/flu-02.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  Root of Platycodon grandiflorum (Jacq.) A. DC., family Campanulaceae. It can be prepared by baking in honey.
+
+traditional_usage: |
+  Chinese Bellflower root has bitter, acrid neutral characteristics and promotes healthy lung functions; expelling phlegm, discharging pus and benefiting the throat. It is considered among the strongest of herbs for dispelling phlegm and pus, and can also be used to clear heat and toxins to treat lung abscesses. In addition it raises the chi of the lung and large intestines, treating diarrhea and associated problems.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/chinese-bellflower/"
+  scraped_at: "2026-02-18T03:33:17.721Z"
+  language: "en"

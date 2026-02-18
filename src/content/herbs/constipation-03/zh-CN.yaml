@@ -1,0 +1,25 @@
+# 白朮
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%99%bd%e6%9c%ae-2/
+# Language: zh-CN
+
+id: "constipation-03"
+slug: "constipation-03"
+category: "chinese-herbs"
+title: "白朮"
+scientific_name: "Atractytlodes macrocephala"
+image: "images/constipation-03.jpg"
+
+traditional_usage: |
+  白朮是补气药，味苦、甘，药性温，归脾、胃、肝经，能补气健脾，常用於改善消化系统问题。
+
+历史: |
+  始载於《神农本草经》，但无白朮、苍朮之分，统称为"朮"。
+
+简介: |
+  菊科植物白朮的根茎
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%99%bd%e6%9c%ae-2/"
+  scraped_at: "2026-02-18T03:37:46.766Z"
+  language: "zh-CN"

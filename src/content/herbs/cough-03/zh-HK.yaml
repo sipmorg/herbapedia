@@ -1,0 +1,25 @@
+# 桑白皮
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e6%a1%91%e7%99%bd%e7%9a%ae/
+# Language: zh-HK
+
+id: "cough-03"
+slug: "cough-03"
+category: "chinese-herbs"
+title: "桑白皮"
+scientific_name: "Morus alba"
+image: "images/cough-03.jpg"
+
+traditional_usage: |
+  桑科植物桑是具有藥用價值的植物，其中根皮即中藥桑白皮，味甘而性寒，歸屬肺經，能瀉肺平喘、利水消腫，主治肺熱咳喘，亦用於浮腫等症，《本草綱目》中言：「肺中有水氣及肺火有餘者宜之。」
+
+歷史: |
+  始載於《神農本草經》
+
+簡介: |
+  桑科植物桑的根皮。桑白皮為桑除去栓皮的乾燥根皮，呈條片狀切片，常彎曲或成筒狀。外表面黃白色，殘留有棕黃色外皮。內表面淡棕黃色，具細緃紋。分佈於全國各地，有栽培。也有野生。冬季採挖，洗淨，趁新鮮刮去黃棕色栓皮。緃向分開，以木槌輕擊。使皮部和木心分離，取白皮，曬乾。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e6%a1%91%e7%99%bd%e7%9a%ae/"
+  scraped_at: "2026-02-18T04:02:35.828Z"
+  language: "zh-HK"

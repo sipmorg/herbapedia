@@ -1,0 +1,25 @@
+# Bird&#039;s Nest
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/birds-nest/
+# Language: en
+
+id: "birds-nest"
+slug: "birds-nest"
+category: "chinese-herbs"
+title: "Bird&#039;s Nest"
+scientific_name: "Swiftlet's Nest"
+image: "images/birds-nest.jpg"
+
+history: |
+  First appeared in the Thoroughly Revised Materia Medica.
+
+introduction: |
+  Saliva nests of a few species of cave swiftlets of genera Collocalia, family Apodidae.
+
+traditional_usage: |
+  Bird's Nest is obtained from the small, edible nests of cave swiftlets which are spun from saliva. They are collected from high up on cave walls and found across South East Asia, notably Thailand, Vietnam, Indonesia and Malaysia. They have been used in Chinese cooking for over 400 years, and are a cornerstone of Chinese food therapy. The nests are first soaked and cleaned to remove debris before being prepared as food or medicine. Containing high levels of calcium, potassium, iron and magnesium, birds nest is used to nourish the skin, improve the appetite, promote a better complexion and tonify lung yin. It is considered beneficial for people with weak lungs and those with chronic coughing, gasping and other related symptoms.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/birds-nest/"
+  scraped_at: "2026-02-18T03:33:10.761Z"
+  language: "en"

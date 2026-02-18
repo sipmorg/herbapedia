@@ -1,0 +1,28 @@
+# Garlic
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/garlic/
+# Language: en
+
+id: "garlic"
+slug: "garlic"
+category: "western-herbs"
+title: "Garlic"
+scientific_name: "Allium sativum L."
+image: "images/garlic.jpg"
+
+history: |
+  In traditional British herbal-based medicine, garlic was used garlic to treat hoarseness and coughs, both as a syrup and in a salve made of garlic and lard, which was rubbed on the chest and back. Cherokee Indians also used it as an expectorant for coughs and croup. In 1858, Louis Pasteur observed garlic's antibacterial activity, and it was used as an antiseptic to prevent gangrene during World War I and World War II.
+
+introduction: |
+  Garlic preparations consist of the fresh or dried bulbs (main bulb and secondary bulbs or cloves) of Allium sativum L.
+
+traditional_usage: |
+  The active ingredient in garlic is allicin, a powerful antibiotic and anti-fungal compound. Garlic is mainly prized for its heart-protecting properties, but is also able to reduce blood glucose levels, is an antioxidant, an antimicrobial, has anti-cancer properties, and helps control sickle cell anaemia. In the management of heart disease, garlic lowers cholesterol and triglycerides, helps prevent the formation of plaque in the blood and lowers blood pressure. It is even thought to be effective as a mosquito repellent, although there are many more pleasant smelling alternatives.
+
+modern_research: |
+  In the US and Western Europe, garlic is one of the most popular substances used to reduce various risks associated with heart disease.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/garlic/"
+  scraped_at: "2026-02-18T03:34:53.201Z"
+  language: "en"

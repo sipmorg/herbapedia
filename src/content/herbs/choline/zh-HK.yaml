@@ -1,0 +1,21 @@
+# 膽鹼
+# Source: https://www.vitaherbapedia.com/zh/shop/nutrients/%e8%86%bd%e9%b9%bc/
+# Language: zh-HK
+
+id: "choline"
+slug: "choline"
+category: "nutrients"
+title: "膽鹼"
+image: "images/choline.jpg"
+
+traditional_usage: |
+  膽鹼對於維持肝臟健康和防止脂肪積聚肝臟異常重要。膽鹼是製造神經傳遞物質乙醯膽素的必要成份，它有助於傳送神經脈衝，可在各種不同的生化反應中提供甲基，而膽鹼亦是構成磷脂質 phosphatidylcholine 的必要成份，而phosphatidylcholine則有助建造細胞膜。
+
+簡介: |
+  可在食物包括蛋黃、蛋、肝臟、大豆、包心菜、小麥穀皮、米穀皮 和全麥製品中找到。補充的來源包括酵母菌、小麥肧，大豆、卵磷脂、蛋黃卵磷脂、合成膽鹼和膽鹼衍生物。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/nutrients/%e8%86%bd%e9%b9%bc/"
+  scraped_at: "2026-02-18T04:05:05.384Z"
+  language: "zh-HK"

@@ -27,7 +27,7 @@
           :to="`/herbs/${herb.category}/${herb.slug}`"
           :title="herb.title"
           :scientific-name="herb.scientific_name"
-          :image="herb.image"
+          :image="herb.resolvedImage"
           :category="herb.category"
         />
       </div>
@@ -43,8 +43,11 @@
 import { ref, computed } from 'vue'
 import HerbCard from '@/components/ui/HerbCard.vue'
 
-// Import all herb data using Vite glob
-const herbsModules = import.meta.glob('/src/content/herbs/*.yaml', { eager: true })
+// Import all herb data using Vite glob (new structure: herbs/{slug}/en.yaml)
+const herbsModules = import.meta.glob('/src/content/herbs/*/en.yaml', { eager: true })
+
+// Import all images
+const imageModules = import.meta.glob('/src/content/herbs/*/images/*.jpg', { eager: true, as: 'url' })
 
 // Parse herb data
 const herbs = ref([])
@@ -58,10 +61,20 @@ const categories = ref([
 
 // Process imported modules
 Object.entries(herbsModules).forEach(([path, module]) => {
-  if (path.endsWith('index.yaml')) return
-
   const data = module?.default || module
   if (data && data.title) {
+    // Extract slug from path
+    const slugMatch = path.match(/\/([^/]+)\/en\.yaml$/)
+    if (slugMatch) {
+      data.slug = data.slug || slugMatch[1]
+
+      // Resolve image URL
+      const imagePath = `/src/content/herbs/${data.slug}/images/${data.slug}.jpg`
+      if (imageModules[imagePath]) {
+        data.resolvedImage = imageModules[imagePath]
+      }
+    }
+
     herbs.value.push(data)
 
     // Update category count

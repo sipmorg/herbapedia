@@ -1,0 +1,25 @@
+# 紅景天
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%b4%85%e6%99%af%e5%a4%a9/
+# Language: zh-HK
+
+id: "anti-fatique-02"
+slug: "anti-fatique-02"
+category: "chinese-herbs"
+title: "紅景天"
+scientific_name: "Rhodiola Sacra"
+image: "images/anti-fatique-02.jpg"
+
+traditional_usage: |
+  紅景天藥味甘、微苦，藥性微涼，能補氣養陰，強心益智，一般用於心力衰弱、體虛乏力、頭昏健忘等症。
+
+歷史: |
+  始載於 《四部醫典》
+
+簡介: |
+  景天科植物紅景天的根及根莖，分佈新疆、山西、吉林等地，生於海拔1600至2700米的山坡林下，是亞洲地區常用傳統藥材。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%b4%85%e6%99%af%e5%a4%a9/"
+  scraped_at: "2026-02-18T04:03:00.038Z"
+  language: "zh-HK"

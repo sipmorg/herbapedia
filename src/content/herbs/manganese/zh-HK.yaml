@@ -1,0 +1,21 @@
+# 錳
+# Source: https://www.vitaherbapedia.com/zh/shop/minerals/%e9%8c%b3/
+# Language: zh-HK
+
+id: "manganese"
+slug: "manganese"
+category: "minerals"
+title: "錳"
+image: "images/manganese.jpg"
+
+traditional_usage: |
+  錳是身體必須的微量元素。錳能維繫骨骼及結締組織的發展，協助及維持正常血液凝固，製造膽固醇，以及啟動在碳水化合物、脂肪、蛋白質和核酸的新陳代謝中需要的酵素。
+
+簡介: |
+  存在於糙米，米穀皮，胡桃，小麥穀皮和小麥胚。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/minerals/%e9%8c%b3/"
+  scraped_at: "2026-02-18T04:04:38.635Z"
+  language: "zh-HK"

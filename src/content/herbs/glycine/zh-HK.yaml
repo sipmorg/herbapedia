@@ -1,0 +1,22 @@
+# 甘氨酸
+# Source: https://www.vitaherbapedia.com/zh/shop/nutrients/%e7%94%98%e6%b0%a8%e9%85%b8/
+# Language: zh-HK
+
+id: "glycine"
+slug: "glycine"
+category: "nutrients"
+title: "甘氨酸"
+scientific_name: "l-glycine"
+image: "images/glycine.jpg"
+
+functions: |
+  甘氨酸是一種氨基酸，負責幫助合成蛋白質和氨基酸，製造核酸(傳遞遺傳物質)和將葡萄糖轉化成能量。它也負責製造膽汁，對維持健康消化系統非常重要。甘氨酸也在中樞神經系統中協助神經傳遞。
+
+簡介: |
+  含豐富蛋白質的食物有大量甘氨酸。它可在魚、肉、豆和乳製品中找到。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/nutrients/%e7%94%98%e6%b0%a8%e9%85%b8/"
+  scraped_at: "2026-02-18T04:04:54.520Z"
+  language: "zh-HK"

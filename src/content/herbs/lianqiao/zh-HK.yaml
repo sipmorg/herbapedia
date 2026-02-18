@@ -1,0 +1,25 @@
+# 連翹
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e9%80%a3%e7%bf%b9/
+# Language: zh-HK
+
+id: "lianqiao"
+slug: "lianqiao"
+category: "chinese-herbs"
+title: "連翹"
+scientific_name: "Forsythia suspensa"
+image: "images/lianqiao.jpg"
+
+traditional_usage: |
+  連翹是傳統的清熱解毒中藥，藥味苦，藥性微寒，歸肺、心、膽經，能清熱解毒、消癰散結、疏散風熱，用於熱毒瘡瘍，有「瘡家聖藥」之稱，亦用於治療外感風熱，常與金銀花同用。
+
+歷史: |
+  始載於《神農本草經》，列為下品
+
+簡介: |
+  木犀科植物連翹的果實去除種子
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e9%80%a3%e7%bf%b9/"
+  scraped_at: "2026-02-18T04:03:21.439Z"
+  language: "zh-HK"

@@ -1,0 +1,25 @@
+# Algae
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/algae/
+# Language: en
+
+id: "algae"
+slug: "algae"
+category: "chinese-herbs"
+title: "Algae"
+scientific_name: "Sargassum fusiforme (Harv.) Setch."
+image: "images/algae.jpg"
+
+introduction: |
+  From the seaweed Saragassum pallidum (Turn) C. Ag. Or S. fusiforme (Harv) Setch.
+
+traditional_usage: |
+  Derived from a type of seaweed that grows around the coasts of China and Japan, it has been valued for its medicinal properties for many centuries. Traditionally used for the pain associated with hernia disorder, it also clears heat and reduces the phlegm nodules, promotes urination and reduces oedema.
+
+modern_research: |
+  Alginates are found in seaweed and are rich in vital minerals and trace elements. They have a strong moisturising effect on the skin along with firming and stimulating properties, which help to detoxify the body and boost circulation. This has made alginates a useful ingredient in the beauty industry.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/algae/"
+  scraped_at: "2026-02-18T03:33:04.145Z"
+  language: "en"

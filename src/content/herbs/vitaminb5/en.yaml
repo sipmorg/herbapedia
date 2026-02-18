@@ -1,0 +1,25 @@
+# Vitamin B5
+# Source: https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-b5/
+# Language: en
+
+id: "vitaminb5"
+slug: "vitaminb5"
+category: "vitamins"
+title: "Vitamin B5"
+scientific_name: "Pantothenic Acid"
+image: "images/vitaminb5.jpg"
+
+introduction: |
+  Pantothenic acid is found naturally in meats such as liver and kidneys, in wheat bran, rice bran, nuts, mushrooms, salmon, blue cheese, eggs, brown rice, lobster and sunflower seeds. Dietary supplements widely use synthetic calcium pantothenate, although yeast is a rich natural source.
+
+traditional_usage: |
+  Pantothenic acid, or vitamin B5, functions in the body as part of two different enzymes - coenzyme A (CoA) and acyl carrier protein (ACP). CoA helps in transmitting nerve impulses, synthesising hormones and haemoglobin - which is essential in building blood. CoA is also essential in the maintenance of normal blood sugar and formation of antibodies. D-calcium pantothenate, a synthetically made substance, is the name for the most common form of pantothenic acid used in vitamin supplements.
+
+modern_research: |
+  Pantothenic acid in the form of Panthoderm is a common addition to skin creams. It can be used to relieve dry skin and promote the healing of burns, minor wounds and chapped skin.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-b5/"
+  scraped_at: "2026-02-18T03:35:15.736Z"
+  language: "en"

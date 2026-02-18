@@ -1,0 +1,28 @@
+# Nuzhenzi
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/nuzhenzi/
+# Language: en
+
+id: "hair-01"
+slug: "hair-01"
+category: "chinese-herbs"
+title: "Nuzhenzi"
+scientific_name: "Ligustrum lucidum"
+image: "images/hair-01.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica, classified as upper class.
+
+introduction: |
+  Fruit of Ligustrum lucidum Ait. Family Oleaceae.
+
+traditional_usage: |
+  Nuzhenzi is made from the ripe fruits of the ligustrum, or glossy privet plant. Bitter and sweet tasting, this cooling herb enters the kidney and liver meridians to tonify the liver and kidney, clear heat and brighten the eyes. It also improves the supply of nutrition to the hair follicles, preventing premature greying of hair and promoting hair growth.
+
+modern_research: |
+  Nuzhenzi has immunostimulant, anti-diabetic, haematological, anti-inflamatory, antibiotic and hepaprotective effects. It has been used with good results to treat chronic hepatitis and high cholesterol.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/nuzhenzi/"
+  scraped_at: "2026-02-18T03:34:01.411Z"
+  language: "en"

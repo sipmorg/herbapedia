@@ -1,0 +1,22 @@
+# Vitamin B1
+# Source: https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-b1/
+# Language: en
+
+id: "vitaminb1"
+slug: "vitaminb1"
+category: "vitamins"
+title: "Vitamin B1"
+scientific_name: "Thiamin"
+image: "images/vitaminb1.jpg"
+
+introduction: |
+  Thiamin is found in a large variety of animal and vegetable products but is abundant in few. Sources include lean pork, sunflower seeds, peanuts, wheat bran, kidney, nuts, whole wheat flour, enriched rice and white bread made with fortified flour.
+
+traditional_usage: |
+  Thiamin, a B-group vitamin, was the first of the B vitamins to be identified. It is necessary for the maintenance of a normal appetite; for converting carbohydrates into energy; for muscle tone; and for a healthy brain and nervous system. The B vitamins also help to maintain healthy hair.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-b1/"
+  scraped_at: "2026-02-18T03:35:11.736Z"
+  language: "en"

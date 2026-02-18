@@ -1,0 +1,25 @@
+# Aloe Vera
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/aloe-vera/
+# Language: en
+
+id: "aloe-vera"
+slug: "aloe-vera"
+category: "western-herbs"
+title: "Aloe Vera"
+scientific_name: "Aloe barbadensis"
+image: "images/aloe-vera.jpg"
+
+history: |
+  For thousands of years, transparent gel from the pulp of the meaty leaves of Aloe Vera has been used topically to treat wounds, skin infections, burns, and numerous other dermatologic conditions. The laxative effect of latex from the leaves has also long been known and prized.
+
+introduction: |
+  Prepared from the leaves of the aloe plant, native to Africa.
+
+traditional_usage: |
+  Aloe Vera is a short-stemmed succulent plant native to North Africa with a long history of medicinal use. Dried latex from the leaves has traditionally been used as an oral laxative, and the mucilaginous juice of the plant is effective on small cuts and sunburn, and speeds healing. Its laxative properties are due to the presence of anthraquinone glycosides molecules, which are processed by stomach bacteria to form aglycones, a laxative substance.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/aloe-vera/"
+  scraped_at: "2026-02-18T03:34:39.493Z"
+  language: "en"

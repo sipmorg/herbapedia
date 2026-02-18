@@ -1,0 +1,25 @@
+# 茶树油
+# Source: https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e8%8c%b6%e6%a0%91%e6%b2%b9/
+# Language: zh-CN
+
+id: "tea-tree"
+slug: "tea-tree"
+category: "western-herbs"
+title: "茶树油"
+scientific_name: "Melaleuca alternifolia"
+image: "images/tea-tree.jpg"
+
+traditional_usage: |
+  茶树油被认定为最重要的天然防腐剂之一，并可用来纾缓被刺螫、烧伤、创伤和皮肤感染。茶树油具强烈的抗菌、发汗剂和袪痰剂作用。它能增强免疫系统，减少组织胺劝诱的皮肤发炎和大部份由细菌和真菌引起的细菌和由真菌引起的感染。茶树油亦广泛应用于外涂，包括口疮、痘痘、脚湿气、疣、蚊叮虫咬和疼痛发炎等。
+
+历史: |
+  茶树油最初由澳洲东部人使用，他们会把Melaleuca 叶子压碎， 吸取当中气味来舒缓咳嗽和感冒，并应用于伤口。1920年后，茶树油才作商业用途。
+
+简介: |
+  茶树油经由蒸气蒸馏原产于澳洲东北海岸的Melaleuca 的叶子取得。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e8%8c%b6%e6%a0%91%e6%b2%b9/"
+  scraped_at: "2026-02-18T03:38:52.197Z"
+  language: "zh-CN"

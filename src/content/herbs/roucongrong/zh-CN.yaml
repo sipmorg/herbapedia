@@ -1,0 +1,25 @@
+# 肉苁蓉
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%82%89%e8%8b%81%e8%93%89/
+# Language: zh-CN
+
+id: "roucongrong"
+slug: "roucongrong"
+category: "chinese-herbs"
+title: "肉苁蓉"
+scientific_name: "Cistanche deserticola Y. C. Ma"
+image: "images/roucongrong.jpg"
+
+traditional_usage: |
+  肉苁蓉味甘、咸，药性温，归属肾、大肠经，能补肾阳、益精血、润肠通便，主治肾阳不足引起的不适，例如性功能下降、腰膝酸软、筋骨无力、耳声嘈杂、虚风眩晕等，亦可改善肠燥便秘，常与巴戟天、杜仲等同用。
+
+历史: |
+  始载於《神农本草经》，列为上品
+
+简介: |
+  列当科植物肉苁蓉的带鳞片肉质茎，主产于内蒙、甘肃、新强、青海等地，又称淡大云或列当。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%82%89%e8%8b%81%e8%93%89/"
+  scraped_at: "2026-02-18T03:37:56.258Z"
+  language: "zh-CN"

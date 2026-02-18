@@ -1,0 +1,21 @@
+# 铁
+# Source: https://www.vitaherbapedia.com/cn/shop/minerals-cn/%e9%93%81/
+# Language: zh-CN
+
+id: "iron"
+slug: "iron"
+category: "minerals"
+title: "铁"
+image: "images/iron.jpg"
+
+traditional_usage: |
+  於血液中负责运载氧气的血红蛋白，是由铁与蛋白质结合而成。另外，在代谢过程中参予製造身体能量之酵素，也需要铁。
+
+简介: |
+  可在红肉、蛋黄及深绿色的多叶蔬菜中找到。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/minerals-cn/%e9%93%81/"
+  scraped_at: "2026-02-18T03:39:24.524Z"
+  language: "zh-CN"

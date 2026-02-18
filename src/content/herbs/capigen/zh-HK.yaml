@@ -1,0 +1,25 @@
+# 西方專利成份 Capigen®
+# Source: https://www.vitaherbapedia.com/zh/shop/nutrients/%e8%a5%bf%e6%96%b9%e5%b0%88%e5%88%a9%e6%88%90%e4%bb%bd-capigen/
+# Language: zh-HK
+
+id: "capigen"
+slug: "capigen"
+category: "nutrients"
+title: "西方專利成份 Capigen®"
+scientific_name: "Capigen®"
+image: "images/capigen.jpg"
+
+traditional_usage: |
+  N/A
+
+歷史: |
+  用於維新烏絲精華液
+
+簡介: |
+  由天然成份研製而成的西方專利成份
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/nutrients/%e8%a5%bf%e6%96%b9%e5%b0%88%e5%88%a9%e6%88%90%e4%bb%bd-capigen/"
+  scraped_at: "2026-02-18T04:05:07.425Z"
+  language: "zh-HK"

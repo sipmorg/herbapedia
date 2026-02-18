@@ -1,0 +1,28 @@
+# Chrysanthemum
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/chrysanthemum/
+# Language: en
+
+id: "chrysanthemum"
+slug: "chrysanthemum"
+category: "chinese-herbs"
+title: "Chrysanthemum"
+scientific_name: "Chrysanthemum morifolium Ramat."
+image: "images/chrysanthemum.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica, classified as upper class.
+
+introduction: |
+  Capitulum of Chrysanthemum morifolium Ramat., family Compositae.
+
+traditional_usage: |
+  Sweet, bitter and slightly cold in nature, chrysanthemum enters the liver and lung meridians. This herb is useful for dispersing wind and clearing heat, detoxifying the liver, clearing the eyes and tonifying in general. It can be used for treating the common cold, headaches, reddening of the eyes and deafness.
+
+modern_research: |
+  The decoction of the herb has been found to dilate the coronary arteries, thus increase blood flow. The herb can also inhibit the growth of Staphylococcus aureus, Shigella dysenteriae and nine different skin fungi. It can also help the body to fight the flu virus and leptospirae.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/chrysanthemum/"
+  scraped_at: "2026-02-18T03:33:20.740Z"
+  language: "en"

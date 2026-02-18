@@ -1,0 +1,31 @@
+# 维他命 C
+# Source: https://www.vitaherbapedia.com/cn/shop/vitamins-cn/%e7%bb%b4%e4%bb%96%e5%91%bd-c/
+# Language: zh-CN
+
+id: "vitaminc"
+slug: "vitaminc"
+category: "vitamins"
+title: "维他命 C"
+scientific_name: "Ascorbic acid, ascorbyl palmitate"
+image: "images/vitaminc.jpg"
+
+traditional_usage: |
+  维他命C是组成及维护胶原质的必然要素，它将大量的细胞捆绑在一起，并促进氨基酸中的酪胺酸和色氨酸进行新陈代谢。维他命C对铁的吸收和活动、脂肪和脂质的新陈代谢、控制血脂、维持牙齿和骨骼健康、毛细管壁及血管健康，以及叶酸的新陈代谢均有帮助。维他命C更是一种强大的抗氧化剂，能中和游离基，保护身体免受与氧化有关的徵状，包括从皱纹到顽疾等疾病。
+
+functions: |
+  又名抗坏血酸 帮助製造胶原体，促进细胞、牙床、牙齿、血管、骨骼的成长和修补 帮助手术或创伤後的痊癒 帮助钙质和铁质的吸收 加强抵抗力
+
+简介: |
+  每日需求 每天100毫克 维他命 C的来源 生果(尤其是柑橘果)和多叶蔬菜含有维他命C。其他来源包括西印度樱桃、野玫瑰果、柑橘果或果汁、番石榴、胡椒、茶藨子、欧芹、芥菜、绿色多叶的蔬菜、香瓜、 木瓜、草莓和番茄。维他命 C 是最不稳定的维他命，它会因热、光和暴露於空气中而被迅速破坏。
+
+缺乏症状: |
+  坏血病 牙肉发炎及出血、牙齿脱落 皮肤容易出血，毛细血管爆裂 虚弱、疲倦 骨痛、关节肿痛
+
+过量服用的后果: |
+  腹痛 腹泻 肾结石
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/vitamins-cn/%e7%bb%b4%e4%bb%96%e5%91%bd-c/"
+  scraped_at: "2026-02-18T03:39:13.914Z"
+  language: "zh-CN"

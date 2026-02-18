@@ -1,0 +1,25 @@
+# Balm mint oil
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/balm-mint-oil/
+# Language: en
+
+id: "balm-mint-oil"
+slug: "balm-mint-oil"
+category: "western-herbs"
+title: "Balm mint oil"
+scientific_name: "Melissa officinalis L."
+image: "images/balm-mint-oil.jpg"
+
+introduction: |
+  Extracted from the fresh flowering tops, leaves and stems of Balm Mint, a Mediterranean plant, by steam distillation.
+
+traditional_usage: |
+  Balm Mint has a sedative action, thus calming the nerves and helping to relieve depression as well as easing cases of hysteria and panic. It lowers high blood pressure and is a tonic to the heart while regulating the menstrual cycle, thus easing period pains. It is also antibacterial and antifungal, making it a useful topical application for fighting fungal infections. As a mosquito repellent, the crushed leaves of the plant may be rubbed straight on to the skin.
+
+modern_research: |
+  Balm mint, also frequently known as lemon balm, is widely used in perfumery and cosmetics because of its pleasant minty citrus smell.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/balm-mint-oil/"
+  scraped_at: "2026-02-18T03:34:42.224Z"
+  language: "en"

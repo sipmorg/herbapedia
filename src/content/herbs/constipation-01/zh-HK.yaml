@@ -1,0 +1,25 @@
+# 枳殼
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e6%9e%b3%e6%ae%bc/
+# Language: zh-HK
+
+id: "constipation-01"
+slug: "constipation-01"
+category: "chinese-herbs"
+title: "枳殼"
+scientific_name: "Citrus aurantium L."
+image: "images/constipation-01.jpg"
+
+traditional_usage: |
+  芸香科植物酸橙，其接近成熟的去瓤果實稱為枳殼，可以生用或炒用，味苦、辛而藥性微寒，歸脾、胃、大腸經，能行氣寬中除脹、化痰除積，常用於食積或胃腸熱結氣滯症，例如腹脹腹痛、大便秘結等，常與大黃同用，尚可用於腸胃功能欠佳、子宮脫垂、脫肛等，配合補氣、升陽藥同用以增強療效。
+
+歷史: |
+  始載於《雷公炮炙論》
+
+簡介: |
+  芸香科植物枸橘、酸橙、香圓或玳玳花等將近成熟的果實
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e6%9e%b3%e6%ae%bc/"
+  scraped_at: "2026-02-18T04:02:31.672Z"
+  language: "zh-HK"

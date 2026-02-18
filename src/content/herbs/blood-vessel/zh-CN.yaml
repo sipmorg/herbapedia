@@ -1,0 +1,25 @@
+# 银杏叶
+# Source: https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e9%93%b6%e6%9d%8f%e5%8f%b6/
+# Language: zh-CN
+
+id: "blood-vessel"
+slug: "blood-vessel"
+category: "western-herbs"
+title: "银杏叶"
+scientific_name: "Ginkgo biloba L."
+image: "images/blood-vessel.jpg"
+
+traditional_usage: |
+  银杏叶可抑制血小板聚集，增加血液的流动性，从而促进血液循环，减少血栓症、过敏和支气管收缩。银杏叶亦有助减少气喘和疼痛，有益肺部健康。银杏叶有助改善认知力、记忆、耳鸣、短期视觉记忆、注意力、集中力、痴呆病人的社交能力、间歇的跛行(肌肉绞痛)、以及老人的情绪和睡眠等问题。
+
+历史: |
+  银杏是地球上最久远的存活树木品种，可追溯到古生代时期(早于二亿二千五百万年前)。银杏叶作药用最早见于1436 年明代中药的记载。于欧洲，标准的银杏叶精华是最常作临床测试和作草本治疗的植物精华之一，更曾登上美国十大最畅销草本营养补充剂榜达六年之久。
+
+简介: |
+  银杏科植物的叶，无毒，其成熟种子为白果，种皮有毒。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e9%93%b6%e6%9d%8f%e5%8f%b6/"
+  scraped_at: "2026-02-18T03:39:02.325Z"
+  language: "zh-CN"

@@ -1,0 +1,28 @@
+# Mohanlian
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/mohanlian/
+# Language: en
+
+id: "hair-02"
+slug: "hair-02"
+category: "chinese-herbs"
+title: "Mohanlian"
+scientific_name: "Eclipta prostrata"
+image: "images/hair-02.jpg"
+
+history: |
+  Mohanlian is prized across Asia for its therapeutic powers as a liver tonic and for improving hair health. In India it is known as bhangra, and used as part of traditional ayurvedic medicine to rejuvenate and promote longevity, strengthen the liver and improve the condition of hair. A black dye can also be obtained from the plant for colouring hair and tattooing. It was first mentioned in the Tang Materia Medica as a cooling herb for use in traditional Chinese medicine.
+
+introduction: |
+  Herb of eclipta prostrata L., family Compositae.
+
+traditional_usage: |
+  Mohanlian, made from the Eclipta, or false daisy plant, is sweet and sour tasting and cold in nature. It enters the body's liver and kidney meridians to nourish the yin and tonify the kidneys. Since the liver is associated with the eyes and the kidneys with hair health, this herb can improve symptoms including blurred vision and prematurely grey hair. It can also cool the blood and stop bleeding, and is considered to be a powerful liver tonic.
+
+modern_research: |
+  Scientific research has found that the Eclipta plant contains wedelolactone, a substance that possesses a wide range of biological activities and is used for the treatment of hepatitis and cirrhosis, as an antibacterial and as an anti-hemorrhagic, confirming its powerful therapeutic properties.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/mohanlian/"
+  scraped_at: "2026-02-18T03:33:58.643Z"
+  language: "en"

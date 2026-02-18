@@ -1,0 +1,28 @@
+# Chinese rhubarb root
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/chinese-rhubarb-root/
+# Language: en
+
+id: "dahuang"
+slug: "dahuang"
+category: "chinese-herbs"
+title: "Chinese rhubarb root"
+scientific_name: "Rheum palmatum L."
+image: "images/dahuang.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica, classified as lower class.
+
+introduction: |
+  Root and rhizome of Rheum palmatum L., or a few species in the same genus, family Polygonaceae.
+
+traditional_usage: |
+  Made from the roots of the Chinese rhubarb plant, dahuang is a bitter, cooling herb for the meridians of the heart, spleen, stomach, liver and large intestine. It is traditionally used as a purgative or laxative; to clear damp-heat, eliminate heat and toxins; and to activate blood circulation. It can treat constipation caused by heat and chi stagnation or excess heat, often in combination with other herbs.
+
+modern_research: |
+  Dahuang has many proven pharmacological effects. It contains the substances sennoside A, aloe-emodin and rhein, which account for its strong purgative properties. It also has hepatoprotective properties, is haemostatic, antibiotic, and has an effect on the cardiovascular system. It has been used with good results to treat nephropathy, upper gastrointestinal bleeding, constipation, hepatitis and other conditions.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/chinese-rhubarb-root/"
+  scraped_at: "2026-02-18T03:33:19.798Z"
+  language: "en"

@@ -1,0 +1,22 @@
+# Vitamin B7, Biotin
+# Source: https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-b7-biotin/
+# Language: en
+
+id: "vitaminb7"
+slug: "vitaminb7"
+category: "vitamins"
+title: "Vitamin B7, Biotin"
+scientific_name: "Vitamin H"
+image: "images/vitaminb7.jpg"
+
+introduction: |
+  Found in foods including cheese, kidney, liver, cauliflower, eggs, mushrooms, nuts, sardines and salmon. Considerable amounts of biotin are also synthesised by microorganisms in the intestinal tract.
+
+traditional_usage: |
+  Biotin is a water soluble vitamin and a member of the B-complex family. Its primary function is as a coenzyme in carbohydrate, amino acid, and lipid metabolism. Biotin is essential for cell growth and replication through its role in the manufacturing of DNA and RNA.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-b7-biotin/"
+  scraped_at: "2026-02-18T03:35:17.675Z"
+  language: "en"

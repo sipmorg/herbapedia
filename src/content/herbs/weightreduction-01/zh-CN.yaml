@@ -1,0 +1,25 @@
+# 绞股蓝
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%bb%9e%e8%82%a1%e8%93%9d/
+# Language: zh-CN
+
+id: "weightreduction-01"
+slug: "weightreduction-01"
+category: "chinese-herbs"
+title: "绞股蓝"
+scientific_name: "Gynostemma pentaphyllum"
+image: "images/weightreduction-01.jpg"
+
+traditional_usage: |
+  本品味甘、苦，性凉，归肺、脾、肾经，能清热生津、并有润肠功效。
+
+历史: |
+  始载於《救荒本草》
+
+简介: |
+  葫芦科植物绞股蓝的根状茎或全草
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%bb%9e%e8%82%a1%e8%93%9d/"
+  scraped_at: "2026-02-18T03:37:55.318Z"
+  language: "zh-CN"

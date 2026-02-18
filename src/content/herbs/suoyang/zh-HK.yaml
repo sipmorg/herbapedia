@@ -1,0 +1,25 @@
+# 鎖陽
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e9%8e%96%e9%99%bd/
+# Language: zh-HK
+
+id: "suoyang"
+slug: "suoyang"
+category: "chinese-herbs"
+title: "鎖陽"
+scientific_name: "Cynomorium songaricum Rupr."
+image: "images/suoyang.jpg"
+
+traditional_usage: |
+  鎖陽味甘而藥性溫，歸肝、腎、大腸經，能補腎陽、益精血、潤腸通便，主治腎陽虛衰的性功能下降、耳聲聽障、腰膝酸軟等，亦可用於腸燥便秘，常與肉蓯蓉、巴戟天、補骨脂等藥材同用。
+
+歷史: |
+  始載於《本草衍義補遺》
+
+簡介: |
+  鎖陽科植物鎖陽的肉質莖
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e9%8e%96%e9%99%bd/"
+  scraped_at: "2026-02-18T04:03:29.303Z"
+  language: "zh-HK"

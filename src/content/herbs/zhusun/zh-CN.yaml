@@ -1,0 +1,25 @@
+# 竹笙
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%ab%b9%e7%ac%99-2/
+# Language: zh-CN
+
+id: "zhusun"
+slug: "zhusun"
+category: "chinese-herbs"
+title: "竹笙"
+scientific_name: "Dictyophora indusiata (Vent. Ex Pers.) Fischer"
+image: "images/zhusun.jpg"
+
+traditional_usage: |
+  竹笙能调节人体的新陈代谢，有助稳定血压，控制血脂，特别是腹壁脂肪过厚者，长期食用有减少腹壁脂肪贮积的作用。
+
+历史: |
+  始载於《本草纲目》
+
+简介: |
+  寄生于枯竹根部的隐花菌类，多产于四川、云南、贵州等地。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%ab%b9%e7%ac%99-2/"
+  scraped_at: "2026-02-18T03:37:52.521Z"
+  language: "zh-CN"

@@ -1,0 +1,22 @@
+# 远志
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%bf%9c%e5%bf%97/
+# Language: zh-CN
+
+id: "brain-03"
+slug: "brain-03"
+category: "chinese-herbs"
+title: "远志"
+scientific_name: "Polygala tenuifolia"
+image: "images/brain-03.jpg"
+
+traditional_usage: |
+  远志药味苦、辛，药性微温，归心、肾、肺经，是交通心肾、宁心安神的要药，尤其适用于心悸、失眠、健忘等情况，其豁痰开窍之效，亦有助于改善痰湿蒙蔽清窍所致的神昏迷糊等状态，更有助消散痈肿，可用于乳房胀痛等情况。
+
+简介: |
+  远志科多年生草本植物，药用部份是根部
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%bf%9c%e5%bf%97/"
+  scraped_at: "2026-02-18T03:38:11.840Z"
+  language: "zh-CN"

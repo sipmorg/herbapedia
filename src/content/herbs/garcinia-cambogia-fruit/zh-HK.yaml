@@ -1,0 +1,22 @@
+# 藤黃果
+# Source: https://www.vitaherbapedia.com/zh/shop/westherbs/%e8%97%a4%e9%bb%83%e6%9e%9c/
+# Language: zh-HK
+
+id: "garcinia-cambogia-fruit"
+slug: "garcinia-cambogia-fruit"
+category: "western-herbs"
+title: "藤黃果"
+scientific_name: "Garcinia Cambogia"
+image: "images/garcinia-cambogia-fruit.jpg"
+
+traditional_usage: |
+  藤黃果的果實很像南瓜，藤黃果內的活躍物質羥基檸檬酸(Hydroxycitric Acid-HCA)，能幫助瘦身減重。HCA 能壓制細胞內酵素 citrate lyase，阻止碳水化合物轉換成為脂肪，從而抑制脂肪的合成。
+
+簡介: |
+  藤黃果是一種在印度和東南亞非常普遍的植物。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/westherbs/%e8%97%a4%e9%bb%83%e6%9e%9c/"
+  scraped_at: "2026-02-18T04:04:10.482Z"
+  language: "zh-HK"

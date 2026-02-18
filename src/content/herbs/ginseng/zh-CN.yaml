@@ -1,0 +1,25 @@
+# 西洋蔘
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%a5%bf%e6%b4%8b%e8%94%98-2/
+# Language: zh-CN
+
+id: "ginseng"
+slug: "ginseng"
+category: "chinese-herbs"
+title: "西洋蔘"
+scientific_name: "Panax quinquefolium"
+image: "images/ginseng.jpg"
+
+traditional_usage: |
+  西洋蔘是补气药，味甘、微苦，药性寒，归心、肺、肾经，能补气养阴，清热生津，常用於热病气阴两伤，烦倦、口渴等症状，常与生地黄、麦冬等同用。
+
+历史: |
+  载於《本草从新》
+
+简介: |
+  五加科植物西洋蔘的根，野生产於美国及加拿大，法国及本国产为培植品种。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%a5%bf%e6%b4%8b%e8%94%98-2/"
+  scraped_at: "2026-02-18T03:38:08.973Z"
+  language: "zh-CN"

@@ -1,0 +1,25 @@
+# 独活
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%8b%ac%e6%b4%bb/
+# Language: zh-CN
+
+id: "duhuo"
+slug: "duhuo"
+category: "chinese-herbs"
+title: "独活"
+scientific_name: "radix angelicae pubescentisa"
+image: "images/duhuo.jpg"
+
+traditional_usage: |
+  独活属於祛风湿药，药味辛、苦，药性微温，归肾、膀胱经，能用於祛风除湿，通痹止痛。用於风寒湿痹，腰膝疼痛，伏风头痛。
+
+历史: |
+  始载於《神农本草经》
+
+简介: |
+  重齿毛当归根
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%8b%ac%e6%b4%bb/"
+  scraped_at: "2026-02-18T03:37:42.993Z"
+  language: "zh-CN"

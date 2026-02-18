@@ -1,0 +1,25 @@
+# Chinese Mugwort Leaf
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/chinese-mugwort-leaf/
+# Language: en
+
+id: "chinese-mugwart-leaf"
+slug: "chinese-mugwart-leaf"
+category: "chinese-herbs"
+title: "Chinese Mugwort Leaf"
+scientific_name: "Artemisiae Argyi"
+image: "images/chinese-mugwart-leaf.jpg"
+
+history: |
+  First appeared in Miscellaneous Records of Famous Physicians.
+
+introduction: |
+  Comes from the dried leaf of Artemisiae argyi Levl. et Vant, family compositae.
+
+traditional_usage: |
+  Mugwort has bitter, pungent and warm properties and is associated with the liver and spleen and kidney. Taken internally, the herb warms the womb, disperses cold and alleviates pain, especially menstrual pain due to cold as a result of yang deficiency. It grows across China and South East Asia and is commonly used in moxibustion to warm the meridians and promote the flow of chi and blood.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/chinese-mugwort-leaf/"
+  scraped_at: "2026-02-18T03:33:18.751Z"
+  language: "en"

@@ -1,0 +1,25 @@
+# Vitamin A
+# Source: https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-a/
+# Language: en
+
+id: "vitamina"
+slug: "vitamina"
+category: "vitamins"
+title: "Vitamin A"
+scientific_name: "Beta-carotene, Retinol"
+image: "images/vitamina.jpg"
+
+introduction: |
+  Found in foods including liver, carrots, dark-green leafy vegetables, yellow fruits and vegetables such as pumpkin and peaches, some seafoods including salmon and crab, dairy products and eggs.
+
+traditional_usage: |
+  Vitamin A helps maintain normal vision in dim light and prevents night blindness and xerophthalmia (dry eyes). It is essential for body growth and necessary for normal bone and tooth development. It also plays a role in the synthesis of protein and glycogen, and is necessary for thyroxine formation, preventing the development of goitres. Retinyl Palmitate is a precursor chemical which the body uses to manufacture vitamin A. Studies show that topically applied retinyl palmitate reverses some aspects of skin ageing. After its absorption into the skin, retinyl palmitate is converted to retinol, and ultimately to retinoic acid (the active form of vitamin A present in Retin-A). Vitamin A is valued for its regenerating properties and is essential for proper formation of the body's tissues. It prevents atrophy in ageing skin and encourages the healthy growth and renewal of skin cells. People lacking in vitamin A frequently suffer from skin problems such as rashes and psoriasis, as well as poor sight.
+
+modern_research: |
+  Vitamin A in the form retinyl palmitate is an ingredient in many topically-applied skin treatments.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/vitamins-en/vitamin-a/"
+  scraped_at: "2026-02-18T03:35:10.831Z"
+  language: "en"

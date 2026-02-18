@@ -1,0 +1,21 @@
+# Copper
+# Source: https://www.vitaherbapedia.com/en/shop/minerals-en/copper/
+# Language: en
+
+id: "copper"
+slug: "copper"
+category: "minerals"
+title: "Copper"
+image: "images/copper.jpg"
+
+introduction: |
+  Present in black pepper, blackstrap molasses, brazil nuts, cocoa, liver and raw oysters.
+
+traditional_usage: |
+  Copper is necessary for facilitating the absorption of iron from the intestinal tract and releasing it from storage in the liver and the reticuloendothelial system. It is also essential for the formation of haemoglobin; for the production of a key enzyme that prevents hardening of the arteries; and for the production of phospholipids, which help protect nerve cells. Copper also helps regulate the function of lysyl oxidase, an enzyme needed for the creation of collagen in the bones, connective tissues, and skin, and the production of the skin pigment melanin, which is responsible for our hair and eye colour. A lack of copper in the diet may thus cause premature greying of the hair.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/minerals-en/copper/"
+  scraped_at: "2026-02-18T03:35:24.943Z"
+  language: "en"

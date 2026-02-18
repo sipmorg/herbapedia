@@ -1,0 +1,21 @@
+# Potassium
+# Source: https://www.vitaherbapedia.com/en/shop/minerals-en/potassium/
+# Language: en
+
+id: "potassium"
+slug: "potassium"
+category: "minerals"
+title: "Potassium"
+image: "images/potassium.jpg"
+
+introduction: |
+  Found in dried fruit, molasses, potato flour, rice bran, seaweed, soybean flour, spices, sunflower seeds and wheat bran.
+
+traditional_usage: |
+  Potassium is involved in a number of bodily functions, including regulating the transfer of nutrients in and out of every single cell in our bodies. It also plays a role in the relaxation of smooth muscle, including the heart muscle, is required for the secretion of insulin by the pancreas in enzyme reactions involving phosphorylation, and is important in nerve and brain function. Although potassium deficiency is uncommon, it can be caused by the use of diuretics, eating disorders, prolonged vomiting or kidney disease. Symptoms include fatigue, muscle cramps and weakness, abdominal pains and bloating.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/minerals-en/potassium/"
+  scraped_at: "2026-02-18T03:35:29.705Z"
+  language: "en"

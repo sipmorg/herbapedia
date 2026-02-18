@@ -1,0 +1,21 @@
+# 蜂王浆
+# Source: https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e8%9c%82%e7%8e%8b%e6%b5%86/
+# Language: zh-CN
+
+id: "royal-jelly"
+slug: "royal-jelly"
+category: "western-herbs"
+title: "蜂王浆"
+image: "images/royal-jelly.jpg"
+
+traditional_usage: |
+  蜂王浆含有丰富营养，包括矿物质、维他命 B、蛋白质及必需胺基酸，有助抗氧化及抗疲劳，更可用作纾缓过敏症状，但对蜜糖及蜜蜂敏感人士不宜服用。
+
+简介: |
+  蜂皇浆是蜜蜂餵养幼蟲的分泌物。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e8%9c%82%e7%8e%8b%e6%b5%86/"
+  scraped_at: "2026-02-18T03:38:59.252Z"
+  language: "zh-CN"

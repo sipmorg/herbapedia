@@ -1,0 +1,25 @@
+# 絞股藍
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%b5%9e%e8%82%a1%e8%97%8d/
+# Language: zh-HK
+
+id: "weightreduction-01"
+slug: "weightreduction-01"
+category: "chinese-herbs"
+title: "絞股藍"
+scientific_name: "Gynostemma pentaphyllum"
+image: "images/weightreduction-01.jpg"
+
+traditional_usage: |
+  本品味甘、苦，性涼，歸肺、脾、腎經，能清熱生津、並有潤腸功效。
+
+歷史: |
+  始載於《救荒本草》
+
+簡介: |
+  葫蘆科植物絞股藍的根狀莖或全草
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%b5%9e%e8%82%a1%e8%97%8d/"
+  scraped_at: "2026-02-18T04:03:02.084Z"
+  language: "zh-HK"

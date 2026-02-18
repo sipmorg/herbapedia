@@ -1,0 +1,25 @@
+# 炒神曲
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%82%92%e7%a5%9e%e6%9b%b2-2/
+# Language: zh-CN
+
+id: "stomach-03"
+slug: "stomach-03"
+category: "chinese-herbs"
+title: "炒神曲"
+scientific_name: "Massa Fermentata"
+image: "images/stomach-03.jpg"
+
+traditional_usage: |
+  神曲味甘、辛，药性温，归脾、胃经，功效是消食和胃，用于治疗饮食积滞而致的胃胀腹痛、食欲不振，本品略有解表之力，所以尤其适合外感兼食滞的情况。
+
+历史: |
+  始载於《药性本草》
+
+简介: |
+  面粉和其他药物混合后经发酵而成的加工品
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%82%92%e7%a5%9e%e6%9b%b2-2/"
+  scraped_at: "2026-02-18T03:37:36.396Z"
+  language: "zh-CN"

@@ -1,0 +1,28 @@
+# Cordyceps
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/cordyceps/
+# Language: en
+
+id: "cordeceps"
+slug: "cordeceps"
+category: "chinese-herbs"
+title: "Cordyceps"
+scientific_name: "Cordyceps sinensis (BerK.) Sacc."
+image: "images/cordeceps.jpg"
+
+history: |
+  Cordyceps is a traditional Chinese medicinal herb which has been used for centuries as a food, albeit a rare, expensive one. It has an extensive history of use in maintaining the health of the lung and respirating system. It first appeared in Omissions from the Grand Materia Medica.
+
+introduction: |
+  The stroma formed by Cordyceps sinensis (berk.) Sacc. parasitised on the larva of hepialus armoricanus Oberthru. Both the stroma and the dead larva are used medicinally.
+
+traditional_usage: |
+  Cordyceps is a precious herb derived from a parasitic fungus that grows on a Tibetan caterpillar. Specimens gathered in the wild, particularly in the Tibetan regions, are thought to be the most medicinally potent. Both the fungus and the caterpillar are used, combining yin and yang elements. Cordyceps enhances kidney, lung and immune functions, helps to tonify kidney yin and lung yin and soothes kidney symptoms and chronic breathing discomforts. It also promotes longevity, strengthens overall energy, rejuvenates the body and is suitable for use all in all seasons. It is the best remedy for balancing bodily yin and yang.
+
+modern_research: |
+  A series of studies has shown that the herb has respiratory, renal, hepatic, cardiovascular, immunologic and nervous system enhancing properties. Cordyceps has proved to be extremely safe, even at very high doses and after prolonged use.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/cordyceps/"
+  scraped_at: "2026-02-18T03:33:23.499Z"
+  language: "en"

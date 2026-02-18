@@ -1,0 +1,25 @@
+# 牡蛎
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%89%a1%e8%9b%8e/
+# Language: zh-CN
+
+id: "muli"
+slug: "muli"
+category: "chinese-herbs"
+title: "牡蛎"
+scientific_name: "Ostrea Gigas"
+image: "images/muli.jpg"
+
+traditional_usage: |
+  牡蛎味咸、涩，药性微寒，归肝、肾两经。能平肝潜阳，软坚散结，收敛固涩。主治肝阳上亢引起之头晕目眩；痰核、瘰疬、症瘕等积聚之症；牡蛎煅用具收敛制酸作用，可用于治疗胃痛泛酸。
+
+历史: |
+  始载於《神农本草经》，列为上品
+
+简介: |
+  牡蛎动物科牡蛎、大连湾牡蛎或近江牡蛎等的贝壳
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e7%89%a1%e8%9b%8e/"
+  scraped_at: "2026-02-18T03:37:42.057Z"
+  language: "zh-CN"

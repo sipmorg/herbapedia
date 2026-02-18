@@ -1,0 +1,22 @@
+# 维他命 B7 又名生物素
+# Source: https://www.vitaherbapedia.com/cn/shop/vitamins-cn/%e7%bb%b4%e4%bb%96%e5%91%bd-b7-%e5%8f%88%e5%90%8d%e7%94%9f%e7%89%a9%e7%b4%a0/
+# Language: zh-CN
+
+id: "vitaminb7"
+slug: "vitaminb7"
+category: "vitamins"
+title: "维他命 B7 又名生物素"
+scientific_name: "Vitamin H"
+image: "images/vitaminb7.jpg"
+
+traditional_usage: |
+  生物素是水溶性的维他命 B7，在碳水化合物、氨基酸和脂肪新陈代谢中扮演辅酵素的角色。生物素是製造脱氧核糖核酸(DNA)和核糖核酸(RNA)的成份，能帮助细胞成长和複製。
+
+简介: |
+  在食物包括奶酪、肾、肝脏、椰菜花、蛋、蘑菇、坚果、沙丁鱼和鮭鱼中找到。大量的维他命B7也会在肠管由微生物合成。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/vitamins-cn/%e7%bb%b4%e4%bb%96%e5%91%bd-b7-%e5%8f%88%e5%90%8d%e7%94%9f%e7%89%a9%e7%b4%a0/"
+  scraped_at: "2026-02-18T03:39:12.027Z"
+  language: "zh-CN"

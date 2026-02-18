@@ -1,0 +1,21 @@
+# 钾
+# Source: https://www.vitaherbapedia.com/cn/shop/minerals-cn/%e9%92%be/
+# Language: zh-CN
+
+id: "potassium"
+slug: "potassium"
+category: "minerals"
+title: "钾"
+image: "images/potassium.jpg"
+
+traditional_usage: |
+  钾对身体的许多功能都十分重要，包括控制细胞之间的养份传送和放松平滑肌(包括心肌肉)，释放胰岛素时磷酸化作用需要的酵素也需要钾。
+
+简介: |
+  来源包括乾果、糖蜜、马铃薯麵粉、米穀皮、海草、大豆麵粉、香料、向日葵籽和小麦穀皮。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/minerals-cn/%e9%92%be/"
+  scraped_at: "2026-02-18T03:39:23.553Z"
+  language: "zh-CN"

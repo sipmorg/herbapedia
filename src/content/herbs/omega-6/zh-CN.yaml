@@ -1,0 +1,22 @@
+# 奥米加6
+# Source: https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e5%a5%a5%e7%b1%b3%e5%8a%a06/
+# Language: zh-CN
+
+id: "omega-6"
+slug: "omega-6"
+category: "nutrients"
+title: "奥米加6"
+scientific_name: "Gamma-linolenic acid (GLA), Linoleic Acid (LA), Arachidonic Acid (AA) / ω-6 fatty acids"
+image: "images/omega-6.jpg"
+
+functions: |
+  植物油中的亚麻油酸含有丰富的奥米加6脂肪酸, 经人体吸收後便会转换成珈玛次亚麻酸, 并会再分解成二十碳四烯酸。临床研究显示奥米加6脂肪酸能帮助纾缓不同症状，如：心脏问题、顽疾、关节问题、肌肉萎缩、皮肤疾病如痘痘等。奥米加6脂肪酸同时有助避免管道栓塞。
+
+简介: |
+  大部分源於植物油，包括月见草油、紫草油和茶藨子种子油。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e5%a5%a5%e7%b1%b3%e5%8a%a06/"
+  scraped_at: "2026-02-18T03:39:40.561Z"
+  language: "zh-CN"

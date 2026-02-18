@@ -1,0 +1,25 @@
+# 菖蒲
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%8f%96%e8%92%b2-2/
+# Language: zh-CN
+
+id: "brain-01"
+slug: "brain-01"
+category: "chinese-herbs"
+title: "菖蒲"
+scientific_name: "Acorus Tatarinowii"
+image: "images/brain-01.jpg"
+
+traditional_usage: |
+  菖蒲亦即石菖蒲，属於开窍药，药味辛而苦，药性温，归於心、胃、肝经，能豁痰开窍、袪湿宁神、醒脾开胃，常用於痰湿蒙蔽清窍的神昏不清。
+
+历史: |
+  始载於《神农本草经》
+
+简介: |
+  天南星科植物石菖蒲的根茎
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%8f%96%e8%92%b2-2/"
+  scraped_at: "2026-02-18T03:38:02.010Z"
+  language: "zh-CN"

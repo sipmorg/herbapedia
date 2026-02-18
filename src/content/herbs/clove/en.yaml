@@ -1,0 +1,22 @@
+# Clove oil
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/clove-oil/
+# Language: en
+
+id: "clove"
+slug: "clove"
+category: "western-herbs"
+title: "Clove oil"
+scientific_name: "Eugenia caryophyllata (Thumb)"
+image: "images/clove.jpg"
+
+introduction: |
+  Derived from the clove plant, Syzygium aromaticum, the oil may be extracted from the leaves, stems and buds by steam distillation.
+
+traditional_usage: |
+  Spicy smelling clove oil has been used for centuries in connection with respiratory ailments such as asthma and bronchitis; muscle aches, sprains and strains; and arthritis and rheumatism. Many individuals use clove oil for its analgesic effects, including treating mouth ulcers and toothache. Clove oil is also a constituent of Narayan Oil, an ayurvedic treatment for aches and pains.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/clove-oil/"
+  scraped_at: "2026-02-18T03:34:46.883Z"
+  language: "en"

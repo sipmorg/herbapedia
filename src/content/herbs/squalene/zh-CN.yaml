@@ -1,0 +1,21 @@
+# 角鲨烯
+# Source: https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e8%a7%92%e9%b2%a8%e7%83%af/
+# Language: zh-CN
+
+id: "squalene"
+slug: "squalene"
+category: "nutrients"
+title: "角鲨烯"
+image: "images/squalene.jpg"
+
+traditional_usage: |
+  角鲨烯能对抗游离基，保护肌肤免受阳光和其它物质带来的氧化伤害。角鲨烯具滋润的特性，能迅速渗入肌肤，润而不腻。
+
+简介: |
+  鲨鱼肝油含大量角鲨烯，另外橄榄油、小麦胚油、米穀皮油和酵母都含有小量角鲨烯。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e8%a7%92%e9%b2%a8%e7%83%af/"
+  scraped_at: "2026-02-18T03:39:57.218Z"
+  language: "zh-CN"

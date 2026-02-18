@@ -1,0 +1,25 @@
+# Evodia Fruit
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/evodia-fruit/
+# Language: en
+
+id: "evodia-fruit"
+slug: "evodia-fruit"
+category: "chinese-herbs"
+title: "Evodia Fruit"
+scientific_name: "Evodia rutaecarpa"
+image: "images/evodia-fruit.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica.
+
+introduction: |
+  From the nearly matured fruit of Evodia rutaecarpa (Juss.) Benth., family Rutaceae.
+
+traditional_usage: |
+  Acrid, hot and bitter in nature, this herb made from the fruit of the Evodia enters the kidney, spleen, liver and stomach meridians. It expels cold, dries dampness, activates chi circulation, alleviates pain and warms the middle burner (stomach and spleen) to stop vomiting and diarrhoea. It is particularly suitable for treating stomach problems and abdominal pain caused by cold and dampness or excess liver heat.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/evodia-fruit/"
+  scraped_at: "2026-02-18T03:33:33.333Z"
+  language: "en"

@@ -1,0 +1,25 @@
+# 月见草油
+# Source: https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e6%9c%88%e8%a7%81%e8%8d%89%e6%b2%b9/
+# Language: zh-CN
+
+id: "evening-primrose-oil"
+slug: "evening-primrose-oil"
+category: "western-herbs"
+title: "月见草油"
+scientific_name: "Oenothera biennis L."
+image: "images/evening-primrose-oil.jpg"
+
+traditional_usage: |
+  月见草油有丰富的脂肪酸，尤以伽玛次亚麻酸最为丰富。脂肪酸是人体必需的要素，临床研究指出，缺乏伽玛次亚麻酸与湿疹、经前综合症、糖尿周边神经病变有关，而进食月见草油则有助改善此情况。
+
+历史: |
+  月见草是原产於北美的植物。传统应用於外搽皮肤以治疗皮肤病，内服治理呼吸问题和关节不适。月见草在16 世纪被移居民带回欧洲，是其中一种最早的药用植物。
+
+简介: |
+  清澈、金黄色的月见草油是从月见草种子经冷冻挤压或溶解提取而成。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e6%9c%88%e8%a7%81%e8%8d%89%e6%b2%b9/"
+  scraped_at: "2026-02-18T03:38:40.665Z"
+  language: "zh-CN"

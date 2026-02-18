@@ -1,0 +1,25 @@
+# Zhiko
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/zhiko/
+# Language: en
+
+id: "constipation-01"
+slug: "constipation-01"
+category: "chinese-herbs"
+title: "Zhiko"
+scientific_name: "Citrus aurantium L."
+image: "images/constipation-01.jpg"
+
+history: |
+  First appeared in Grandfather Lei's Discussion of Herb Preparation.
+
+introduction: |
+  The immature fruit of Citrus aurantium L., family Rutaceae.
+
+traditional_usage: |
+  Aurantii Fructus is the immature fruit of the bitter orange. It has bitter, acrid, cooling properties and enters the spleen, stomach and large intestine channels. Its properties are very similar in nature although stronger to those of the ripe fruit, which is frequently used to move the chi and reduce distention and pressure, and is especially appropriate when a patient is deficient and weak. If there is constipation, the immature fruits are more suitable.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/zhiko/"
+  scraped_at: "2026-02-18T03:34:32.525Z"
+  language: "en"

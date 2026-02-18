@@ -1,0 +1,25 @@
+# 升麻
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%8d%87%e9%ba%bb/
+# Language: zh-HK
+
+id: "replenishingchi-01"
+slug: "replenishingchi-01"
+category: "chinese-herbs"
+title: "升麻"
+scientific_name: "Cimicifuga heracleifolia Kom."
+image: "images/replenishingchi-01.jpg"
+
+traditional_usage: |
+  升麻是常用的發散風熱藥，藥味辛、甘，藥性微寒，歸肺、脾、胃、大腸經，能清熱解毒、發表透疹；又能升舉陽氣，常用於氣虛下陷所致的器官下垂、崩漏下血等，常與黨蔘、黃蓍等中藥同用。
+
+歷史: |
+  始載於《神農本草經》，列為上品
+
+簡介: |
+  毛茛科植物升麻的根莖
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e5%8d%87%e9%ba%bb/"
+  scraped_at: "2026-02-18T04:02:12.844Z"
+  language: "zh-HK"

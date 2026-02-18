@@ -1,0 +1,25 @@
+# 淫羊藿
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e6%b7%ab%e7%be%8a%e8%97%bf/
+# Language: zh-HK
+
+id: "men-01"
+slug: "men-01"
+category: "chinese-herbs"
+title: "淫羊藿"
+scientific_name: "Epimedium brevicornum"
+image: "images/men-01.jpg"
+
+traditional_usage: |
+  淫羊藿是常用壯陽中藥，藥味辛、甘，藥性溫，歸肝腎經，能溫腎壯陽，強筋骨，袪風濕，常用於腎陽虛引起的性功能下降、尿頻、筋骨痺痛等等，亦常用於調理男士身體。
+
+歷史: |
+  始載於《神農本草經》
+
+簡介: |
+  小檗科植物淫羊藿的地上部份，又稱仙靈脾。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e6%b7%ab%e7%be%8a%e8%97%bf/"
+  scraped_at: "2026-02-18T04:02:37.921Z"
+  language: "zh-HK"

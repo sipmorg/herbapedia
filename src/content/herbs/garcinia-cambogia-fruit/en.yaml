@@ -1,0 +1,22 @@
+# Garcinia Cambogia Fruit
+# Source: https://www.vitaherbapedia.com/en/shop/westherbs-en/garcinia-cambogia-fruit/
+# Language: en
+
+id: "garcinia-cambogia-fruit"
+slug: "garcinia-cambogia-fruit"
+category: "western-herbs"
+title: "Garcinia Cambogia Fruit"
+scientific_name: "Garcinia Cambogia"
+image: "images/garcinia-cambogia-fruit.jpg"
+
+introduction: |
+  Garcinia Cambogia is a fruit common to India and Southeast Asia.
+
+traditional_usage: |
+  Garcinia Cambogia is a pumpkin-like fruit that contains the active ingredient hydroxycitric acid (HCA), which is used as a weight-loss aid. HCA can inhibit an enzyme in cells, citrate lyase, which is needed for the conversion of carbohydrates into fat, thus suppressing the synthesis of fat and aiding in weight control.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/westherbs-en/garcinia-cambogia-fruit/"
+  scraped_at: "2026-02-18T03:34:52.292Z"
+  language: "en"

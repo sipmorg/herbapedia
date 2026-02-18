@@ -1,0 +1,25 @@
+# Baiziren
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/baiziren/
+# Language: en
+
+id: "baiziren"
+slug: "baiziren"
+category: "chinese-herbs"
+title: "Baiziren"
+scientific_name: "Platycladus Orientalis (L)"
+image: "images/baiziren.jpg"
+
+history: |
+  First appeared in Divine Husbandman's Classic of the Materia Medica, classified as upper class.
+
+introduction: |
+  The seed (without the spermoderm) of Biota orientalis (L.) Endl. Family Cupressaceae.
+
+traditional_usage: |
+  Baizren can calm the nerves, relax the bowels and address excessive perspiration. A sweet, neutral herb, it affects the heart, kidney and large intestine meridians. It is a useful treatment for those who suffer insomnia with fidgetiness and palpitations, night sweating caused by a deficiency of yin, and constipation.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/baiziren/"
+  scraped_at: "2026-02-18T03:33:08.004Z"
+  language: "en"

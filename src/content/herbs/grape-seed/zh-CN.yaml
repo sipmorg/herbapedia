@@ -1,0 +1,22 @@
+# 葡萄核
+# Source: https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e8%91%a1%e8%90%84%e6%a0%b8-2/
+# Language: zh-CN
+
+id: "grape-seed"
+slug: "grape-seed"
+category: "western-herbs"
+title: "葡萄核"
+scientific_name: "Vitis vinifera"
+image: "images/grape-seed.jpg"
+
+traditional_usage: |
+  葡萄核蕴含丰富抗氧化剂和生物类黄酮，有助保护细胞免受由氧化和游离基造成之损害。葡萄核能促进健康循环，稳定胶原蛋白和弹性蛋白，改善和保护皮肤的弹性。
+
+简介: |
+  葡萄核提取自葡萄的种子。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e8%91%a1%e8%90%84%e6%a0%b8-2/"
+  scraped_at: "2026-02-18T03:38:53.313Z"
+  language: "zh-CN"

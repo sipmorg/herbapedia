@@ -1,0 +1,21 @@
+# 甲殼素
+# Source: https://www.vitaherbapedia.com/zh/shop/nutrients/%e7%94%b2%e6%ae%bc%e7%b4%a0/
+# Language: zh-HK
+
+id: "chitosan"
+slug: "chitosan"
+category: "nutrients"
+title: "甲殼素"
+image: "images/chitosan.jpg"
+
+functions: |
+  甲殼素被形容為一塊「吸脂磁鐵」，能從消化系統中吸取多餘脂肪，然後排出體外，讓甲殼素使用者輕鬆減去體重，免除節食的煩惱。
+
+簡介: |
+  甲殼素由蟹殼質經反乙鹽化所產生；蟹殼質是甲殼綱動物如蟹及蝦的外殼的構成元素。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/nutrients/%e7%94%b2%e6%ae%bc%e7%b4%a0/"
+  scraped_at: "2026-02-18T04:04:56.468Z"
+  language: "zh-HK"

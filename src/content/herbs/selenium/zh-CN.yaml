@@ -1,0 +1,21 @@
+# 硒
+# Source: https://www.vitaherbapedia.com/cn/shop/minerals-cn/%e7%a1%92-2/
+# Language: zh-CN
+
+id: "selenium"
+slug: "selenium"
+category: "minerals"
+title: "硒"
+image: "images/selenium.jpg"
+
+traditional_usage: |
+  硒是体内麸胱甘肽过氧化酶构成物质，它能保护多元不饱和脂肪酸免受氧化，减低由游离基对组织所造成的损害。
+
+简介: |
+  巴西坚果、牛油、麵粉、鱼、龙虾和胡瓜鱼都含有硒。然而，作粮食用的植物和动物中的硒份量，会受其种植土壤及餵食动物中的硒份量所影响。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/minerals-cn/%e7%a1%92-2/"
+  scraped_at: "2026-02-18T03:39:20.613Z"
+  language: "zh-CN"

@@ -1,0 +1,22 @@
+# 琥珀
+# Source: https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e7%90%a5%e7%8f%80-2/
+# Language: zh-CN
+
+id: "amber"
+slug: "amber"
+category: "western-herbs"
+title: "琥珀"
+scientific_name: "Succinum"
+image: "images/amber.jpg"
+
+traditional_usage: |
+  琥珀是树脂或树汁液演变的化石。世界上大部分琥珀已有叁千至九千万年历史。维特健灵选用波罗的海琥珀 - Succinum, 其化学物 succinic acid，传统用作纾缓关节疼痛。琥珀除了拥有如宝石的外表，其药效价值亦早被肯定。琥珀能安神定惊、使精神平静，促进血液循环，有助改善月经不调、减淡红印和促进痊癒。
+
+简介: |
+  琥珀多出现于陈腐的树脂或树坑道。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/westherbs-cn/%e7%90%a5%e7%8f%80-2/"
+  scraped_at: "2026-02-18T03:38:43.494Z"
+  language: "zh-CN"

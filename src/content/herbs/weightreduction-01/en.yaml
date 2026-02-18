@@ -1,0 +1,28 @@
+# Jiaogulan
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/jiaogulan/
+# Language: en
+
+id: "weightreduction-01"
+slug: "weightreduction-01"
+category: "chinese-herbs"
+title: "Jiaogulan"
+scientific_name: "Gynostemma pentaphyllum"
+image: "images/weightreduction-01.jpg"
+
+history: |
+  First appeared in Qiu Fang Ben Cao.
+
+introduction: |
+  The herb or root of Gynostermma pentaphyllum (Thunb.) makino, family Cucurbitaceae.
+
+traditional_usage: |
+  A sweet, bitter tasting herb that is cold in nature, Jiaogulan enters the lung and heart meridians. It clears heat and toxicity, generates fluids and moistens the intestines. It is commonly used to treat chronic disorder such as asthma, migraines, neuralgia and problems with the respiratory and gastrointestinal tracts. It is also useful for lowering blood pressure and cholesterol.
+
+modern_research: |
+  Clinical studies have found jiaogulan to have immunostimulant, cardiovascular and anti-ageing properties as well as being able to lower cholesterol in laboratory animals.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/jiaogulan/"
+  scraped_at: "2026-02-18T03:33:46.359Z"
+  language: "en"

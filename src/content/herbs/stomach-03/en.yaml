@@ -1,0 +1,28 @@
+# Shenqu
+# Source: https://www.vitaherbapedia.com/en/shop/chiherbs-en/shenqu/
+# Language: en
+
+id: "stomach-03"
+slug: "stomach-03"
+category: "chinese-herbs"
+title: "Shenqu"
+scientific_name: "Massa Fermentata"
+image: "images/stomach-03.jpg"
+
+history: |
+  First appeared in Materia Medica of Medicinal Properties.
+
+introduction: |
+  A leavened preparation containing a mixture of flour, wheat bran and several herbs.
+
+traditional_usage: |
+  Shenqu, a leavened mixture of grains and herbs, is sweet, acrid and warm in nature. It enters the spleen and stomach meridians to aid in the digestion and absorption of nutrients, reduce food stagnation and bring harmony and balance to the stomach.
+
+modern_research: |
+  Shenqu contains many different enzymes which aid the digestion of carbohydrates, and has been found to be extremely effective in treating indigestion in infants and young children.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/chiherbs-en/shenqu/"
+  scraped_at: "2026-02-18T03:34:11.705Z"
+  language: "en"

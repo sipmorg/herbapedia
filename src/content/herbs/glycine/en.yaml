@@ -1,0 +1,22 @@
+# Glycine
+# Source: https://www.vitaherbapedia.com/en/shop/nutrients-en/glycine/
+# Language: en
+
+id: "glycine"
+slug: "glycine"
+category: "nutrients"
+title: "Glycine"
+scientific_name: "l-glycine"
+image: "images/glycine.jpg"
+
+introduction: |
+  Protein-rich foods contain good amounts of glycine. It is found in fish, meat, beans and dairy products.
+
+traditional_usage: |
+  Glycine is an amino acid of major importance in the production of many substances in the human body. It helps synthesise protein and amino acids, construct nucleic acids (our genetic material) and convert glucose into energy. It is also involved in the synthesis of bile and therefore vital for a healthy digestive system. Glycine is also a neurotransmitter in the central nervous system.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/nutrients-en/glycine/"
+  scraped_at: "2026-02-18T03:35:44.917Z"
+  language: "en"

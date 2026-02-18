@@ -1,0 +1,21 @@
+# 角鯊烯
+# Source: https://www.vitaherbapedia.com/zh/shop/nutrients/%e8%a7%92%e9%af%8a%e7%83%af/
+# Language: zh-HK
+
+id: "squalene"
+slug: "squalene"
+category: "nutrients"
+title: "角鯊烯"
+image: "images/squalene.jpg"
+
+traditional_usage: |
+  角鯊烯能對抗游離基，保護肌膚免受陽光和其它物質帶來的氧化傷害。角鯊烯具滋潤的特性，能迅速滲入肌膚，潤而不膩。
+
+簡介: |
+  鯊魚肝油含大量角鯊烯，另外橄欖油、小麥胚油、米穀皮油和酵母都含有小量角鯊烯。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/nutrients/%e8%a7%92%e9%af%8a%e7%83%af/"
+  scraped_at: "2026-02-18T04:05:08.394Z"
+  language: "zh-HK"

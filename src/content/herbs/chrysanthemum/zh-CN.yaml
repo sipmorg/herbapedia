@@ -1,0 +1,25 @@
+# 菊花 又名杭菊
+# Source: https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%8f%8a%e8%8a%b1-%e5%8f%88%e5%90%8d%e6%9d%ad%e8%8f%8a-2/
+# Language: zh-CN
+
+id: "chrysanthemum"
+slug: "chrysanthemum"
+category: "chinese-herbs"
+title: "菊花 又名杭菊"
+scientific_name: "Chrysanthemum morifolium Ramat."
+image: "images/chrysanthemum.jpg"
+
+traditional_usage: |
+  菊花是常用的疏散风热药，药味甘、辛而苦，药性微寒，归肝、肺经，能疏散风热、平肝明目、清热解毒，除用於风热感冒外，亦常用於风热之邪所致的目赤、眩晕等。
+
+历史: |
+  始载於《神农本草经》，列为上品
+
+简介: |
+  菊科植物菊的头状花序
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/chiherbs-cn/%e8%8f%8a%e8%8a%b1-%e5%8f%88%e5%90%8d%e6%9d%ad%e8%8f%8a-2/"
+  scraped_at: "2026-02-18T03:38:00.989Z"
+  language: "zh-CN"

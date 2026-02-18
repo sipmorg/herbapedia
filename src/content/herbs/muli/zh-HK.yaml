@@ -1,0 +1,25 @@
+# 牡蠣
+# Source: https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%89%a1%e8%a0%a3/
+# Language: zh-HK
+
+id: "muli"
+slug: "muli"
+category: "chinese-herbs"
+title: "牡蠣"
+scientific_name: "Ostrea Gigas"
+image: "images/muli.jpg"
+
+traditional_usage: |
+  牡蠣味鹹、澀，藥性微寒，歸肝、腎兩經。能平肝潛陽，軟堅散結，收斂固澀。主治肝陽上亢引起之頭暈目眩；痰核、瘰癧、癥瘕等積聚之症；牡蠣煅用具收斂制酸作用，可用於治療胃痛泛酸。
+
+歷史: |
+  始載於《神農本草經》，列為上品
+
+簡介: |
+  牡蠣動物科牡蠣、大連灣牡蠣或近江牡蠣等的貝殼
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/zh/shop/chiherbs/%e7%89%a1%e8%a0%a3/"
+  scraped_at: "2026-02-18T04:02:47.983Z"
+  language: "zh-HK"

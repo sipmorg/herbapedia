@@ -1,0 +1,21 @@
+# Phospholipids
+# Source: https://www.vitaherbapedia.com/en/shop/nutrients-en/phospholipids/
+# Language: en
+
+id: "phospholipids"
+slug: "phospholipids"
+category: "nutrients"
+title: "Phospholipids"
+image: "images/phospholipids.jpg"
+
+introduction: |
+  The most common phospholipid is lecithin found in egg yolk.
+
+traditional_usage: |
+  Phospholipids are organic molecules commonly found in cell membranes which play an important role in keeping skin smooth and soft. They have an affinity with both oil and water, which makes them surfactants and emulsifiers. They can increase the hydration levels of the skin without being occlusive (forming a film to prevent water loss, and preventing normal cellular function). Environmental factors (sun, wind, pollution) actually strip the natural phospholipid content from the top layer of skin giving it a rough feel and a pitted appearance under a microscope.
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/en/shop/nutrients-en/phospholipids/"
+  scraped_at: "2026-02-18T03:35:58.747Z"
+  language: "en"

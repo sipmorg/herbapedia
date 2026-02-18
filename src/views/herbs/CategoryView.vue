@@ -19,7 +19,7 @@
           :to="`/herbs/${herb.category}/${herb.slug}`"
           :title="herb.title"
           :scientific-name="herb.scientific_name"
-          :image="herb.image"
+          :image="herb.resolvedImage"
           :category="herb.category"
         />
       </div>
@@ -49,13 +49,32 @@ const categoryTitles = {
 
 const categoryTitle = computed(() => categoryTitles[category.value] || category.value)
 
-// Import all herb data
-const herbsModules = import.meta.glob('/src/content/herbs/*.yaml', { eager: true })
+// Import all herb data (new structure: herbs/{slug}/en.yaml)
+const herbsModules = import.meta.glob('/src/content/herbs/*/en.yaml', { eager: true })
+
+// Import all images
+const imageModules = import.meta.glob('/src/content/herbs/*/images/*.jpg', { eager: true, as: 'url' })
 
 const allHerbs = Object.entries(herbsModules)
-  .filter(([path]) => !path.endsWith('index.yaml'))
-  .map(([, module]) => module?.default || module)
-  .filter(data => data && data.title)
+  .map(([path, module]) => {
+    const data = module?.default || module
+    if (data && data.title) {
+      // Extract slug from path
+      const slugMatch = path.match(/\/([^/]+)\/en\.yaml$/)
+      if (slugMatch) {
+        data.slug = data.slug || slugMatch[1]
+
+        // Resolve image URL
+        const imagePath = `/src/content/herbs/${data.slug}/images/${data.slug}.jpg`
+        if (imageModules[imagePath]) {
+          data.resolvedImage = imageModules[imagePath]
+        }
+      }
+      return data
+    }
+    return null
+  })
+  .filter(data => data !== null)
 
 const filteredHerbs = computed(() =>
   allHerbs.filter(herb => herb.category === category.value)

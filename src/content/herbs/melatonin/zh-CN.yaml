@@ -1,0 +1,21 @@
+# 褪黑激素
+# Source: https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e8%a4%aa%e9%bb%91%e6%bf%80%e7%b4%a0-2/
+# Language: zh-CN
+
+id: "melatonin"
+slug: "melatonin"
+category: "nutrients"
+title: "褪黑激素"
+image: "images/melatonin.jpg"
+
+traditional_usage: |
+  褪黑激素是一种能调节人体生理时钟的荷尔蒙。一项以青少年为研究对象的双盲研究结果显示褪黑激素能促进睡眠。另一项以健康成年人为对象的研究发现褪黑激素显著地缩短入睡时间，减少晚上的觉醒的次数，改善睡眠质素。褪黑激素能显著减少时差问题, 有助精神和敏感度迅速恢复。
+
+简介: |
+  万通灵是由脑中的松果腺产生。
+
+metadata:
+  source: "vitaherbapedia.com"
+  source_url: "https://www.vitaherbapedia.com/cn/shop/nutrients-cn/%e8%a4%aa%e9%bb%91%e6%bf%80%e7%b4%a0-2/"
+  scraped_at: "2026-02-18T03:39:55.310Z"
+  language: "zh-CN"
