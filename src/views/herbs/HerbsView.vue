@@ -4,7 +4,7 @@
     <section class="herbs-hero">
       <div class="herbs-hero__background">
         <img
-          src="/@herbapedia/data/media/images/banners/tcm-banner.jpg"
+          :src="heroImage"
           alt=""
           class="herbs-hero__bg-image"
           @error="handleImageError"
@@ -62,6 +62,9 @@ const { t, locale } = useI18n()
 const route = useRoute()
 
 const localizer = useHerbLocalizer()
+
+// Hero image path - dynamic to avoid static analysis
+const heroImage = '/@herbapedia/data/media/images/banners/tcm-banner.jpg'
 
 // Get all herbs
 const allHerbs = useAllHerbs()

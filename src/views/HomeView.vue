@@ -3,7 +3,7 @@
     <section class="hero">
       <div class="hero__background">
         <img
-          src="/@herbapedia/data/media/images/banners/tcm-banner.jpg"
+          :src="heroImage"
           alt=""
           class="hero__bg-image"
           @error="handleHeroError"
@@ -66,6 +66,9 @@ import { useCategories } from '@/composables/useHerbData'
 import { DEFAULT_LOCALE } from '@/i18n/locales'
 
 const { t, locale } = useI18n()
+
+// Hero image path - dynamic to avoid static analysis
+const heroImage = '/@herbapedia/data/media/images/banners/tcm-banner.jpg'
 
 // Get categories with localized titles
 const categoriesData = useCategories()
