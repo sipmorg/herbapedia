@@ -5,10 +5,17 @@ import { resolve } from 'path'
 import fs from 'fs'
 import path from 'path'
 
+// Find data-herbapedia directory - try both locations
+function getDataDir() {
+  const localDataDir = path.resolve(__dirname, '../data-herbapedia')
+  const ciDataDir = path.resolve(__dirname, './data-herbapedia')
+  return fs.existsSync(localDataDir) ? localDataDir : ciDataDir
+}
+
 // Plugin to serve media files from data-herbapedia in dev mode
 // and copy them in build mode
 function mediaPlugin() {
-  const dataDir = path.resolve(__dirname, '../data-herbapedia')
+  const dataDir = getDataDir()
   const mediaDir = path.join(dataDir, 'media')
 
   return {
@@ -96,7 +103,7 @@ export default defineConfig({
   resolve: {
     alias: {
       '@': resolve(__dirname, 'src'),
-      '@herbapedia/data': resolve(__dirname, '../data-herbapedia')
+      '@herbapedia/data': getDataDir()
     }
   },
   ssgOptions: {
@@ -114,8 +121,8 @@ export default defineConfig({
       // Categories
       const categories = ['chinese-herbs', 'western-herbs', 'vitamins', 'minerals', 'nutrients']
 
-      // Try to use JSON-LD data from @herbapedia/data
-      const dataDir = path.resolve(__dirname, '../data-herbapedia')
+      // Use JSON-LD data from data-herbapedia
+      const dataDir = getDataDir()
       const plantsDir = path.join(dataDir, 'entities/plants')
       const tcmDir = path.join(dataDir, 'systems/tcm/herbs')
 
